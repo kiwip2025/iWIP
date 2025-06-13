@@ -1,0 +1,26 @@
+baseURL: "https://matthiassoell.github.io/iWIP/"
+languageCode: "de-de"
+title: "SciBlog iWIP"
+theme: "papermod"
+
+params:
+  logo: "/iWIP/bilder/logo_siblog_iwip.png"
+  defaultTheme: "auto"
+  ShowReadingTime: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - identifier: oer
+      name: OER
+      url: /oer/
+      weight: 10
+
+    - identifier: bisy
+      name: BiSy
+      url: /bisy/
+      weight: 20
