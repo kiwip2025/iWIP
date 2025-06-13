@@ -1,7 +1,7 @@
 baseURL = "https://matthiassoell.github.io/iWIP/"
 languageCode = "de-de"
 title = "SciBlog iWIP"
-theme = "papermod"
+theme = ["github.com/adityatelange/hugo-PaperMod", "github.com/joshed-io/reveal-hugo"]
 
 [params]
   hideFooter = true
@@ -36,3 +36,15 @@ theme = "papermod"
     name = "BiSy"
     url = "/bisy/"
     weight = 20
+
+[outputs]
+home = ["HTML"]
+page = ["HTML", "Reveal"]
+
+[outputFormats.Reveal]
+name = "Reveal"
+mediaType = "text/html"
+baseName = "index"
+isPlainText = false
+isHTML = true
+noUgly = true
