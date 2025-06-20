@@ -1,7 +1,7 @@
 ---
 title: "Meine Präsentation"
 outputs: ["Reveal"]
-reveal_theme: simple
+reveal_theme: white
 ---
 
 # 🎓 Slide 1

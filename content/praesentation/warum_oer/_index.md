@@ -1,7 +1,7 @@
 ---
 title: "Warum OER?"
 outputs: ["Reveal"]
-reveal_theme: simple
+reveal_theme: white
 ---
 
 ## Was sind OER?

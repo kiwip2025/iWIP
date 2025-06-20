@@ -48,3 +48,7 @@ baseName = "index"
 isPlainText = false
 isHTML = true
 noUgly = true
+
+[params.reveal_hugo]
+theme = "white"
+slide_number = "c/t"
