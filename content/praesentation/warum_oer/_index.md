@@ -4,6 +4,10 @@ outputs: ["Reveal"]
 reveal_theme: white
 ---
 
+<div class="top-toggle">
+  <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
+</div>
+
 ## Was sind OER?
 
 > OER = Open Educational Resources = freie Bildungsmaterialien  

@@ -8,6 +8,10 @@ tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
 
+<div class="top-toggle">
+  <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
+</div>
+
 ## Was sind OER?
 > OER = Open Educational Resources = freie Bildungsmaterialien  
 
