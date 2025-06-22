@@ -52,3 +52,4 @@ noUgly = true
 [params.reveal_hugo]
 theme = "white"
 slide_number = "c/t"
+custom_theme = "/iWIP/css/custom.css"

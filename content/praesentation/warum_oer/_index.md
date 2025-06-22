@@ -1,7 +1,6 @@
 ---
 title: "Warum OER?"
 outputs: ["Reveal"]
-reveal_theme: white
 ---
 
 <div class="top-toggle">
