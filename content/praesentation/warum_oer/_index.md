@@ -1,6 +1,13 @@
 ---
 title: "Warum OER?"
-outputs: ["Reveal"]
+outputs:
+  - Reveal
+logo:
+  src: "/iWIP/bilder/logo_siblog_iwip.png"
+  alt: "Mein Logo"
+  width: "4%"
+  top: "5%"
+  left: "3%"
 ---
 
 <div class="top-toggle">
