@@ -4,6 +4,11 @@
     <title>Impressum on SciBlog iWIP</title>
     <link>http://localhost:1313/iWIP/impressum/</link>
     <description>Recent content in Impressum on SciBlog iWIP</description>
+    <image>
+      <title>SciBlog iWIP</title>
+      <url>http://localhost:1313/iWIP/bilder/logo_siblog_iwip.png</url>
+      <link>http://localhost:1313/iWIP/bilder/logo_siblog_iwip.png</link>
+    </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>de-de</language>
     <lastBuildDate></lastBuildDate>
