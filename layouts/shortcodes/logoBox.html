@@ -1,0 +1,28 @@
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    const logoBox = document.createElement("div");
+    logoBox.style.position = "fixed";
+    logoBox.style.top = "1rem";
+    logoBox.style.left = "1rem";
+    logoBox.style.display = "flex";
+    logoBox.style.alignItems = "center";
+    logoBox.style.gap = "0.5rem";
+    logoBox.style.zIndex = "9999";
+
+    const img = document.createElement("img");
+    img.src = "{{ .Get "src" }}";
+    img.alt = "Logo";
+    img.style.height = "60px";
+
+    const span = document.createElement("span");
+    span.textContent = "{{ .Get "text" }}";
+    span.style.fontSize = "1.6em";
+    span.style.fontWeight = "bold";
+    span.style.color = getComputedStyle(document.documentElement).getPropertyValue('--uni-blau');
+    span.style.fontFamily = "-apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif";
+
+    logoBox.appendChild(img);
+    logoBox.appendChild(span);
+    document.body.appendChild(logoBox);
+  });
+</script>

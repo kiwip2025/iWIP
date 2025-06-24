@@ -2,13 +2,15 @@
 title: "Warum OER?"
 outputs:
   - Reveal
-logo:
-  src: "/iWIP/bilder/logo_siblog_iwip.png"
-  alt: "Mein Logo"
-  width: "4%"
-  top: "5%"
-  left: "3%"
+## logo:
+##  src: "/iWIP/bilder/logo_siblog_iwip.png"
+##  alt: "Mein Logo"
+##  width: "4%"
+##  top: "5%"
+##  left: "3%"
 ---
+
+{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
 
 <div class="top-toggle">
   <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
