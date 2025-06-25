@@ -16,9 +16,9 @@ outputs:
 
 **Prof. Dr. Matthias Söll**
 
-<footer class="footer">
-  © 2025 Matthias Söll · <a href="https://matthiassoell.github.io/iWIP/">SciBlog iWIP</a> · <a href="/impressum">Impressum</a>
-</footer>
+<div class="footer">
+  &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
+</div>
 
 ---
 
