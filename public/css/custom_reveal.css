@@ -24,6 +24,7 @@
 .reveal h5,
 .reveal h6 {
   color: var(--uni-blau);
+  text-transform: none;
 }
 
 .reveal ul li:not(:last-child),
@@ -68,4 +69,43 @@ body.dark .top-toggle button:hover {
 .reveal li,
 .reveal p {
   font-size: 1.4vw;
+}
+
+.fragebox-slide {
+  position: relative;
+  width: 100%;
+  height: 80vh; /* oder min-height */
+}
+
+.fragebox-text {
+  position: absolute;
+  top: 25%;              /* vorher: 10% → jetzt weiter unten */
+  right: 10%;
+  background: #bfbfbf;
+  color: black;
+  font-size: 1.5rem;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 40%;
+  text-align: center;
+  z-index: 10;
+}
+
+.fragebox-avatar {
+  position: absolute;
+  bottom: 25%;            /* vorher: 5% → jetzt deutlich höher */
+  left: 25%;
+  height: 220px;
+  z-index: 5;
+}
+
+.reveal .footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  right: 1rem;
+  font-size: 0.7rem;
+  color: #666;
+  text-align: center;
+  z-index: 1000;
 }
