@@ -99,18 +99,97 @@ body.dark .top-toggle button:hover {
   z-index: 5;
 }
 
-.reveal .footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  padding: 0.5rem;
-  font-size: 0.7rem;
-  color: #666;
+/* Footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70vw;
+    background: linear-gradient(to top, #f9f9f9, transparent);
+    color: #6b6b6b;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 0.8em;
+    line-height: 1.6;
+    text-align: center;
+    z-index: 1000;
+    padding: 1em;
+    pointer-events: auto;
+}
+
+.footer a {
+    color: #6b6b6b;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.footer a:hover {
+    color: #000;
+}
+
+/* Zitate Box grün */
+.zitat-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.zitat-container {
+  max-width: 80%;
+  position: relative;
+  z-index: 2;
+}
+
+.zitat-box {
+  background-color: #e0f2f1 !important;     /* helles Grün */
+  border-left: 6px solid #00796b !important; /* türkises Grün */
+  border-radius: 6px;
+  padding: 1em;
+  font-style: italic;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin: 0;
   text-align: center;
-  background: red; /* optional: leichter Hintergrund */
-  z-index: 1000;
-  pointer-events: none;
+}
+
+.zitat-quelle {
+  text-align: right;
+  font-size: 1.4rem !important;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+.quote-char {
+  color: #a5d6a7;         /* hellgrün, pastellig */
+  font-size: 2.0em;       /* z. B. größer */
+  vertical-align: middle; /* oder: text-top, je nach Look */
+  line-height: 0;         /* verhindert Einfluss auf Absatzhöhe */
+}
+
+/* Grosser Emoji */
+.big-emoji {
+  font-size: 6rem;      /* größer als h1 */
+  line-height: 1;       /* kompakt in der Höhe */
+  margin-bottom: 0rem; /* kleiner Abstand danach */
+  text-align: center;   /* optional: zentriert */
+}
+
+.big-emoji + .zitat-wrapper {
+  margin-top: -1.5rem;
+}
+
+/* Spezieller Bullet Point in Aufzählungsliste */
+.special-bullet {
+  list-style: none;           /* entfernt den Standard-Bullet */
+  margin-left: -1em;          /* rückt nach links wie die anderen Bullets */
+  padding-left: 0;            /* optional: verhindert Extraeinrückung */
+}
+
+.special-bullet::before {
+  content: "👉";              /* dein Icon */
+  margin-right: 0.5em;        /* Abstand zum Text */
+  font-size: 1.2em;           /* ggf. anpassen */
 }
 
 /* Vergrößert Text auf kleinen Bildschirmen */

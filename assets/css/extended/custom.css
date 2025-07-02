@@ -71,6 +71,10 @@ body.presentation-view footer {
   display: none;
 }
 
+.footer {
+  line-height: 1.6;
+}
+
 /* Toggles */
 
 .top-toggle {
