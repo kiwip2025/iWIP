@@ -33,7 +33,7 @@ a:hover {
   border-left: 4px solid var(--uni-blau) !important;
   padding-left: 1rem !important;
   margin-left: 0 !important;
-  color: #000000 !important;
+  color: var(--primary) !important;
   background: rgba(1, 74, 153, 0.2) !important;
   font-style: italic !important;
 }
@@ -107,4 +107,10 @@ body.dark .top-toggle button {
 
 body.dark .top-toggle button:hover {
   background: #666;
+}
+
+body.dark .post-content blockquote {
+  color: var(--primary) !important;
+  background: rgba(1, 74, 153, 0.25) !important;
+  border-left: 4px solid var(--uni-blau) !important;
 }
