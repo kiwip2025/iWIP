@@ -1,4 +1,10 @@
+# macOS
 .DS_Store
-*.DS_Store
 .Spotlight-V100
+*.DS_Store
 .Trashes
+
+# Hugo
+/public/
+/resources/
+/hugo_build.lock
