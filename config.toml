@@ -19,6 +19,7 @@ theme = ["github.com/adityatelange/hugo-PaperMod", "github.com/joshed-io/reveal-
 
 [params.assets]
   customCSS = ["css/custom.css"]
+  favicon = "/iWIP/favicon.ico"
 
 [markup]
   [markup.goldmark]

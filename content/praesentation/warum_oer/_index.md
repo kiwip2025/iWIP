@@ -31,15 +31,18 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 
 # Was sind OER?
-> OER =  
-> 
-> Open Educational Resources =  
-> 
-> freie Bildungsmaterialien  
+<div class="definition-container">
+  <div class="definition-avatar">
+    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_1.png" alt="Avatar Erkenntnis" />
+  </div>
+  <div class="definition-box">
+    <p><em>OER =<br>Open Educational Resources =<br>freie Bildungsmaterialien</em></p>
+  </div>
+</div>
 
 ---
 
-# OER sind:
+# OER sind 🎓🌍🔓:
 * Bildungsmaterialien in einem sehr weiten Verständnis (von einer Definition über eine Grafik bis hin zu einem Selbstlernkurse)
 * frei über Online-Plattformen verfügbar (bspw. <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
 * digital (so lässt sich das Material gut teilen)
@@ -48,14 +51,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ---
 
-# Woher kommen OER? UNESCO
+# Woher kommen OER? 🇺🇳 UNESCO
 * Ausgangspunkt der OER-Initiativen ist die <a href="https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf" target="_blank" rel="noopener">Agenda Bildung 2030 (PDF)</a> der UNESCO aus dem Jahr 2015
 * Ziel der Agenda (u. a.): inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit
 * UNESCO (2009) <a href="https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf" target="_blank" rel="noopener"> Empfehlungen zu OER (PDF)</a>: OER als geeignete Mittel zur Zielerreichung
 
 ---
 
-# Woher kommen OER? Deutschland
+# Woher kommen OER? 🇩🇪 Deutschland
 * Das BMFTR (Bundesministerium für Forschung, Technologie und Raumfahrt, ehemals BMBF: Bundesministerium für Bildung und Forschung) fördert OER seit 2016:
   * <a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)
   * <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)
@@ -64,13 +67,21 @@ document.addEventListener("DOMContentLoaded", function () {
   
 ---
 
-  > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
+# 🔎 Noch mehr OER-Wissen?
+
+<div class="definition-container">
+  <div class="definition-box">
+    <p><em>Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.</em></p>
+  </div>
+  <div class="definition-avatar">
+    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_1.png" alt="Avatar Erkenntnis" />
+  </div>
+</div>
 
 ---
 
-# Warum OER? Emotionale Begründung
+# Warum OER? ❤️ Emotionale Begründung
 
-<div class="big-emoji">❤️</div>
 <div class="zitat-wrapper">
   <div class="zitat-container">
     <blockquote class="zitat-box">
@@ -83,17 +94,15 @@ document.addEventListener("DOMContentLoaded", function () {
 <p class="fragment">Ähnlich argumentiert <a href="https://www.bpb.de/shop/zeitschriften/apuz/33204/elinor-ostrom-und-die-wiederentdeckung-der-allmende/" target="_blank" rel="noopener">Elinor Ostrom</a>, erste Nobelpreisträgerin in Wirtschaftswissenschaften 2009, in <a href="https://search.worldcat.org/de/title/897400533" target="_blank" rel="noopener">„Was mehr wird, wenn wir teilen“</a>.</p>
 
 ---
-# Warum OER? Rationale Begründung
-
-<div class="big-emoji">📈</div>
+# Warum OER? 📈 Rationale Begründung
 
 <ul>
-  <li>22.638 neue Büromanagement-Azubis im Jahr 2023</li>
-  <li>22 Schüler:innen gehen ∅lich in eine Klasse</li>
-  <li>1.029 Klassen für Büromanagement-Azubis im 1. Lehrjahr</li>
-  <li class="special-bullet">± 1.000 Lehrer:innen bereiten täglich ≈ Unterricht vor</li>
+  <li>22.638 neue Büromanagement-Azubis im Jahr 2023 👩‍💼</li>
+  <li>22 Schüler:innen gehen ∅lich in eine Klasse 👥</li>
+  <li>1.029 Klassen für Büromanagement-Azubis im 1. Lehrjahr 🏫</li>
+  <li class="special-bullet">± 1.000 Lehrer:innen bereiten täglich ≈ Unterricht vor 👩‍🏫</li>
 </ul>
 
-<blockquote class="fragment fade-in">
-  Das Teilen und gemeinsame Bearbeiten von Bildungsmaterialien steigert die Effizienz der Vorbereitung von Lehr-Lern-Arrangements.
-</blockquote>
+<div class="hinweis-box fragment">
+  ☝️ Das Teilen und gemeinsame Bearbeiten von Bildungsmaterialien steigert die Effizienz der Vorbereitung von Lehr-Lern-Arrangements.
+</div>

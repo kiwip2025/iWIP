@@ -167,6 +167,19 @@ body.dark .top-toggle button:hover {
   line-height: 0;         /* verhindert Einfluss auf Absatzhöhe */
 }
 
+/* Hinweisbox */
+.hinweis-box {
+  font-size: 1.9rem; /* übernimmt die normale Schriftgröße von p etc. */
+  background: #fffbe6;
+  border-left: 6px solid #ffb300;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin: 2rem auto;
+  width: fit-content;
+  max-width: 90%;
+}
+
 /* Grosser Emoji */
 .big-emoji {
   font-size: 6rem;      /* größer als h1 */
@@ -192,6 +205,55 @@ body.dark .top-toggle button:hover {
   font-size: 1.2em;           /* ggf. anpassen */
 }
 
+/* Avatare */
+.definition-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  flex-wrap: wrap; /* sorgt für Umbruch auf kleinen Bildschirmen */
+  margin: 2rem 0;
+}
+
+.definition-avatar img {
+  max-width: 120px;
+  height: auto;
+}
+
+.definition-box {
+  background-color: #e0edff;
+  border-left: 5px solid #007acc;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.9rem;
+  line-height: 1.5;
+  max-width: 70%;
+}
+
+/* Optional: Smartphone-Anpassung */
+@media (max-width: 600px) {
+  .definition-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .definition-avatar img {
+    max-width: 200px;
+  }
+
+  .definition-box {
+    max-width: 90%;
+  }
+}
+
+/* Optional: Avatar zentrieren auf kleinen Screens */
+@media (max-width: 768px) {
+  .definition-avatar-box {
+    flex-direction: column;
+  }
+}
+
 /* Vergrößert Text auf kleinen Bildschirmen */
 @media screen and (orientation: portrait) {
   .reveal section p,
@@ -211,8 +273,11 @@ body.dark .top-toggle button:hover {
 
   .zitat-quelle {
   font-size: 2.2rem !important;
-}
+  }
 
+  .hinweis-box {
+  font-size: 2.8rem; /* übernimmt die normale Schriftgröße von p etc. */
+  }
 }
 
 @media screen and (orientation: landscape) {
@@ -230,4 +295,9 @@ body.dark .top-toggle button:hover {
   .reveal h1 {
     font-size: 3rem;
   }
+
+  .hinweis-box {
+  font-size: 1.9rem; /* übernimmt die normale Schriftgröße von p etc. */
+  }
+
 }
