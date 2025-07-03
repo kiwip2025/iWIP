@@ -8,7 +8,7 @@ draft: false
 ### Herzlich Willkommen!
 
 {{< imgrechts
-  src="/iWIP/bilder/msoell.jpg"
+  src="/iWIP/bilder/qrcode_msoell.png"
   alt="Matthias Söll"
   caption="Matthias Söll"
   subtext="© ITMZ | Universität Rostock<br> – nicht frei verwendbar"

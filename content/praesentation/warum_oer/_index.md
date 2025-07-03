@@ -26,8 +26,13 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 <div class="top-toggle">
-  <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-  <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
+  <div class="top-row">
+    <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
+    <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
+    <a class="qr-icon-button" href="LINK-ZUM-INHALT" title="Zur Präsentation">
+      <img src="qrcode_warum_oer.png" alt="QR-Code">
+    </a>
+  </div>
 </div>
 
 # Was sind OER?
@@ -94,6 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <p class="fragment">Ähnlich argumentiert <a href="https://www.bpb.de/shop/zeitschriften/apuz/33204/elinor-ostrom-und-die-wiederentdeckung-der-allmende/" target="_blank" rel="noopener">Elinor Ostrom</a>, erste Nobelpreisträgerin in Wirtschaftswissenschaften 2009, in <a href="https://search.worldcat.org/de/title/897400533" target="_blank" rel="noopener">„Was mehr wird, wenn wir teilen“</a>.</p>
 
 ---
+
 # Warum OER? 📈 Rationale Begründung
 
 <ul>
@@ -106,3 +112,14 @@ document.addEventListener("DOMContentLoaded", function () {
 <div class="hinweis-box fragment">
   ☝️ Das Teilen und gemeinsame Bearbeiten von Bildungsmaterialien steigert die Effizienz der Vorbereitung von Lehr-Lern-Arrangements.
 </div>
+
+---
+
+# Warum OER? ✨ Qualitative Begründung
+
+
+Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung steigen.
+
+<img class="fragment" data-fragment-index="1" src="OER_qualitaet.png" alt="Kooperative Entwicklung von OER" width="450vw" style="margin-top: -0.1rem;">
+
+<p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>

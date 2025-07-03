@@ -127,6 +127,46 @@ body.dark .top-toggle button:hover {
     color: #000;
 }
 
+.top-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center; /* vertikal mittig */
+}
+
+.qr-icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #f1f1f1;
+  border-radius: 0.5rem;
+  padding: 0.35rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  transition: background 0.2s ease;
+  height: 2.5rem; /* gleiche Höhe wie Buttons */
+  width: 2.5rem;
+  text-decoration: none;
+}
+
+.qr-icon-button:hover {
+  background: #ddd;
+}
+
+.qr-icon-button img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;  /* skaliert das Bild korrekt innerhalb der Fläche */
+  border-radius: 0.25rem;
+}
+
+/* responsiv */
+@media (max-width: 800px) {
+  .qr-icon-button {
+    height: 200px;
+    width: 200px;
+    padding: 0.5rem;
+  }
+}
+
 /* Zitate Box grün */
 .zitat-wrapper {
   height: 100%;
@@ -159,7 +199,7 @@ body.dark .top-toggle button:hover {
 
 .zitat-quelle {
   text-align: right;
-  font-size: 1.4rem !important;
+  font-size: 1.3rem !important;
   color: #555;
   margin-top: 0.5rem;
 }
@@ -169,6 +209,13 @@ body.dark .top-toggle button:hover {
   font-size: 2.0em;       /* z. B. größer */
   vertical-align: middle; /* oder: text-top, je nach Look */
   line-height: 0;         /* verhindert Einfluss auf Absatzhöhe */
+}
+
+.bild-quelle {
+  text-align: right;
+  font-size: 1.3rem !important;
+  color: #555;
+  margin-top: -0.5rem !important;
 }
 
 /* Hinweisbox */
@@ -220,7 +267,7 @@ body.dark .top-toggle button:hover {
 }
 
 .definition-avatar img {
-  max-width: 120px;
+  max-width: 120px; 
   height: auto;
 }
 
@@ -234,8 +281,23 @@ body.dark .top-toggle button:hover {
   max-width: 70%;
 }
 
+.qr-icon {
+  width: 3.8vw;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  opacity: 0.9;
+}
+
 /* Optional: Smartphone-Anpassung */
 @media (max-width: 600px) {
+  .qr-icon {
+  width: 72px;
+  border-radius: 0rem;
+
+  }
+  
   .definition-container {
     flex-direction: column;
     align-items: center;
@@ -278,6 +340,10 @@ body.dark .top-toggle button:hover {
   .zitat-quelle {
   font-size: 2.2rem !important;
   }
+
+.bild-quelle {
+  font-size: 2.2rem !important;
+}
 
   .hinweis-box {
   font-size: 2.8rem; /* übernimmt die normale Schriftgröße von p etc. */
