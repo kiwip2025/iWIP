@@ -142,6 +142,10 @@ body.dark .top-toggle button:hover {
   z-index: 2;
 }
 
+.zitat-container {
+  margin-bottom: -1.0rem;
+}
+
 .zitat-box {
   background-color: #e0f2f1 !important;     /* helles Grün */
   border-left: 6px solid #00796b !important; /* türkises Grün */

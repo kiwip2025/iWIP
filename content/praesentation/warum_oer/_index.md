@@ -67,14 +67,14 @@ document.addEventListener("DOMContentLoaded", function () {
   
 ---
 
-# 🔎 Noch mehr OER-Wissen?
+# 🔎 Noch mehr OER-Infos?
 
 <div class="definition-container">
   <div class="definition-box">
     <p><em>Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.</em></p>
   </div>
   <div class="definition-avatar">
-    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_1.png" alt="Avatar Erkenntnis" />
+    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_2.png" alt="Avatar Erkenntnis" />
   </div>
 </div>
 
