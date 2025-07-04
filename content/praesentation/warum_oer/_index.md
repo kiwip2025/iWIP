@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ---
 
-# Woher kommen OER? 🇩🇪 Deutschland
+# Woher kommen OER? 🇩🇪 GER
 * Das BMFTR (Bundesministerium für Forschung, Technologie und Raumfahrt, ehemals BMBF: Bundesministerium für Bildung und Forschung) fördert OER seit 2016:
   * <a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)
   * <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
 ---
 
-# 🔎 Noch mehr OER-Infos?
+# 🔎 Noch mehr OER Infos?
 
 <div class="definition-container">
   <div class="definition-box">
@@ -120,6 +120,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung steigen.
 
-<img class="fragment" data-fragment-index="1" src="OER_qualitaet.png" alt="Kooperative Entwicklung von OER" width="450vw" style="margin-top: -0.1rem;">
+<img class="fragment responsive-image" data-fragment-index="1" src="OER_qualitaet.png" alt="Kooperative Entwicklung von OER">
 
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>

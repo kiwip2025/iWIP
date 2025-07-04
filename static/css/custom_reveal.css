@@ -158,15 +158,6 @@ body.dark .top-toggle button:hover {
   border-radius: 0.25rem;
 }
 
-/* responsiv */
-@media (max-width: 800px) {
-  .qr-icon-button {
-    height: 200px;
-    width: 200px;
-    padding: 0.5rem;
-  }
-}
-
 /* Zitate Box grün */
 .zitat-wrapper {
   height: 100%;
@@ -174,6 +165,7 @@ body.dark .top-toggle button:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: -1.5rem;
 }
 
 .zitat-container {
@@ -215,7 +207,7 @@ body.dark .top-toggle button:hover {
   text-align: right;
   font-size: 1.3rem !important;
   color: #555;
-  margin-top: -0.5rem !important;
+  margin-top: 0.8rem !important;
 }
 
 /* Hinweisbox */
@@ -320,12 +312,25 @@ body.dark .top-toggle button:hover {
   }
 }
 
+/* Responsive Bildgrößenanpassung */
+
+.reveal section img.responsive-image {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  height: auto;
+}
+
 /* Vergrößert Text auf kleinen Bildschirmen */
 @media screen and (orientation: portrait) {
   .reveal section p,
   .reveal section li {
     font-size: 2.8rem;
     line-height: 1.6;
+  }
+
+  .reveal section img.responsive-image {
+    width: 90%;
   }
 
   .top-toggle button {
@@ -341,13 +346,18 @@ body.dark .top-toggle button:hover {
   font-size: 2.2rem !important;
   }
 
-.bild-quelle {
+  .bild-quelle {
   font-size: 2.2rem !important;
-}
+  }
 
   .hinweis-box {
   font-size: 2.8rem; /* übernimmt die normale Schriftgröße von p etc. */
   }
+
+  .qr-icon-button {
+    display: none;
+  }
+
 }
 
 @media screen and (orientation: landscape) {
@@ -355,6 +365,10 @@ body.dark .top-toggle button:hover {
   .reveal section li {
     font-size: 1.9rem;
     line-height: 1.5;
+  }
+
+  .reveal section img.responsive-image {
+    width: 50%;
   }
 
   .top-toggle button {
@@ -368,6 +382,10 @@ body.dark .top-toggle button:hover {
 
   .hinweis-box {
   font-size: 1.9rem; /* übernimmt die normale Schriftgröße von p etc. */
+  }
+
+  .qr-icon-button {
+    display: none;
   }
 
 }
