@@ -12,11 +12,11 @@
     const img = document.createElement("img");
     img.src = "{{ .Get "src" }}";
     img.alt = "Logo";
-    img.style.height = "60px";
+img.className = "logo-img";
 
     const span = document.createElement("span");
     span.textContent = "{{ .Get "text" }}";
-    span.style.fontSize = "1.6em";
+    span.className = "logo-text"; // ❗ Textklasse für CSS
     span.style.fontWeight = "bold";
     span.style.color = getComputedStyle(document.documentElement).getPropertyValue('--uni-blau');
     span.style.fontFamily = "-apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif";

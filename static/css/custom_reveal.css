@@ -393,3 +393,19 @@ body.dark .top-toggle button:hover {
 }
 
 }
+
+.logo-img {
+  height: 60px;
+}
+
+/* Auf Smartphones kleiner */
+@media (max-width: 600px) {
+  .logo-img {
+    height: 36px;
+  }
+
+  .logo-text {
+    font-size: 1.0em;
+  }
+
+}
