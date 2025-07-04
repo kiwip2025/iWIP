@@ -106,7 +106,6 @@ body.dark .top-toggle button:hover {
     left: 50%;
     transform: translateX(-50%);
     width: 70vw;
-    background: linear-gradient(to top, #f9f9f9, transparent);
     color: #6b6b6b;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 0.8em;
@@ -354,10 +353,6 @@ body.dark .top-toggle button:hover {
   font-size: 2.8rem; /* übernimmt die normale Schriftgröße von p etc. */
   }
 
-  .qr-icon-button {
-    display: none;
-  }
-
 }
 
 @media screen and (orientation: landscape) {
@@ -384,8 +379,17 @@ body.dark .top-toggle button:hover {
   font-size: 1.9rem; /* übernimmt die normale Schriftgröße von p etc. */
   }
 
+}
+
+@media screen and (max-width: 900px) {
   .qr-icon-button {
     display: none;
   }
+
+  .footer {
+    font-size: 0.4em;
+    line-height: 1.6;
+    padding: 0.4em;
+}
 
 }
