@@ -401,11 +401,11 @@ body.dark .top-toggle button:hover {
 /* Auf Smartphones kleiner */
 @media (max-width: 600px) {
   .logo-img {
-    height: 36px;
+    height: 40px;
   }
 
   .logo-text {
-    font-size: 1.0em;
+    font-size: 1.2em;
   }
 
 }
