@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ## Was sind OER?
 > OER = Open Educational Resources = freie Bildungsmaterialien  
 
-OER sind:
+OER sind stark, weil:
 * Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
 * frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
 * digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)
