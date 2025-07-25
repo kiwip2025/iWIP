@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
 </div>
 
-## Hier entsteht die Einführung in OER
+## Hier entsteht die Einführung in OER, diese wird von Studentinnnen erarbeitet
 > OER = Open Educational Resources = freie Bildungsmaterialien  
 
 OER sind stark, weil:
