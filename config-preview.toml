@@ -2,9 +2,10 @@ baseURL = "https://matthiassoell.github.io/iWIP/preview/"
 title = "SciBlog iWIP – Vorschau"
 languageCode = "de-de"
 defaultContentLanguage = "de"
-theme = "hugo-PaperMod"
 
-# Drafts anzeigen
+theme = ["github.com/adityatelange/hugo-PaperMod", "github.com/joshed-io/reveal-hugo"]
+
+# Drafts und zukünftige Inhalte anzeigen
 buildDrafts = true
 buildFuture = true
 
