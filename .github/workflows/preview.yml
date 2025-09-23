@@ -23,8 +23,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
 
       - name: Install Hugo CLI
         run: |
@@ -37,6 +35,9 @@ jobs:
       - name: Configure GitHub Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      - name: Download Hugo Modules
+        run: hugo mod get
 
       - name: Build Hugo with Preview Config
         run: |
