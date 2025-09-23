@@ -36,8 +36,13 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Initialize Go Modules (fix for Hugo Modules)
+        run: |
+          go env -w GO111MODULE=on
+          hugo mod tidy
+
       - name: Download Hugo Modules
-        run: hugo mod get
+        run: hugo mod get -u
 
       - name: Build Hugo with Preview Config
         run: |
