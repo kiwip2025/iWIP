@@ -5,6 +5,13 @@ defaultContentLanguage = "de"
 
 theme = ["github.com/adityatelange/hugo-PaperMod", "github.com/joshed-io/reveal-hugo"]
 
+[module]
+[[module.imports]]
+  path = "github.com/adityatelange/hugo-PaperMod"
+
+[[module.imports]]
+  path = "github.com/joshed-io/reveal-hugo"
+
 # Drafts und zukünftige Inhalte anzeigen
 buildDrafts = true
 buildFuture = true
