@@ -1,0 +1,12 @@
+baseURL = "https://matthiassoell.github.io/iWIP/preview/"
+title = "SciBlog iWIP – Vorschau"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+theme = "hugo-PaperMod"
+
+# Drafts anzeigen
+buildDrafts = true
+buildFuture = true
+
+# Output bleibt im Standardordner
+publishDir = "public"
