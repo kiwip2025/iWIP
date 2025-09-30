@@ -1,0 +1,20 @@
+baseURL = "https://matthiassoell.github.io/iWIP/preview/"
+title = "SciBlog iWIP – Vorschau"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
+theme = ["github.com/adityatelange/hugo-PaperMod", "github.com/joshed-io/reveal-hugo"]
+
+[module]
+[[module.imports]]
+  path = "github.com/adityatelange/hugo-PaperMod"
+
+[[module.imports]]
+  path = "github.com/joshed-io/reveal-hugo"
+
+# Entwürfe und zukünftige Inhalte anzeigen
+buildDrafts = true
+buildFuture = true
+
+# Ausgabeverzeichnis (bleibt default)
+publishDir = "public"
