@@ -16,7 +16,7 @@ draft: false
 
 Mit MEINEM **SciBlog iWIP** 🧠📖 mache ich mich auf den Weg, meine Forschungs- und Lehrmaterialien als **OER** 🎓🌍🔓 frei zugänglich zu machen.
 
-... wer, wie, was??? 3 Abkürzungen in ein paar Zeilen ... 😉
+... wer, wie, was??? Drei Abkürzungen in ein paar Zeilen ... 😉
 
 Also: Ich bin **Dr. Matthias Söll** 👨‍🏫, Professor für Wirtschaftsdidaktik am **Institut für Wirtschaftspädagogik** (iWIP) der **Universität Rostock** 🎓.
 
