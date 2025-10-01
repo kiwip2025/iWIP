@@ -1,4 +1,3 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -23,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.146.0
+      HUGO_VERSION: 0.147.7
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,6 +38,9 @@ jobs:
 
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+
+      - name: Download Hugo Modules
+        run: hugo mod get
 
       - name: Setup Pages
         id: pages
