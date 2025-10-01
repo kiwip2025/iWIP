@@ -6,4 +6,4 @@ draft: false
 ---
 Hallo ich bin Laura 😘
 
-![Testbild](Bild1.png)
+![Testbild](/content/einfuehrung/Bild1.png)
