@@ -44,15 +44,10 @@ jobs:
           hugo --minify --config config.toml,config-preview.toml \
             --baseURL "${{ steps.pages.outputs.base_url }}/preview/"
 
-      - name: Move site into preview subfolder
-        run: |
-          mkdir -p ./site/preview
-          mv ./public/* ./site/preview/
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./site
+          path: ./public
 
   deploy:
     environment:
