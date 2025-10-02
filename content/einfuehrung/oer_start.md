@@ -9,15 +9,15 @@ draft: false
 In diesem Selbstlernkurs lernen Sie alle Grundlagen zu Open Educational Resources (OER) – frei zugänglichen, offenen Bildungsmaterialien – kennen. 
 OER bieten neue Chancen für das Lehren, Lernen und Teilen von Wissen in einer digital vernetzten Welt.
 
-# Was dich erwartet:
+# Was erwartet Sie hier?:
 
-__Was sind OER?__ Definitionen, Merkmale und Abgrenzungen
+[Was sind OER?] Definitionen, Merkmale und Abgrenzungen
 
-__Lizenzen verstehen:__ Wie du freie Lizenzen (z. B. Creative Commons) richtig nutzt
+[Lizenzen verstehen:] Wie Sie freie Lizenzen (z. B. Creative Commons) richtig nutzen
 
-__OER finden und einsetzen:__ Wo du geeignete Materialien findest und wie du sie sinnvoll im Unterricht oder in Lernangeboten integrierst
+[OER finden und einsetzen:] Wo Sie geeignete Materialien finden und wie sie sinnvoll im Unterricht oder in Lernangeboten integriert
 
-__OER selbst erstellen:__ Tipps und Tools zur Erstellung eigener offener Bildungsressourcen
+[OER selbst erstellen:] Tipps und Tools zur Erstellung eigener offener Bildungsressourcen
 
 # Für wen ist der Kurs gedacht?
 
@@ -25,5 +25,5 @@ Der Kurs richtet sich an Lehrkräfte, Dozierende, Ausbilder:innen sowie alle Bil
 
 # Dein Lernweg – flexibel und praxisnah
 
-Du lernst in deinem eigenen Tempo, wann und wo es für dich passt. Der Kurs besteht aus kurzen Theorieeinheiten, praktischen Beispielen und kleinen Aufgaben, mit denen du dein Wissen direkt anwenden kannst.
+Sie können in eigenen Tempo sich weiterbilden, wann und wo es für Sie passt. Der Kurs besteht aus kurzen Theorieeinheiten, praktischen Beispielen und kleinen Aufgaben, mit denen sie ihr Wissen direkt anwenden können.
 
