@@ -1,9 +1,10 @@
 ---
 title: "Herzlich Willkommen!"
-description: "Interaktive Wissenschaftliche Praxis"
+description: "Einführung in Open Educational Ressources(OER)"
 layout: "home"
 draft: false
 ---
-Hallo ich bin Laura 😘
-
 ![Testbild](/iWIP/bilder/einfuehrung/Bild1.png)
+
+In dieser Lehr-Lerneinheit finden Sie alle nötigen Informationen zur Thematik OER.
+
