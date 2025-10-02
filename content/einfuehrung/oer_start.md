@@ -11,13 +11,13 @@ OER bieten neue Chancen für das Lehren, Lernen und Teilen von Wissen in einer d
 
 ### Was erwartet Sie hier?:
 
-[Was sind OER?](iWIP/ Definitionen, Merkmale und Abgrenzungen
+__Was sind OER?__ Definitionen, Merkmale und Abgrenzungen
 
-[Lizenzen verstehen:] Wie Sie freie Lizenzen (z. B. Creative Commons) richtig nutzen
+__Lizenzen verstehen:__ Wie Sie freie Lizenzen (z. B. Creative Commons) richtig nutzen
 
-[OER finden und einsetzen:] Wo Sie geeignete Materialien finden und wie sie sinnvoll im Unterricht oder in Lernangeboten integriert
+__OER finden und einsetzen:__ Wo Sie geeignete Materialien finden und wie sie sinnvoll im Unterricht oder in Lernangeboten integriert
 
-[OER selbst erstellen:] Tipps und Tools zur Erstellung eigener offener Bildungsressourcen
+__OER selbst erstellen:__ Tipps und Tools zur Erstellung eigener offener Bildungsressourcen
 
 ### Für wen ist der Kurs gedacht?
 
