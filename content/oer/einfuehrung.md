@@ -1,5 +1,5 @@
 ---
-title: "Einführung OER"
+title: "Was sind OER - Einführung"
 date: 2025-07-24
 draft: false
 description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
