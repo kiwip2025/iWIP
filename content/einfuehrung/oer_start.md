@@ -9,9 +9,9 @@ draft: false
 In diesem Selbstlernkurs lernen Sie alle Grundlagen zu Open Educational Resources (OER) – frei zugänglichen, offenen Bildungsmaterialien – kennen. 
 OER bieten neue Chancen für das Lehren, Lernen und Teilen von Wissen in einer digital vernetzten Welt.
 
-### Was erwartet Sie hier?:
+[### Was erwartet Sie hier?:](/iWIP/oer/)
 
-[Was sind OER?](/iWIP/oer/) Definitionen, Merkmale und Abgrenzungen
+__[Was sind OER?__ Definitionen, Merkmale und Abgrenzungen
 
 __Lizenzen verstehen:__ Wie Sie freie Lizenzen (z. B. Creative Commons) richtig nutzen
 
