@@ -11,7 +11,7 @@ OER bieten neue Chancen für das Lehren, Lernen und Teilen von Wissen in einer d
 
 ### Was erwartet Sie hier?:
 
-__Was sind OER?__ Definitionen, Merkmale und Abgrenzungen
+[Was sind OER?](/iWIP/oer/) Definitionen, Merkmale und Abgrenzungen
 
 __Lizenzen verstehen:__ Wie Sie freie Lizenzen (z. B. Creative Commons) richtig nutzen
 
