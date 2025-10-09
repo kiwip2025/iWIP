@@ -38,7 +38,7 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
 
 ---
 
-## 🧾 Lizenzen verstehen
+## Lizenzen verstehen
 
 ### CC – Bedingungen
 Creative Commons (CC) bietet verschiedene **Bausteine**, die kombinierbar sind:
@@ -64,18 +64,18 @@ Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
 | **3.0** | Versionsnummer |
 | **DE** | Portierung für Deutschland (optional – sonst international gültig) |
 
-> 🔍 In der Praxis sind Bezeichnungen oft gemischt (z. B. englisch/deutsch, mit oder ohne Bindestriche, oft mit Symbolen).
+> In der Praxis sind Bezeichnungen oft gemischt (z. B. englisch/deutsch, mit oder ohne Bindestriche, oft mit Symbolen).
 
 ---
 
-## 🔎 OER finden und einsetzen
+## OER finden und einsetzen
 
 ### Wo kann man OER finden?
 
-- 🔗 [OER-Suche mit Filterfunktion](https://kurzelinks.de/oersuchen)  
-- 🦉 [OERhörnchen (Hochschulbereich)](https://beta2.oerhoernchen.de/hochschule)  
-- 🌍 [CC Suche](https://ccsuche.de/)  
-- 📚 [WirLernenOnline](https://wirlernenonline.de/)
+- [OER-Suche mit Filterfunktion](https://kurzelinks.de/oersuchen)  
+- [OERhörnchen (Hochschulbereich)](https://beta2.oerhoernchen.de/hochschule)  
+- [CC Suche](https://ccsuche.de/)  
+- [WirLernenOnline](https://wirlernenonline.de/)
 
 ---
 
@@ -91,11 +91,11 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **L** | Link zur Lizenz | [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **U** | Ursprungsort | [Quelle oder URL] |
 
-💡 **Tipp:** Immer so genau wie möglich zitieren – so bleibst du rechtlich sicher.
+**Tipp:** Immer so genau wie möglich zitieren – so bleibst du rechtlich sicher.
 
 ---
 
-## 🛠️ OER selbst erstellen
+## OER selbst erstellen
 
 ### Schritt 1: Lizenz auswählen
 Nutze den offiziellen **[CC-Lizenzgenerator](https://creativecommons.org/choose/)**, um deine Lizenz festzulegen.  
@@ -120,17 +120,17 @@ Vor der Veröffentlichung:
 
 ### Schritt 4: Arbeitserleichterungen
 
-**🔧 Nützliche Tools:**
-- 🧾 **Lizenzhinweisgenerator** (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
+**Nützliche Tools:**
+- **Lizenzhinweisgenerator** (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
   → Du gibst das Werk an, der Generator erstellt den korrekten Lizenzhinweis.  
-- 🖼️ **[CC Suche](https://ccsuche.de/)**  
+- **[CC Suche](https://ccsuche.de/)**  
   → Liefert direkt nutzbare Bilder **inkl. Lizenzhinweis**.  
-- 🔍 **Google Bilder Rückwärtssuche**  
+- **Google Bilder Rückwärtssuche**  
   → Prüft, ob ein Bild bereits im Netz existiert oder offen lizenziert ist.
 
 ---
 
-## 💬 Zusammenfassung
+## Zusammenfassung
 
 OER ermöglichen:
 - **Offenes, gemeinsames Lernen und Lehren**
@@ -142,6 +142,6 @@ OER ermöglichen:
 
 ---
 
-✳️ *Quellen & weiterführende Links:*  
+*Quellen & weiterführende Links:*  
 - [Creative Commons](https://creativecommons.org)  
 - [OERinfo – Informationsstelle für Open Educational Resources](https://open-educational-resources.de/)
