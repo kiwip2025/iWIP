@@ -26,7 +26,3 @@ Der Kurs richtet sich an Lehrkräfte, Dozierende, Ausbilder:innen sowie alle Bil
 ### Dein Lernweg – flexibel und praxisnah
 
 Sie können in eigenen Tempo sich weiterbilden, wann und wo es für Sie passt. Der Kurs besteht aus kurzen Theorieeinheiten, praktischen Beispielen und kleinen Aufgaben, mit denen sie ihr Wissen direkt anwenden können.
-
----
-
-## Was sind OER?
