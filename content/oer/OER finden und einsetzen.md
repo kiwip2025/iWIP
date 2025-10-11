@@ -1,4 +1,36 @@
-## OER finden und einsetzen
+---
+title: "Wo ist OER zu finden?"
+date: 2025-06-12
+draft: false
+description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+summary: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+tags: ["OER", "Lehrmaterial", "Wissenschaft"]
+categories: ["OER"]
+---
+
+<script>
+  function triggerPrint() {
+    window.print(); // oder eine andere Funktion, je nach Zweck
+  }
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.search.includes("print-pdf")) {
+    // Warten, bis Reveal "ready" ist
+    Reveal.addEventListener("ready", function () {
+      setTimeout(() => {
+        window.print();
+      }, 300); // etwas Spielraum lassen
+    });
+  }
+});
+</script>
+
+<div class="top-toggle">
+  <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
+  <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
+</div>## OER finden und einsetzen
 
 ### Wo kann man OER finden?
 
