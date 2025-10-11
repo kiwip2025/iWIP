@@ -2,8 +2,8 @@
 title: "OER selbst erstellen"
 date: 2025-06-12
 draft: false
-description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
-summary: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+description: "Um eigene OER zu erstellen, wählt man zunächst eine passende offene Lizenz (z. B. über den CC-Lizenzgenerator), prüft die Inhalte auf Urheberrechte, verwendet bearbeitbare Formate und nutzt hilfreiche Tools zur Lizenzierung und Materialsuche. OER fördern gemeinsames, rechtssicheres Lernen und Lehren und stärken Transparenz sowie Sichtbarkeit im Bildungsbereich."
+summary: "Um eigene OER zu erstellen, wählt man zunächst eine passende offene Lizenz (z. B. über den CC-Lizenzgenerator), prüft die Inhalte auf Urheberrechte, verwendet bearbeitbare Formate und nutzt hilfreiche Tools zur Lizenzierung und Materialsuche. OER fördern gemeinsames, rechtssicheres Lernen und Lehren und stärken Transparenz sowie Sichtbarkeit im Bildungsbereich."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
