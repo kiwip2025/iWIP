@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 - [HubbS - berufliche Schule](https://hubbs.schule/)  
 - [MUNDO - Schule](https://mundo.schule/) 
-- [CC Suche](https://search.creativecommons.org/?lang=de)/)
+- [CC Suche](https://search.creativecommons.org/?lang=de)
 - [WirLernenOnline - Schule](https://wirlernenonline.de/)
 - [OERSI - Hochschule](https://oersi.org/resources/)
 
