@@ -36,9 +36,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ### Wo kann man OER finden?
 
-- [HubbS - berufliche Schule]([https://kurzelinks.de/oersuchen](https://hubbs.schule/))  
-- [MUNDO - Schule]([https://beta2.oerhoernchen.de/hochschule](https://mundo.schule/))  
-- [CC Suche]([https://ccsuche.de](https://search.creativecommons.org/?lang=de)/)  
+- [HubbS - berufliche Schule][https://kurzelinks.de/oersuchen](https://hubbs.schule/))  
+- [MUNDO - Schule][https://beta2.oerhoernchen.de/hochschule](https://mundo.schule/))  
+- [CC Suche][https://ccsuche.de](https://search.creativecommons.org/?lang=de)/)  
 - [WirLernenOnline - Schule](https://wirlernenonline.de/)
 - [OERSI - Hochschule](https://oersi.org/resources/)
 
