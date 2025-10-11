@@ -2,8 +2,8 @@
 title: "Lizenzen verstehen"
 date: 2025-06-12
 draft: false
-description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
-summary: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+description: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variieren können."
+summary: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variieren können."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
