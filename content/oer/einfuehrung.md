@@ -32,9 +32,16 @@ document.addEventListener("DOMContentLoaded", function () {
   <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
 </div>
 
-## Hier entsteht die Einführung in OER, diese wird von Studentinnnen erarbeitet
 > OER = Open Educational Resources = freie Bildungsmaterialien  
 
+## Was sind OER?
+**OER (Open Educational Resources)** sind frei zugängliche **Bildungsmaterialien**, die von allen **genutzt, verändert und weiterverbreitet** werden dürfen – **rechtssicher und kostenlos**.
+
+Beispiele:
+- Lehrtexte, Arbeitsblätter, Präsentationen
+- Videos, Grafiken, Audios, interaktive Lernobjekte
+
+Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Lizenz** veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)**.
 OER sind stark, weil:
 * Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
 * frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
