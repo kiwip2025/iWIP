@@ -53,6 +53,6 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **L** | Link zur Lizenz | [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **U** | Ursprungsort | [Quelle oder URL] |
 
-**Tipp:** Immer so genau wie möglich zitieren – so bleibst du rechtlich sicher.
+> **Tipp:** Immer so genau wie möglich zitieren – so bleibst du rechtlich sicher.
 
 ---
