@@ -2,8 +2,8 @@
 title: "Was sind OER - Einführung"
 date: 2025-07-24
 draft: false
-description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
-summary: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+description: "Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten, und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt."
+summary: "Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten, und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
