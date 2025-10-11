@@ -2,8 +2,8 @@
 title: "Wo ist OER zu finden?"
 date: 2025-06-12
 draft: false
-description: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
-summary: "In diesem Beitrag beschreibe ich den Hintergrund freier Bildungsmaterialien und stelle drei zentrale Argumentationsfiguren zur Nutzung von OER aus der Perspektive der beruflichen Bildung vor."
+description: "OER lassen sich über spezielle Plattformen wie OERhörnchen, CC Suche oder WirLernenOnline gezielt finden. Bei der Nutzung ist auf korrekte Lizenzangaben gemäß der TULLU-Regel zu achten (Titel, Urheber, Lizenz, Lizenzlink, Ursprungsort), um rechtliche Sicherheit zu gewährleisten."
+summary: "OER lassen sich über spezielle Plattformen wie OERhörnchen, CC Suche oder WirLernenOnline gezielt finden. Bei der Nutzung ist auf korrekte Lizenzangaben gemäß der TULLU-Regel zu achten (Titel, Urheber, Lizenz, Lizenzlink, Ursprungsort), um rechtliche Sicherheit zu gewährleisten."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
