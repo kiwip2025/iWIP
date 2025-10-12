@@ -27,6 +27,6 @@ Ich blogge über **Wissenschaft** (Science Blog) – und veröffentliche meine I
 
 ### Was erwartet Sie hier?
 
-In der Rubrik [OER](/iWIP/oer/) beschäftige ich mich mit den (bildungs-)politischen Rahmenbedingungen, der Entwicklung und der Nutzung freier Bildungsmaterialien. 
+In der Rubrik [OER](/iWIP/einfuehrung/oer_start/) beschäftige ich mich mit den (bildungs-)politischen Rahmenbedingungen, der Entwicklung und der Nutzung freier Bildungsmaterialien. 
 
 Unter [BiSy](/iWIP/bisy/) finden Sie meine OER-Lehrmaterialien zum Modul "Bildungssysteme im Kontext von Arbeit und Gesellschaft" im Bachelor Wirtschaftspädagogik an der Universität Rostock.
