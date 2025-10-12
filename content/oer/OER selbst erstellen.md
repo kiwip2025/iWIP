@@ -60,7 +60,7 @@ Vor der Veröffentlichung:
 **Nützliche Tools:**
 - **Lizenzhinweisgenerator** (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
   → Du gibst das Werk an, der Generator erstellt den korrekten Lizenzhinweis.  
-- **[CC Suche](https://ccsuche.de/)**  
+- **[CC Suche](https://search.creativecommons.org/?lang=de)**  
   → Liefert direkt nutzbare Bilder **inkl. Lizenzhinweis**.  
 - **Google Bilder Rückwärtssuche**  
   → Prüft, ob ein Bild bereits im Netz existiert oder offen lizenziert ist.
