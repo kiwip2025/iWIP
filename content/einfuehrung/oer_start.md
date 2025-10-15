@@ -19,6 +19,8 @@ __OER finden und einsetzen:__ Wo Sie geeignete Materialien finden und wie sie si
 
 __OER selbst erstellen:__ Tipps und Tools zur Erstellung eigener offener Bildungsressourcen
 
+__Selbst tätig werden:__ Ein eigenes OER-Material unter Anleitung erstellen
+
 ### Für wen ist der Kurs gedacht?
 
 Der Kurs richtet sich an Lehrkräfte, Dozierende, Ausbilder:innen sowie alle Bildungsinteressierten, die sich mit dem Thema OER vertraut machen wollen – ganz gleich, ob du neu einsteigst oder dein Wissen vertiefen möchtest.
