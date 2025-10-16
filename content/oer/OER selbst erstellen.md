@@ -6,6 +6,7 @@ description: "Um eigene OER zu erstellen, wählt man zunächst eine passende off
 summary: "Um eigene OER zu erstellen, wählt man zunächst eine passende offene Lizenz (z. B. über den CC-Lizenzgenerator), prüft die Inhalte auf Urheberrechte, verwendet bearbeitbare Formate und nutzt hilfreiche Tools zur Lizenzierung und Materialsuche. OER fördern gemeinsames, rechtssicheres Lernen und Lehren und stärken Transparenz sowie Sichtbarkeit im Bildungsbereich."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
+weight:40
 ---
 
 <script>
