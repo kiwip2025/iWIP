@@ -6,7 +6,7 @@ description: "Open Educational Resources (OER) sind frei zugängliche und offen 
 summary: "Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten, und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
-weight:0
+weight: 10
 ---
 
 <script>
