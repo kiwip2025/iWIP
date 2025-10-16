@@ -6,7 +6,7 @@ description: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unte
 summary: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variieren können."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
-weight: 40
+weight: 10
 ---
 
 <script>
