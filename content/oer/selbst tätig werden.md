@@ -146,3 +146,4 @@ Bei Rückfragen zur Aufgabe oder zur technischen Umsetzung der Lizenzierung wend
 ---
 
 # 🎓 Vielen Dank – viel Erfolg bei der Erstellung Ihres eigenen OER-Materials!
+
