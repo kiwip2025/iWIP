@@ -1,4 +1,4 @@
-## Selbst tätig werden: Ein eigenes OER-Material unter Anleitung erstellen
+title: "Selbst tätig werden: Ein eigenes OER-Material unter Anleitung erstellen"
 
 # 📄 Aufgabenblatt: Erstellung eines OER-Materials im Bereich Wirtschaftspädagogik
 
