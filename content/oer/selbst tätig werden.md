@@ -1,6 +1,11 @@
 ---
-title: "Selbst tätig werden: Ein eigenes OER-Material unter Anleitung erstellen"
-outputs: ["Reveal"]
+title: "Was sind OER - Einführung"
+date: 2025-07-24
+draft: false
+description: "Erstellen Sie eines eigenen OER-Materials unter Anleitung im Bereich der Wirtschaftspädagogik"
+summary: "Auf dieser Seite befindet sich ein Arbeitauftrag, der es Ihnen ermöglicht ihr Wissen unter Anleitung anzuwenden"
+tags: ["OER", "Lehrmaterial", "Wissenschaft"]
+categories: ["OER"]
 ---
 
 # 📄 Aufgabenblatt  
