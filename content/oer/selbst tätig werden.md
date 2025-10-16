@@ -1,5 +1,5 @@
 ---
-title: "Was sind OER - Einführung"
+title: "Selbst tätig werden"
 date: 2025-07-24
 draft: false
 description: "Erstellung eines eigenen OER-Materials unter Anleitung im Bereich der Wirtschaftspädagogik"
@@ -7,7 +7,29 @@ summary: "Auf dieser Seite befindet sich ein Arbeitauftrag, der es Ihnen ermögl
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
+<script>
+  function triggerPrint() {
+    window.print(); // oder eine andere Funktion, je nach Zweck
+  }
+</script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.search.includes("print-pdf")) {
+    // Warten, bis Reveal "ready" ist
+    Reveal.addEventListener("ready", function () {
+      setTimeout(() => {
+        window.print();
+      }, 300); // etwas Spielraum lassen
+    });
+  }
+});
+</script>
+
+<div class="top-toggle">
+  <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
+  <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
+</div>
 # 📄 Aufgabenblatt  
 ## Erstellung eines OER-Materials im Bereich Wirtschaftspädagogik
 
