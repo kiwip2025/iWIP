@@ -1,9 +1,17 @@
 ---
-title: "Was sind OER - Einführung"
+title: "Was sind OER – Einführung"
 date: 2025-07-24
 draft: false
-description: "Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten, und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt."
-summary: "Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten, und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt."
+description: |
+  Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, 
+  die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. 
+  Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten 
+  und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt.
+summary: |
+  Open Educational Resources (OER) sind frei zugängliche und offen lizenzierte Bildungsmaterialien, 
+  die rechtssicher genutzt, verändert und weiterverbreitet werden dürfen. 
+  Sie unterstützen das Ziel der UNESCO, Bildung weltweit inklusiver, gerechter und qualitativ hochwertiger zu gestalten 
+  und werden seit 2016 durch nationale Förderprogramme in Deutschland gestärkt.
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 weight: 1
@@ -11,18 +19,17 @@ weight: 1
 
 <script>
   function triggerPrint() {
-    window.print(); // oder eine andere Funktion, je nach Zweck
+    window.print();
   }
 </script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   if (window.location.search.includes("print-pdf")) {
-    // Warten, bis Reveal "ready" ist
     Reveal.addEventListener("ready", function () {
       setTimeout(() => {
         window.print();
-      }, 300); // etwas Spielraum lassen
+      }, 300);
     });
   }
 });
