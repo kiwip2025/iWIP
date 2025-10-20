@@ -4,8 +4,8 @@ date: 2025-07-24
 draft: false
 description: "Erstellung eines eigenen OER-Materials unter Anleitung im Bereich der Wirtschaftspädagogik"
 summary: "Auf dieser Seite befindet sich ein Arbeitauftrag, der es Ihnen ermöglicht ihr Wissen unter Anleitung anzuwenden"
-tags: ["OER", "Lehrmaterial", "Wissenschaft"]
-categories: ["OER"
+tags: ["OER""Lehrmaterial""Wissenschaft"]
+categories: ["OER"]
 ---
 <script>
   function triggerPrint() {
