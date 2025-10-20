@@ -17,6 +17,7 @@ categories: ["OER"]
 weight: 1
 ---
 
+
 <script>
   function triggerPrint() {
     window.print();
