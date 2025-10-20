@@ -7,6 +7,8 @@ summary: "Auf dieser Seite befindet sich ein Arbeitauftrag, der es Ihnen ermögl
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 ---
+
+
 <script>
   function triggerPrint() {
     window.print(); // oder eine andere Funktion, je nach Zweck
