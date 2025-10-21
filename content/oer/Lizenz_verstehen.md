@@ -9,55 +9,60 @@ categories: ["OER"]
 weight: 10
 ---
 
+<!-- Druck- und Präsentationssteuerung -->
 <script>
   function triggerPrint() {
-    window.print(); // oder eine andere Funktion, je nach Zweck
+    window.print(); // Export als PDF oder druckbare Ansicht
   }
 </script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   if (window.location.search.includes("print-pdf")) {
-    // Warten, bis Reveal "ready" ist
+    // Warten, bis Reveal.js vollständig geladen ist
     Reveal.addEventListener("ready", function () {
       setTimeout(() => {
         window.print();
-      }, 300); // etwas Spielraum lassen
+      }, 300);
     });
   }
 });
 </script>
 
-<div class="top-toggle">
+<div class="top-toggle" style="position: fixed; top: 10px; right: 10px; z-index: 999;">
   <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
   <button onclick="location.href='/iWIP/praesentation/warum_oer'" title="Zur Präsentationsansicht">🖥️</button>
 </div>
 
-## Lizenzen verstehen
+## 📚 Lizenzen verstehen
 
-### CC – Bedingungen
-Creative Commons (CC) bietet verschiedene **Bausteine**, die kombinierbar sind:
+### ✅ Creative Commons – Grundbausteine
 
-| Kürzel | Bedeutung | Erklärung |
-|--------|------------|------------|
-| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden. |
-| **SA** | Share Alike | Das Werk darf **nur unter gleichen Bedingungen** weitergegeben werden. |
-| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
-| **ND** | No Derivatives | Das Werk darf **nicht verändert** werden. |
+Creative Commons (CC) bietet verschiedene **Bausteine**, die zu unterschiedlichen Lizenzen kombiniert werden können:
+
+| Kürzel | Bedeutung        | Erklärung |
+|--------|------------------|-----------|
+| **BY** | Attribution      | Der **Urheber muss genannt** werden. |
+| **SA** | Share Alike      | Weitergabe **nur unter gleichen Bedingungen**. |
+| **NC** | Non Commercial   | **Keine kommerzielle Nutzung** erlaubt. |
+| **ND** | No Derivatives   | **Keine Bearbeitung oder Veränderung** erlaubt. |
 
 ---
 
-### Lizenzkürzel – Aufbau
-Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
+### 🧩 Aufbau eines Lizenzkürzels
+
+Ein CC-Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
 
 **`CC BY-SA 3.0 DE`**
 
-| Teil | Bedeutung |
-|------|------------|
-| **CC** | Creative Commons |
+| Teil     | Bedeutung |
+|----------|-----------|
+| **CC**   | Creative Commons |
 | **BY-SA** | Lizenzbedingungen (Namensnennung + Weitergabe unter gleichen Bedingungen) |
-| **3.0** | Versionsnummer |
-| **DE** | Portierung für Deutschland (optional – sonst international gültig) |
+| **3.0**  | Versionsnummer |
+| **DE**   | Portierung für Deutschland (optional – sonst international gültig) |
 
-> In der Praxis sind Bezeichnungen oft gemischt (z. B. englisch/deutsch, mit oder ohne Bindestriche, oft mit Symbolen).
+> In der Praxis kommen Schreibweisen gemischt vor (englisch/deutsch, mit oder ohne Symbole oder Bindestriche, z. B. „CC-BY-SA“, „CC BY SA“, „CC-BY-SA 4.0 International“).
+
+---
 
