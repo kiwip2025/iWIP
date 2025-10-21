@@ -2,8 +2,8 @@
 title: "Lizenzen verstehen"
 date: 2025-06-12
 draft: false
-description: "Creative Commons Lizenzen regeln, unter welchen Bedingungen Werke genutzt, geteilt und weiterverarbeitet werden dürfen."
-summary: "Überblick über Aufbau und Bedeutung über Creative Commons Lizenzen."
+description: "Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variiren können."
+summary: "Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variiren können."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 weight: 20
