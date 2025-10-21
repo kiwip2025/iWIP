@@ -5,7 +5,7 @@ draft: false
 description: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variieren können."
 summary: "Creative-Commons-Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung, wobei Darstellungsformen variieren können."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
-categories: ["OER"
+categories: ["OER"]
 ---
 
 <!-- Druck- und Präsentationssteuerung -->
