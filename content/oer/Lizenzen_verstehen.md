@@ -6,7 +6,7 @@ description: "Creative Commons Lizenzen regeln, unter welchen Bedingungen Werke 
 summary: "Überblick über Aufbau und Bedeutung über Creative Commons Lizenzen."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
-weight: 5
+weight: 20
 ---
 
 <script>
