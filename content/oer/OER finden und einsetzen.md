@@ -6,7 +6,7 @@ description: "OER lassen sich über spezielle Plattformen wie OERhörnchen, CC S
 summary: "OER lassen sich über spezielle Plattformen wie OERhörnchen, CC Suche oder WirLernenOnline gezielt finden. Bei der Nutzung ist auf korrekte Lizenzangaben gemäß der TULLU-Regel zu achten (Titel, Urheber, Lizenz, Lizenzlink, Ursprungsort), um rechtliche Sicherheit zu gewährleisten."
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
-weight: 20
+weight: 30
 ---
 
 <script>
