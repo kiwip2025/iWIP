@@ -6,6 +6,7 @@ description: "Erstellung eines eigenen OER-Materials unter Anleitung im Bereich 
 summary: "Auf dieser Seite befindet sich ein Arbeitauftrag, der es Ihnen ermöglicht ihr Wissen unter Anleitung anzuwenden"
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
+weight: 50
 ---
 
 
