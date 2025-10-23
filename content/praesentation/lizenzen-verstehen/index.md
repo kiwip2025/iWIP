@@ -4,30 +4,28 @@ outputs:
   - Reveal
 ---
 
-{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
-
-<script>
-function triggerPrint() {
-  window.print();
-}
-</script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (window.location.search.includes("print-pdf")) {
-    Reveal.addEventListener("ready", function () {
-      setTimeout(() => { window.print(); }, 300);
-    });
-  }
-});
-</script>
-
+<!-- Konsistenter Button-Bereich auch hier -->
 <div class="top-toggle">
-  <div class="top-row">
-    <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-    <button onclick="location.href='/iWIP/oer/lizenzen-verstehen/'" title="Zur Blogansicht">📄</button>
-  </div>
+  <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
+  <button class="icon-button" onclick="location.href='/iWIP/oer/lizenzen-verstehen/'" title="Zur Blogansicht">📄</button>
 </div>
+
+<style>
+.top-toggle {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+}
+.icon-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 8px;
+}
+</style>
 
 ---
 
@@ -37,8 +35,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ### Was sind Creative Commons Lizenzen?
 
-- Vereinfachen das **Teilen und Nutzen kreativer Werke**  
-- Bieten **standardisierte Lizenzbausteine**  
+- Vereinfachen das **Teilen und Nutzen kreativer Werke**
+- Bieten **standardisierte Lizenzbausteine**
 - Urheber behalten ihre Rechte – erlauben aber bestimmte Nutzungen
 
 ---
@@ -63,21 +61,11 @@ document.addEventListener("DOMContentLoaded", function () {
 | **CC** | Creative Commons |
 | **BY-SA** | Namensnennung + Weitergabe unter gleichen Bedingungen |
 | **3.0** | Versionsnummer |
-| **DE** | Ländervariante (optional) |
-
----
-
-### Beispiele in der Praxis
-
-- **CC BY 4.0** – Namensnennung weltweit  
-- **CC BY-NC-ND** – nicht-kommerziell, keine Bearbeitung  
-- Symbole: ![CC Symbole Beispiel](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+| **DE** | Portierung für Deutschland |
 
 ---
 
 ### Fragen?
 
 **Vielen Dank für die Aufmerksamkeit!**
-
-
 
