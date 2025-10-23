@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
     <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
     <a class="qr-icon-button" href="LINK-ZUM-INHALT" title="Zur Präsentation">
-      <img src="qrcode_warum_oer.png" alt="QR-Code">
+      <img src="qrcode_lizenzen-verstehen.png" alt="QR-Code">
     </a>
   </div>
 </div>
