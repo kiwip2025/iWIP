@@ -4,8 +4,6 @@ outputs:
   - Reveal
 ---
 
-{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
-
 <script>
   function triggerPrint() {
     window.print(); // oder eine andere Funktion, je nach Zweck
@@ -52,3 +50,4 @@ Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
 | **DE** | Portierung für Deutschland (optional – sonst international gültig) |
 
 > In der Praxis sind Bezeichnungen oft gemischt (z. B. englisch/deutsch, mit oder ohne Bindestriche, oft mit Symbolen).
+---
