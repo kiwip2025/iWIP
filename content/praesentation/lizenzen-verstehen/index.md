@@ -25,10 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <div class="top-toggle">
   <div class="top-row">
     <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-    <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
-    <a class="qr-icon-button" href="#" title="Zur Präsentation">
-      <img src="/iWIP/bilder/qrcode_lizenzen-verstehen.png" alt="QR-Code">
-    </a>
+    <button onclick="location.href='/iWIP/oer/lizenzen-verstehen/'" title="Zur Blogansicht">📄</button>
   </div>
 </div>
 
@@ -40,8 +37,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ### Was sind Creative Commons Lizenzen?
 
-- Vereinfachen das **Teilen und Nutzen kreativer Werke**
-- Bieten **standardisierte Lizenzbausteine**
+- Vereinfachen das **Teilen und Nutzen kreativer Werke**  
+- Bieten **standardisierte Lizenzbausteine**  
 - Urheber behalten ihre Rechte – erlauben aber bestimmte Nutzungen
 
 ---
@@ -66,14 +63,14 @@ document.addEventListener("DOMContentLoaded", function () {
 | **CC** | Creative Commons |
 | **BY-SA** | Namensnennung + Weitergabe unter gleichen Bedingungen |
 | **3.0** | Versionsnummer |
-| **DE** | Portierung für Deutschland (optional) |
+| **DE** | Ländervariante (optional) |
 
 ---
 
 ### Beispiele in der Praxis
 
-- **CC BY 4.0** (Namensnennung, internationale Version)
-- **CC BY-NC-ND** (Namensnennung, nicht-kommerziell, keine Änderungen)
+- **CC BY 4.0** – Namensnennung weltweit  
+- **CC BY-NC-ND** – nicht-kommerziell, keine Bearbeitung  
 - Symbole: ![CC Symbole Beispiel](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
 ---
@@ -81,5 +78,6 @@ document.addEventListener("DOMContentLoaded", function () {
 ### Fragen?
 
 **Vielen Dank für die Aufmerksamkeit!**
+
 
 
