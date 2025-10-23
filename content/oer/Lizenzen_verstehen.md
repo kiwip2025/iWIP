@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <div class="top-toggle">
   <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-  <button onclick="location.href='/iWIP/praesentation/Lizenzen_verstehen'" title="Zur Präsentationsansicht">🖥️</button>
+  <button onclick="location.href='/iWIP/praesentation/lizenzen-verstehen'" title="Zur Präsentationsansicht">🖥️</button>
 </div>
 
 ## Lizenzen verstehen
