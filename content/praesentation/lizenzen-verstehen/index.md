@@ -29,7 +29,6 @@ document.addEventListener("DOMContentLoaded", function () {
   <div class="top-row">
     <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
     <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
-    <a class="qr-icon-button" href="LINK-ZUM-INHALT" title="Zur Präsentation">
     </a>
   </div>
 </div>
