@@ -7,19 +7,16 @@ outputs:
 {{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
 
 <script>
-  function triggerPrint() {
-    window.print(); // oder eine andere Funktion, je nach Zweck
-  }
+function triggerPrint() {
+  window.print();
+}
 </script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   if (window.location.search.includes("print-pdf")) {
-    // Warten, bis Reveal "ready" ist
     Reveal.addEventListener("ready", function () {
-      setTimeout(() => {
-        window.print();
-      }, 300); // etwas Spielraum lassen
+      setTimeout(() => { window.print(); }, 300);
     });
   }
 });
@@ -29,7 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
   <div class="top-row">
     <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
     <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
-    </a>
   </div>
 </div>
 
@@ -51,23 +47,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
 | Kürzel | Bedeutung | Erklärung |
 |--------|------------|------------|
-| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden. |
-| **SA** | Share Alike | Weitergabe nur **unter gleichen Bedingungen**. |
-| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
-| **ND** | No Derivatives | **Keine Bearbeitung oder Veränderung** erlaubt. |
+| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden |
+| **SA** | Share Alike | Weitergabe nur **unter gleichen Bedingungen** |
+| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt |
+| **ND** | No Derivatives | Keine Bearbeitung erlaubt |
 
 ---
 
 ### Lizenzkürzel – Aufbau
 
-Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen:
-
-**`CC BY-SA 3.0 DE`**
+**Beispiel:** `CC BY-SA 3.0 DE`
 
 | Teil | Bedeutung |
 |------|------------|
 | **CC** | Creative Commons |
-| **BY-SA** | Lizenzbedingungen (Namensnennung + Weitergabe unter gleichen Bedingungen) |
+| **BY-SA** | Namensnennung + Weitergabe unter gleichen Bedingungen |
 | **3.0** | Versionsnummer |
 | **DE** | Portierung für Deutschland (optional) |
 
@@ -77,10 +71,11 @@ Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen:
 
 - **CC BY 4.0** (Namensnennung, internationale Version)
 - **CC BY-NC-ND** (Namensnennung, nicht-kommerziell, keine Änderungen)
-- Manche Websites nutzen Symbole: ![CC Symbole Beispiel](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+- Symbole: ![CC Symbole Beispiel](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
 ---
 
 ### Fragen?
 
 **Vielen Dank für die Aufmerksamkeit!**
+
