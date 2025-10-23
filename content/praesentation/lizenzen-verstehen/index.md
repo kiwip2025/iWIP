@@ -4,6 +4,39 @@ outputs:
   - Reveal
 ---
 
+{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
+
+<script>
+  function triggerPrint() {
+    window.print(); // oder eine andere Funktion, je nach Zweck
+  }
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.search.includes("print-pdf")) {
+    // Warten, bis Reveal "ready" ist
+    Reveal.addEventListener("ready", function () {
+      setTimeout(() => {
+        window.print();
+      }, 300); // etwas Spielraum lassen
+    });
+  }
+});
+</script>
+
+<div class="top-toggle">
+  <div class="top-row">
+    <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
+    <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
+    <a class="qr-icon-button" href="LINK-ZUM-INHALT" title="Zur Präsentation">
+      <img src="qrcode_warum_oer.png" alt="QR-Code">
+    </a>
+  </div>
+</div>
+
+---
+
 ## Lizenzen verstehen
 
 ---
