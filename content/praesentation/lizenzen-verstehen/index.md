@@ -26,6 +26,9 @@ document.addEventListener("DOMContentLoaded", function () {
   <div class="top-row">
     <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
     <button onclick="location.href='/iWIP/oer/warum_oer'" title="Zur Blogansicht">📄</button>
+    <a class="qr-icon-button" href="#" title="Zur Präsentation">
+      <img src="/iWIP/bilder/qrcode_lizenzen-verstehen.png" alt="QR-Code">
+    </a>
   </div>
 </div>
 
@@ -78,4 +81,5 @@ document.addEventListener("DOMContentLoaded", function () {
 ### Fragen?
 
 **Vielen Dank für die Aufmerksamkeit!**
+
 
