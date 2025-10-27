@@ -74,38 +74,37 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
 ## Welche Rolle nimmt OER in der Gesellschaft ein?
 
 - **Impuls für Bildungspolitik**  
-  - Das *Bündnis Freie Bildung* setzt sich für offene Lehr- und Lernmaterialien, freie Software und offene Infrastrukturen ein.  
-  - OER stärkt Transparenz, Teilhabe und demokratische Bildung.
+  - Das *Bündnis Freie Bildung* setzt sich für offene Lehr- und Lernmaterialien, freie Software und offene Infrastrukturen ein  
+  - OER stärkt Transparenz, Teilhabe und demokratische Bildung
 
 - **Internationale Vorreiter**  
-  - **Norwegen** gilt als Vorreiter der OER-Nutzung in Schulen und Hochschulen.  
-  - Auch Länder wie **Polen, USA und Kanada** fördern staatlich OER-Initiativen.
+  - **Norwegen** gilt als Vorreiter der OER-Nutzung in Schulen und Hochschulen  
+  - Auch Länder wie **Polen, USA und Kanada** fördern staatlich OER-Initiativen
 
 - **OER im Unterricht – praktische Vorteile**  
-  - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten ergänzen oder aktualisieren.  
-  - Fördert individualisierte Lernwege und differenzierten Unterricht.
+  - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten ergänzen oder aktualisieren  
+  - Fördert individualisierte Lernwege und differenzierten Unterricht
 
 - **Kultur des Teilens und Kollaborierens**  
-  - OER stärkt Kooperation zwischen Lehrenden, Lernenden und Institutionen.  
-  - Ermöglicht gemeinschaftliche Weiterentwicklung und Verbesserung von Materialien.
+  - OER stärkt Kooperation zwischen Lehrenden, Lernenden und Institutionen  
+  - Ermöglicht gemeinschaftliche Weiterentwicklung und Verbesserung von Materialien
 
 - **Abbau von Unsicherheiten und Wissenslücken**  
-  - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden.  
-  - Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**.
+  - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden. 
+  - Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**
 
 - **Offene Wissenschaft und Wissenstransfer**  
-  - Ideal für die Verbreitung von Forschungsergebnissen, Praxiswissen und Alltagswissen.  
-  - Unterstützt Open Science, Citizen Science und wissenschaftliche Transparenz.
+  - Ideal für die Verbreitung von Forschungsergebnissen, Praxiswissen und Alltagswissen 
+  - Unterstützt Open Science, Citizen Science und wissenschaftliche Transparenz
 
 - **Zwei zentrale Einschränkungen / Herausforderungen**  
-  - OER bleibt häufig **Mittel zum Zweck eines strukturierten Bildungsprozesses** – nicht automatisch offen oder partizipativ („Education vs. Resource“).  
-  - **Qualitätssicherung und Verlässlichkeit** von Materialien müssen gewährleistet werden.
+  - OER bleibt häufig **Mittel zum Zweck eines strukturierten Bildungsprozesses** – nicht automatisch offen oder partizipativ („Education vs. Resource“)  
+  - **Qualitätssicherung und Verlässlichkeit** von Materialien müssen gewährleistet werden
 
 - **Weitere relevante Punkte**  
   - **Barrierefreiheit & Inklusion**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
   - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.  
   - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
-  - **Finanzierung & Anreizsysteme**: Lehrkräfte und Forschende benötigen Zeit, Anerkennung oder Förderung für die Erstellung von OER.  
   - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
 
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
