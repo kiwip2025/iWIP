@@ -173,6 +173,36 @@ Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
 
 ---
 
+## OER finden und einsetzen
+
+### Wo kann man OER finden?
+
+- [HubbS - berufliche Schule](https://hubbs.schule/)  
+- [MUNDO - Schule](https://mundo.schule/) 
+- [CC Suche](https://search.creativecommons.org/?lang=de)
+- [WirLernenOnline - Schule](https://wirlernenonline.de/)
+- [OERSI - Hochschule](https://oersi.org/resources/)
+
+---
+
+### Wie nutze ich OER korrekt?
+
+Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
+
+| Buchstabe | Bedeutung | Beispiel |
+|------------|------------|-----------|
+| **T** | Titel des Materials | „Einführung in die OER“ |
+| **U** | Urheber | Max Mustermann |
+| **L** | Lizenz | CC BY-SA 4.0 |
+| **L** | Link zur Lizenz | [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
+| **U** | Ursprungsort | [Quelle oder URL] |
+
+> **Tipp:** Immer so genau wie möglich zitieren – so bleibst du rechtlich sicher.
+
+---
+
+
+
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
 
 **Quelle:**  
