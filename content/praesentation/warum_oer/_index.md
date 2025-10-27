@@ -69,19 +69,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ***OER sind stark, weil:***
 <p style="font-size: 20px;">
-* Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
+- Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
 </p>
 <p style="font-size: 20px;">
-* frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
+- frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
 </p>
 <p style="font-size: 20px;">
-* digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)
+- digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)
 </p>
 <p style="font-size: 20px;">
-* gut bearbeitbar
+- gut bearbeitbar
 </p>
 <p style="font-size: 20px;">
-* unter offener Lizenz veröffentlicht
+- unter offener Lizenz veröffentlicht
 </p>
 
 ---
