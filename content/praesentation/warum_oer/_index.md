@@ -64,14 +64,25 @@ document.addEventListener("DOMContentLoaded", function () {
 <p style="font-size: 14px;">
   Damit andere sie rechtssicher nutzen können, werden OER mit einer <strong>offenen Lizenz</strong> veröffentlicht – meist einer <strong>Creative-Commons-Lizenz (CC)</strong>.
 </p>
+
 ---
 
 ***OER sind stark, weil:***
+<p style="font-size: 12px;">
 * Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
+</p>
+<p style="font-size: 12px;">
 * frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
+</p>
+<p style="font-size: 12px;">
 * digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)
+</p>
+<p style="font-size: 12px;">
 * gut bearbeitbar
+</p>
+<p style="font-size: 12px;">
 * unter offener Lizenz veröffentlicht
+</p>
 
 ---
 
