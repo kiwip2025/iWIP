@@ -72,7 +72,6 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
   Diese Maßnahmen dienen der Umsetzung der im Jahr 2022 ausgegebenen <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">OER-Strategie der Bundesregierung (PDF)</a>.
 
 ## Welche Rolle nimmt OER in der Gesellschaft ein?
-## Chancen und Potenziale von Open Educational Resources (OER)
 
 - **Impuls für Bildungspolitik**  
   - Das *Bündnis Freie Bildung* setzt sich für offene Lehr- und Lernmaterialien, freie Software und offene Infrastrukturen ein.  
@@ -115,7 +114,7 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
 Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
 Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
 (zuletzt aufgerufen am 23. Oktober 2025)
-**Quelle:**  
+
 Bundeszentrale für politische Bildung (bpb). *OER ist alles. Oder ist im Web alles OER?*  
 Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222108/oer-ist-alles-oder-ist-im-web-alles-oer/>  
 (zuletzt aufgerufen am 27. Oktober 2025)  
