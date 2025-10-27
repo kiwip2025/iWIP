@@ -17,6 +17,15 @@ categories: ["OER"]
 weight: 10
 ---
 
+## 📚 Inhaltsverzeichnis
+
+- [1. Was sind OER?](#1-was-sind-oer)
+- [2. Lizenzen verstehen](#2-lizenzen-verstehen)
+- [3. OER finden und einsetzen](#3-oer-finden-und-einsetzen)
+- [4. OER erstellen und teilen](#4-oer-erstellen-und-teilen)
+- [5. Selbst tätig werden](#5-selbst-tätig-werden)
+
+---
 
 <script>
   function triggerPrint() {
@@ -112,6 +121,57 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
   - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.  
   - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
   - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
+
+# Lizenzen verstehen
+
+Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung.
+
+---
+
+## CC – Bedingungen
+
+Creative Commons (CC) bietet verschiedene **Bausteine**, die kombinierbar sind:
+
+| Kürzel | Bedeutung | Erklärung |
+|--------|-----------|-----------|
+| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden. |
+| **SA** | Share Alike | Das Werk darf **nur unter gleichen Bedingungen** weitergegeben werden. |
+| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
+| **ND** | No Derivatives | Das Werk darf **nicht verändert** werden. |
+
+---
+
+## Lizenzkürzel – Aufbau
+
+Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
+
+**`CC BY-SA 3.0 DE`**
+
+| Teil | Bedeutung |
+|------|-----------|
+| **CC** | Creative Commons |
+| **BY-SA** | Lizenzbedingungen (Namensnennung + Weitergabe unter gleichen Bedingungen) |
+| **3.0** | Versionsnummer |
+| **DE** | Portierung für Deutschland (optional – sonst international gültig) |
+
+> In der Praxis treten Bezeichnungen in unterschiedlichen Schreibweisen auf (z. B. mit/ohne Bindestrich, englisch/deutsch oder als Symbole).
+
+---
+
+## Beispiele in der Praxis
+
+- **CC BY 4.0** — Namensnennung, internationale Version (weit verbreitet)  
+- **CC BY-NC-ND** — Namensnennung, nicht-kommerziell, keine Bearbeitung  
+- Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+
+---
+
+## Hinweise zur Verwendung
+
+- Nutze **Bindestriche** in Dateinamen/Ordnern (z. B. `lizenzen-verstehen`) — keine Leerzeichen!  
+- Die Präsentation ist separat unter `/iWIP/praesentation/lizenzen-verstehen/` verfügbar (Button oben).
+
+---
 
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
 
