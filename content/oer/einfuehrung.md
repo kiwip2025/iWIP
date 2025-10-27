@@ -71,5 +71,54 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
   
   Diese Maßnahmen dienen der Umsetzung der im Jahr 2022 ausgegebenen <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">OER-Strategie der Bundesregierung (PDF)</a>.
 
+## Welche Rolle nimmt OER in der Gesellschaft ein?
+## Chancen und Potenziale von Open Educational Resources (OER)
+
+- **Impuls für Bildungspolitik**  
+  - Das *Bündnis Freie Bildung* setzt sich für offene Lehr- und Lernmaterialien, freie Software und offene Infrastrukturen ein.  
+  - OER stärkt Transparenz, Teilhabe und demokratische Bildung.
+
+- **Internationale Vorreiter**  
+  - **Norwegen** gilt als Vorreiter der OER-Nutzung in Schulen und Hochschulen.  
+  - Auch Länder wie **Polen, USA und Kanada** fördern staatlich OER-Initiativen.
+
+- **OER im Unterricht – praktische Vorteile**  
+  - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten ergänzen oder aktualisieren.  
+  - Fördert individualisierte Lernwege und differenzierten Unterricht.
+
+- **Kultur des Teilens und Kollaborierens**  
+  - OER stärkt Kooperation zwischen Lehrenden, Lernenden und Institutionen.  
+  - Ermöglicht gemeinschaftliche Weiterentwicklung und Verbesserung von Materialien.
+
+- **Abbau von Unsicherheiten und Wissenslücken**  
+  - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden.  
+  - Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**.
+
+- **Offene Wissenschaft und Wissenstransfer**  
+  - Ideal für die Verbreitung von Forschungsergebnissen, Praxiswissen und Alltagswissen.  
+  - Unterstützt Open Science, Citizen Science und wissenschaftliche Transparenz.
+
+- **Zwei zentrale Einschränkungen / Herausforderungen**  
+  - OER bleibt häufig **Mittel zum Zweck eines strukturierten Bildungsprozesses** – nicht automatisch offen oder partizipativ („Education vs. Resource“).  
+  - **Qualitätssicherung und Verlässlichkeit** von Materialien müssen gewährleistet werden.
+
+- **Weitere relevante Punkte**  
+  - **Barrierefreiheit & Inklusion**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
+  - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.  
+  - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
+  - **Finanzierung & Anreizsysteme**: Lehrkräfte und Forschende benötigen Zeit, Anerkennung oder Förderung für die Erstellung von OER.  
+  - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
+
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
+
+**Quelle:**  
+Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
+Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
+(zuletzt aufgerufen am 23. Oktober 2025)
+**Quelle:**  
+Bundeszentrale für politische Bildung (bpb). *OER ist alles. Oder ist im Web alles OER?*  
+Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222108/oer-ist-alles-oder-ist-im-web-alles-oer/>  
+(zuletzt aufgerufen am 27. Oktober 2025)  
+
+
 
