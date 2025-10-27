@@ -59,13 +59,11 @@ document.addEventListener("DOMContentLoaded", function () {
 ---
 
 ***Beispiele:***
-- Lehrtexte, Arbeitsblätter, Präsentationen
-- Videos, Grafiken, Audios, interaktive Lernobjekte
-<p style="font-size: 12px;">
+- 📚 Lehrtexte, Arbeitsblätter, Präsentationen
+- 🎥 Videos, 📊 Grafiken, 🎧 Audios, interaktive Lernobjekte
+<p style="font-size: 14px;">
   Damit andere sie rechtssicher nutzen können, werden OER mit einer <strong>offenen Lizenz</strong> veröffentlicht – meist einer <strong>Creative-Commons-Lizenz (CC)</strong>.
 </p>
-Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Lizenz** veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)**.
-
 ---
 
 ***OER sind stark, weil:***
