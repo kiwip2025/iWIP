@@ -47,6 +47,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 **OER** sind frei zugängliche **Bildungsmaterialien**, die von allen **genutzt, verändert und weiterverbreitet** werden dürfen – **rechtssicher und kostenlos**.
 
+* Bildungsmaterialien in einem sehr weiten Verständnis (von einer Definition über eine Grafik bis hin zu einem Selbstlernkurse)
+* frei über Online-Plattformen verfügbar (bspw. <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
+* digital (so lässt sich das Material gut teilen)
+* leicht bearbeitbar
+* unter offener Lizenz veröffentlicht (siehe <a href="https://creativecommons.org" target="_blank" rel="noopener">Creative Commons</a>)
+
 ***Beispiele:***
 - Lehrtexte, Arbeitsblätter, Präsentationen
 - Videos, Grafiken, Audios, interaktive Lernobjekte
