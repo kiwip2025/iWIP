@@ -6,16 +6,32 @@ outputs:
 
 {{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
 
+### Open Educational Resources (OER)  
+#### Freie Bildungsmaterialien für alle 🌍📚🔓
+
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
+
+#### Chancen für Lehre, Lernen und Wissenschaft  
+🧑‍🏫🤝💡
+
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
+
+**Prof. Dr. Matthias Söll**
+
+<div class="footer">
+  &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
+</div>
+
 ---
 
 ## 📚 Inhaltsverzeichnis
 
-- [Was sind OER?](#was-sind-oer)
-- [Lizenzen verstehen](#lizenzen-verstehen)
-- [OER finden und einsetzen](#oer-finden-und-einsetzen)
-- [OER selbst erstellen](#oer-selbst-erstellen)
-- [Selbst tätig werden](#selbst-tätig-werden)
-- [Quellen & weiterführende Links](#quellen--weiterfuehrende-links)
+- [Was sind OER?]
+- [Lizenzen verstehen]
+- [OER finden und einsetzen]
+- [OER selbst erstellen]
+- [Selbst tätig werden]
+- [Quellen & weiterführende Links]
 
 ---
 
