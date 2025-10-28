@@ -146,17 +146,7 @@ Diese Maßnahmen dienen der Umsetzung der im Jahr 2022 ausgegebenen <a href="htt
   - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
   - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
 
-  > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
-
----
-**Quelle:**  
-Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
-Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
-(zuletzt aufgerufen am 23. Oktober 2025)
-
-Bundeszentrale für politische Bildung (bpb). *OER ist alles. Oder ist im Web alles OER?*  
-Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222108/oer-ist-alles-oder-ist-im-web-alles-oer/>  
-(zuletzt aufgerufen am 27. Oktober 2025)  
+  > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.  
 
 ---
 
@@ -293,6 +283,14 @@ Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definie
 | **BY-SA** | Lizenzbedingungen (Namensnennung + Weitergabe unter gleichen Bedingungen) |
 | **3.0** | Versionsnummer |
 | **DE** | Portierung für Deutschland (optional – sonst international gültig) |
+
+---
+
+## Beispiele in der Praxis
+
+- **CC BY 4.0** — Namensnennung, internationale Version (weit verbreitet)  
+- **CC BY-NC-ND** — Namensnennung, nicht-kommerziell, keine Bearbeitung  
+- Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
 ---
 
