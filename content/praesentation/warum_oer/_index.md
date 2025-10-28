@@ -206,3 +206,280 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 <img class="fragment responsive-image" data-fragment-index="1" src="OER_qualitaet.png" alt="Kooperative Entwicklung von OER">
 
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
+
+---
+title: "Was sind OER – Präsentation"
+outputs:
+  - Reveal
+revealOptions:
+  transition: "slide"
+  slideNumber: true
+  controls: true
+  progress: true
+---
+
+{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
+
+<script>
+function triggerPrint() { window.print(); }
+</script>
+
+<div class="top-toggle">
+  <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
+  <button onclick="location.href='/iWIP/oer/was-sind-oer'" title="Zur Blogansicht">📄</button>
+</div>
+
+---
+
+# Was sind OER?
+
+> OER = Open Educational Resources = freie Bildungsmaterialien  
+
+**OER** sind frei zugängliche **Bildungsmaterialien**, die von allen **genutzt, verändert und weiterverbreitet** werden dürfen – **rechtssicher und kostenlos**.
+
+---
+
+* Bildungsmaterialien in einem sehr weiten Verständnis (von einer Definition über eine Grafik bis hin zu einem Selbstlernkurse)  
+* frei über Online-Plattformen verfügbar (bspw. twillo oder HubbS)  
+* digital (so lässt sich das Material gut teilen)  
+* leicht bearbeitbar  
+* unter offener Lizenz veröffentlicht (siehe Creative Commons)
+
+---
+
+### Beispiele
+
+- Lehrtexte, Arbeitsblätter, Präsentationen  
+- Videos, Grafiken, Audios, interaktive Lernobjekte
+
+---
+
+### Bedeutung von Lizenzen
+
+Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Lizenz** veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)**.
+
+
+---
+
+# Lizenzen verstehen
+
+Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung.
+
+---
+
+## CC – Bedingungen
+
+| Kürzel | Bedeutung | Erklärung |
+|--------|-----------|-----------|
+| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden. |
+| **SA** | Share Alike | Das Werk darf **nur unter gleichen Bedingungen** weitergegeben werden. |
+| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
+| **ND** | No Derivatives | Das Werk darf **nicht verändert** werden. |
+
+---
+
+## Lizenzkürzel – Aufbau
+
+**`CC BY-SA 3.0 DE`**
+
+| Teil | Bedeutung |
+|------|-----------|
+| **CC** | Creative Commons |
+| **BY-SA** | Lizenzbedingungen (Namensnennung + Weitergabe unter gleichen Bedingungen) |
+| **3.0** | Versionsnummer |
+| **DE** | Portierung für Deutschland (optional – sonst international gültig) |
+
+---
+
+## OER finden und einsetzen
+
+### Wo kann man OER finden?
+
+- HubbS - berufliche Schule  
+- MUNDO - Schule  
+- CC Suche  
+- WirLernenOnline - Schule  
+- OERSI - Hochschule
+
+---
+
+### Wie nutze ich OER korrekt?
+
+Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
+
+| Buchstabe | Bedeutung | Beispiel |
+|------------|------------|-----------|
+| **T** | Titel des Materials | „Einführung in die OER“ |
+| **U** | Urheber | Max Mustermann |
+| **L** | Lizenz | CC BY-SA 4.0 |
+| **L** | Link zur Lizenz | https://creativecommons.org/licenses/by-sa/4.0/ |
+| **U** | Ursprungsort | [Quelle oder URL]
+
+---
+
+## OER selbst erstellen
+
+### Schritt 1: Lizenz auswählen
+Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
+➡️ Vorteil: Deine Lizenz ist **maschinenlesbar**, sodass dein Material besser gefunden werden kann.
+
+---
+
+### Schritt 2: Inhalte prüfen
+Vor der Veröffentlichung:
+- Stelle sicher, dass du **keine urheberrechtlich geschützten Inhalte** verwendest.  
+- Falls doch: **ersetze sie durch offene Materialien** und **füge einen Lizenzhinweis hinzu**.
+
+---
+
+### Schritt 3: Geeignete Formate wählen
+| Typ | Empfohlenes Format |
+|------|--------------------|
+| Textdokumente | `.docx` oder `.odt` (statt PDF, um Bearbeitung zu erleichtern) |
+| Interaktive Materialien | mit **H5P** – z. B. Quizze, Selbsttests, Lernspiele |
+
+---
+
+### Schritt 4: Arbeitserleichterungen
+
+**Nützliche Tools:**
+- Lizenzhinweisgenerator (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
+- CC Suche  
+- Google Bilder Rückwärtssuche
+
+---
+
+## Zusammenfassung
+
+OER ermöglichen:
+- **Offenes, gemeinsames Lernen und Lehren**
+- **Rechtssichere Nutzung und Anpassung** von Materialien
+- **Transparenz und Sichtbarkeit** in der Wissenschaft und Bildung
+
+> **Merksatz:**  
+> „Offen teilen heißt gemeinsam weiterlernen – mit Respekt für Urheberrechte.“
+
+---
+
+## 🎯 Ziel der Aufgabe
+
+Entwickeln Sie ein eigenes **Open Educational Resource (OER)** basierend auf einem **WiPäd-Thema Ihrer Wahl**.  
+Nutzen Sie bestehende OERs als Ausgangspunkt und wandeln Sie diese in ein neues, **didaktisch sinnvolles Lehrmaterial** um.
+
+---
+
+## 🌟 Zielsetzung
+
+Das Ziel ist es, ein **praxisnahes Beispiel** zu erstellen, das zeigt,  
+wie aus vorhandenem OER-Material ein neues OER entstehen kann.
+
+---
+
+## ✅ Aufgabenstellung
+
+### 1️⃣ Themenwahl
+
+Wählen Sie ein Thema aus dem Bereich **Wirtschaftspädagogik**, das sich gut für die Erstellung eines didaktischen Lehrmaterials eignet.  
+
+**Mögliche Themenbeispiele:**
+- Berufliche Handlungskompetenz  
+- Lernfeldunterricht  
+- Kompetenzorientierung  
+- Digitalisierung in der Berufsbildung  
+- Nachhaltigkeit in der Berufsbildung  
+- Motivation und Lernstrategien
+
+---
+
+### 2️⃣ Recherche von bestehenden OERs
+
+Recherchieren Sie vorhandene **OER-Materialien**, die Sie als Ausgangsbasis nutzen können.  
+Nutzen Sie z. B. folgende Plattformen:
+
+- MUNDO  
+- wirlernenonline.de  
+- OERSI
+
+---
+
+### 3️⃣ Erstellung Ihres neuen OER-Materials
+
+Erstellen Sie ein neues Lehrmaterial, z. B.:
+
+- Präsentation  
+- Arbeitsblatt  
+- interaktives Lernmodul  
+- Erklärvideo  
+- Infografik
+
+---
+
+### 4️⃣ Lizenzierung Ihres OER
+
+Versehen Sie Ihr Material mit einer korrekten **OER-Lizenz**, z. B. CC BY 4.0
+
+---
+
+### 5️⃣ Didaktische Einbindung (Dokumentation)
+
+Beschreiben Sie die **Einbettung Ihres Materials in den Unterricht** (Zielgruppe, Kontext, Lernziele, Einsatz im Unterricht).
+
+---
+
+### 6️⃣ Abgabe
+
+- **Format:** PDF oder editierbares Format (.pptx, .docx, .odt)  
+- **Optional:** Bei digitalen Formaten bitte Link oder QR-Code beifügen  
+- **Veröffentlichung:** Stellen Sie Ihr Material auf der Plattform/Website von Herrn Söll bereit
+
+---
+
+## 💡 Gestaltungshinweise
+
+- Verwenden Sie **ausschließlich Materialien mit offenen Lizenzen**  
+- Geben Sie **alle Quellen korrekt an**  
+- Verwenden Sie **klare, adressatengerechte Sprache**  
+- Achten Sie auf **benutzerfreundliche Struktur** und **professionelles Design**
+
+---
+
+## 💯 Bewertungskriterien
+
+| Kriterium | Punkte |
+|------------|:------:|
+| Fachliche Richtigkeit | /20 |
+| Kreativität | /20 |
+| Didaktik | /20 |
+| Lizenzierung | /20 |
+| Gestaltung | /20 |
+| **Gesamt** | **/100** |
+
+---
+
+## 📚 Ressourcen zur Unterstützung
+
+- open-educational-resources.de  
+- creativecommons.org/licenses
+
+---
+
+## 📞 Kontakt
+
+Bei Rückfragen:  
+**[Ansprechpartner:in einsetzen]**
+
+---
+
+## Quellen & weiterführende Links
+
+- Creative Commons  
+- OERinfo – Informationsstelle für Open Educational Resources
+
+Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
+<https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
+(zuletzt aufgerufen am 23. Oktober 2025)
+
+Bundeszentrale für politische Bildung (bpb). *OER ist alles. Oder ist im Web alles OER?*  
+<https://www.bpb.de/lernen/digitale-bildung/werkstatt/222108/oer-ist-alles-oder-ist-im-web-alles-oer/>  
+(zuletzt aufgerufen am 27. Oktober 2025)
+
