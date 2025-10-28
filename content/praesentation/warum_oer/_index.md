@@ -35,6 +35,8 @@ document.addEventListener("DOMContentLoaded", function () {
   </div>
 </div>
 
+---
+
 # Was sind OER?
 <div class="definition-container">
   <div class="definition-avatar">
