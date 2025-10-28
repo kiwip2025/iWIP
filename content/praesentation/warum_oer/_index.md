@@ -2,12 +2,20 @@
 title: "Warum OER?"
 outputs:
   - Reveal
+revealOptions:
+  transition: "fade"
+  slideNumber: true
+  controls: true
+  progress: true
+  hash: true
 ---
 
-<!-- Konsistenter Button-Bereich auch hier -->
+<!-- ====================== -->
+<!-- 🔹 Fester Button-Bereich -->
+<!-- ====================== -->
 <div class="top-toggle">
   <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
-  <button class="icon-button" onclick="location.href='/iWIP/oer/lizenzen-verstehen/'" title="Zur Blogansicht">📄</button>
+  <button class="icon-button" onclick="location.href='/iWIP/oer/warum-oer/'" title="Zur Blogansicht">📄</button>
 </div>
 
 <style>
