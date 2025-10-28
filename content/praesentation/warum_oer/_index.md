@@ -29,6 +29,17 @@ outputs:
 
 ---
 
+## 📚 Inhaltsverzeichnis
+
+- [Was sind OER?](#was-sind-oer)
+- [Lizenzen verstehen](#lizenzen-verstehen)
+- [OER finden und einsetzen](#oer-finden-und-einsetzen)
+- [OER selbst erstellen](#oer-selbst-erstellen)
+- [Selbst tätig werden](#selbst-tätig-werden)
+- [Quellen & weiterführende Links](#quellen--weiterfuehrende-links)
+
+---
+
 # Was sind OER?
 <div class="definition-container">
   <div class="definition-avatar">
