@@ -204,8 +204,12 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 
 
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
+  
+*Quellen & weiterführende Links:*  
 
-**Quelle:**  
+- [Creative Commons](https://creativecommons.org)  
+- [OERinfo – Informationsstelle für Open Educational Resources](https://open-educational-resources.de/)
+
 Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
 Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
 (zuletzt aufgerufen am 23. Oktober 2025)
@@ -213,6 +217,7 @@ Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/ope
 Bundeszentrale für politische Bildung (bpb). *OER ist alles. Oder ist im Web alles OER?*  
 Abrufbar unter: <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222108/oer-ist-alles-oder-ist-im-web-alles-oer/>  
 (zuletzt aufgerufen am 27. Oktober 2025)  
+
 
 
 
