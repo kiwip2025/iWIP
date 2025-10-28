@@ -161,7 +161,17 @@ Ein Lizenzkürzel setzt sich aus mehreren Teilen zusammen, z. B.:
 | **3.0** | Versionsnummer |
 | **DE** | Portierung für Deutschland (optional – sonst international gültig) |
 
+---
+
+## Beispiele in der Praxis
+
+- **CC BY 4.0** — Namensnennung, internationale Version (weit verbreitet)  
+- **CC BY-NC-ND** — Namensnennung, nicht-kommerziell, keine Bearbeitung  
+- Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+
 > In der Praxis treten Bezeichnungen in unterschiedlichen Schreibweisen auf (z. B. mit/ohne Bindestrich, englisch/deutsch oder als Symbole).
+
+---
 
 <a id="oer-finden-und-einsetzen"></a>
 ## OER finden und einsetzen
