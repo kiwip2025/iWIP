@@ -2,38 +2,9 @@
 title: "Warum OER?"
 outputs:
   - Reveal
-revealOptions:
-  transition: "fade"
-  slideNumber: true
-  controls: true
-  progress: true
-  hash: true
 ---
 
-<!-- ====================== -->
-<!-- 🔹 Fester Button-Bereich -->
-<!-- ====================== -->
-<div class="top-toggle">
-  <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
-  <button class="icon-button" onclick="location.href='/iWIP/oer/warum-oer/'" title="Zur Blogansicht">📄</button>
-</div>
-
-<style>
-.top-toggle {
-  position: absolute;
-  top: 10px;
-  right: 20px;
-  z-index: 1000;
-  display: flex;
-}
-.icon-button {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-  margin-left: 8px;
-}
-</style>
+{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
 
 ---
 
