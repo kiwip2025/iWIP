@@ -201,6 +201,53 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 
 ---
 
+## OER selbst erstellen
+
+### Schritt 1: Lizenz auswählen
+Nutze den offiziellen **[CC-Lizenzgenerator](https://creativecommons.org/choose/)**, um deine Lizenz festzulegen.  
+➡️ Vorteil: Deine Lizenz ist **maschinenlesbar**, sodass dein Material besser gefunden werden kann.
+
+---
+
+### Schritt 2: Inhalte prüfen
+Vor der Veröffentlichung:
+- Stelle sicher, dass du **keine urheberrechtlich geschützten Inhalte** verwendest.  
+- Falls doch: **ersetze sie durch offene Materialien** und **füge einen Lizenzhinweis hinzu**.
+
+---
+
+### Schritt 3: Geeignete Formate wählen
+| Typ | Empfohlenes Format |
+|------|--------------------|
+| Textdokumente | `.docx` oder `.odt` (statt PDF, um Bearbeitung zu erleichtern) |
+| Interaktive Materialien | mit **[H5P](https://h5p.org/)** – z. B. Quizze, Selbsttests, Lernspiele |
+
+---
+
+### Schritt 4: Arbeitserleichterungen
+
+**Nützliche Tools:**
+- **Lizenzhinweisgenerator** (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
+  → Du gibst das Werk an, der Generator erstellt den korrekten Lizenzhinweis.  
+- **[CC Suche](https://search.creativecommons.org/?lang=de)**  
+  → Liefert direkt nutzbare Bilder **inkl. Lizenzhinweis**.  
+- **Google Bilder Rückwärtssuche**  
+  → Prüft, ob ein Bild bereits im Netz existiert oder offen lizenziert ist.
+
+---
+
+## Zusammenfassung
+
+OER ermöglichen:
+- **Offenes, gemeinsames Lernen und Lehren**
+- **Rechtssichere Nutzung und Anpassung** von Materialien
+- **Transparenz und Sichtbarkeit** in der Wissenschaft und Bildung
+
+> **Merksatz:**  
+> „Offen teilen heißt gemeinsam weiterlernen – mit Respekt für Urheberrechte.“
+
+---
+
 
 
   > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.
