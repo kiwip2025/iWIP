@@ -4,36 +4,28 @@ outputs:
   - Reveal
 ---
 
-{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
-
-<script>
-  function triggerPrint() {
-    window.print(); // oder eine andere Funktion, je nach Zweck
-  }
-</script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (window.location.search.includes("print-pdf")) {
-    // Warten, bis Reveal "ready" ist
-    Reveal.addEventListener("ready", function () {
-      setTimeout(() => {
-        window.print();
-      }, 300); // etwas Spielraum lassen
-    });
-  }
-});
-</script>
-
+<!-- Konsistenter Button-Bereich auch hier -->
 <div class="top-toggle">
-  <div class="top-row">
-    <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-    <button onclick="location.href='/iWIP/oer'" title="Zur Blogansicht">📄</button>
-    <a class="qr-icon-button" href="LINK-ZUM-INHALT" title="Zur Präsentation">
-      <img src="qrcode_warum_oer.png" alt="QR-Code">
-    </a>
-  </div>
+  <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
+  <button class="icon-button" onclick="location.href='/iWIP/oer/lizenzen-verstehen/'" title="Zur Blogansicht">📄</button>
 </div>
+
+<style>
+.top-toggle {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+}
+.icon-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 8px;
+}
+</style>
 
 ---
 
