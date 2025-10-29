@@ -4,6 +4,24 @@ outputs:
   - Reveal
 ---
 
+{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
+
+### Open Educational Resources (OER)  
+#### Freie Bildungsmaterialien für alle 🌍📚🔓
+
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
+
+#### Chancen für Lehre, Lernen und Wissenschaft  
+🧑‍🏫🤝💡
+
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
+
+**Prof. Dr. Matthias Söll**
+
+<div class="footer">
+  &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
+</div>
+
 <!-- Konsistenter Button-Bereich auch hier -->
 <div class="top-toggle">
   <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
@@ -26,31 +44,6 @@ outputs:
   margin-left: 8px;
 }
 </style>
-
----
-
-title: "Warum OER?"
-outputs:
-  - Reveal
----
-
-{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
-
-### Open Educational Resources (OER)  
-#### Freie Bildungsmaterialien für alle 🌍📚🔓
-
-<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
-
-#### Chancen für Lehre, Lernen und Wissenschaft  
-🧑‍🏫🤝💡
-
-<hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
-
-**Prof. Dr. Matthias Söll**
-
-<div class="footer">
-  &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
-</div>
 
 ---
 
