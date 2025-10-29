@@ -91,21 +91,18 @@ outputs:
 ---
 
 ***OER sind stark, weil:***
-<p style="font-size: 20px;">
-- Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)
-</p>
-<p style="font-size: 20px;">
-- frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/"  target="_blank" rel="noopener">HubbS</a> geteilt)
-</p>
-<p style="font-size: 20px;">
-- digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)
-</p>
-<p style="font-size: 20px;">
-- gut bearbeitbar
-</p>
-<p style="font-size: 20px;">
-- unter offener Lizenz veröffentlicht
-</p>
+<div class="definition-container">
+  <div class="definition-avatar">
+    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_2.png" alt="Avatar Erkenntnis" />
+  </div>
+  <div class="definition-box">
+    <p style="font-size: 20px;">💡 Bildungsmaterialien in einem sehr weiten Verständnis (z. B. Konzepte oder Planungen, Texte, Zusammenfassungen oder Aufgaben, aber auch Online- oder Selbstlern-Kurse)</p>
+    <p style="font-size: 20px;">🌐 Frei über Online-Plattformen verfügbar (wie <a href="https://www.twillo.de" target="_blank" rel="noopener">twillo</a> oder <a href="https://hubbs.schule/" target="_blank" rel="noopener">HubbS</a> geteilt)</p>
+    <p style="font-size: 20px;">💻 Digital (da sich entsprechende Materialien gut teilen und bearbeiten lassen)</p>
+    <p style="font-size: 20px;">✏️ Gut bearbeitbar</p>
+    <p style="font-size: 20px;">🔓 Unter offener Lizenz veröffentlicht</p>
+  </div>
+</div>
 
 ---
 
