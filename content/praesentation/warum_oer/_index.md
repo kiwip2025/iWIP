@@ -107,19 +107,26 @@ outputs:
 ---
 
 # Woher kommen OER?
-<div style="font-size: 18px;">
-  <p>- Ausgangspunkt der OER-Initiativen ist die <a href="https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf" target="_blank" rel="noopener">Agenda Bildung 2030 (PDF)</a> der UNESCO aus dem Jahr 2015</p>
-  <p> - Die UNESCO zielt mit der Agenda auf eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit ab</p>
-  <p> - Die UNESCO veröffentlichte 2019 <a href="https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf" target="_blank" rel="noopener">Empfehlungen zu OER (PDF)</a>, in denen diese als geeignete Mittel zur Erreichung der Ziele der Agenda definiert werden</p>
-  <p> - Das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR, ehemals Bundesministerium für Bildung und Forschung, BMBF) fördert in diesem Kontext seit 2016 folgende Maßnahmen:</p>
-  <ul>
-    <li><a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)</li>
-    <li><a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)</li>
-    <li><a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_Struktur</a> (2024)</li>
-  </ul>
+<div class="definition-container">
+  <div class="definition-avatar">
+    <img src="/iWIP/bilder/avatare/avatar_erkenntnis_3.png" alt="Avatar Erkenntnis" />
+  </div>
+  <div class="definition-box" style="font-size: 18px;">
+    <p>🌍 Ausgangspunkt der OER-Initiativen ist die <a href="https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf" target="_blank" rel="noopener">Agenda Bildung 2030 (PDF)</a> der UNESCO aus dem Jahr 2015</p>
+    <p>🎯 Die UNESCO zielt mit der Agenda auf eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit ab</p>
+    <p>📜 2019 veröffentlichte die UNESCO <a href="https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf" target="_blank" rel="noopener">Empfehlungen zu OER (PDF)</a>, in denen diese als geeignete Mittel zur Erreichung der Ziele der Agenda definiert werden</p>
+    <p>🏛️ Das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR, ehemals BMBF) fördert in diesem Kontext seit 2016 folgende Maßnahmen:</p>
+    <ul>
+      <li>🔹 <a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)</li>
+      <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)</li>
+      <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_Struktur</a> (2024)</li>
+    </ul>
+  </div>
 </div>
 
-Diese Maßnahmen dienen der Umsetzung der im Jahr 2022 ausgegebenen <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">OER-Strategie der Bundesregierung (PDF)</a>.
+<p style="font-size: 18px;">
+  Diese Maßnahmen dienen der Umsetzung der im Jahr 2022 ausgegebenen <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">OER-Strategie der Bundesregierung (PDF)</a>.
+</p>
  
 ---
 
