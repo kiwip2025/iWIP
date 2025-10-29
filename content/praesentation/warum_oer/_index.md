@@ -109,8 +109,8 @@ outputs:
 # 🌍 Woher kommen OER?
 
 <div style="
-  font-size: 0.9em;
-  line-height: 1.5;
+  font-size: 0.8em;
+  line-height: 1.4;
   max-width: 850px;
   margin: 0 auto;
   text-align: left;
@@ -133,11 +133,11 @@ Empfehlungen zu OER (PDF)
 (ehem. BMBF) seit 2016 folgende Maßnahmen:</p>
 
 <ul style="
-  font-size: 0.9em;
-  margin-left: 1.5em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  line-height: 1.6;
+  font-size: 0.8em;
+  margin-left: 1.2em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  line-height: 1.5;
 ">
   <li>🔹 <a href='https://open-educational-resources.de/' target='_blank' rel='noopener'>OERInfo</a> (2016)</li>
   <li>🔹 <a href='https://www.oer-strategie.de/foerdern/foerderrichtlinien/' target='_blank' rel='noopener'>OE_COM</a> (2023)</li>
