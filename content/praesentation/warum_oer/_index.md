@@ -22,16 +22,16 @@ outputs:
   &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
 </div>
 
-<!-- Konsistenter Button-Bereich auch hier -->
-<div class="top-toggle">
+<!-- Konsistenter Button-Bereich unten rechts -->
+<div class="bottom-toggle">
   <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
   <button class="icon-button" onclick="location.href='/iWIP/oer/einfuehrung/'" title="Zur Blogansicht">📄</button>
 </div>
 
 <style>
-.top-toggle {
+.bottom-toggle {
   position: absolute;
-  top: 10px;
+  bottom: 10px; /* statt top */
   right: 20px;
   z-index: 1000;
   display: flex;
