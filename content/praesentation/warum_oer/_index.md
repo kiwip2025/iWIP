@@ -1,4 +1,34 @@
 ---
+title: "Warum OER"
+outputs:
+  - Reveal
+---
+
+<!-- Konsistenter Button-Bereich auch hier -->
+<div class="top-toggle">
+  <button class="icon-button" onclick="window.print()" title="Präsentation speichern">💾</button>
+  <button class="icon-button" onclick="location.href='/iWIP/oer/einfuehrung/'" title="Zur Blogansicht">📄</button>
+</div>
+
+<style>
+.top-toggle {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+}
+.icon-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 8px;
+}
+</style>
+
+---
+
 title: "Warum OER?"
 outputs:
   - Reveal
