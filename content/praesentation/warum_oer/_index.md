@@ -108,23 +108,46 @@ outputs:
 
 # 🌍 Woher kommen OER?
 
-<div style="font-size: 18px; line-height: 1.4; max-width: 900px; margin: 0 auto;">
+<div style="
+  font-size: 0.9em;
+  line-height: 1.5;
+  max-width: 850px;
+  margin: 0 auto;
+  text-align: left;
+">
 
-<p>📜 Ausgangspunkt der OER-Initiativen ist die <a href="https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf" target="_blank" rel="noopener">Agenda Bildung 2030 (PDF)</a> der UNESCO (2015).</p>
+<p>📜 Ausgangspunkt der OER-Initiativen ist die 
+<a href='https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf' target='_blank' rel='noopener'>
+Agenda Bildung 2030 (PDF)
+</a> der UNESCO (2015).</p>
 
 <p>🎯 Ziel ist eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit.</p>
 
-<p>🪶 2019 veröffentlichte die UNESCO die <a href="https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf" target="_blank" rel="noopener">Empfehlungen zu OER (PDF)</a>, in denen OER als Mittel zur Erreichung der Bildungsziele definiert werden.</p>
+<p>🪶 2019 veröffentlichte die UNESCO die 
+<a href='https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf' target='_blank' rel='noopener'>
+Empfehlungen zu OER (PDF)
+</a>, in denen OER als Mittel zur Erreichung der Bildungsziele definiert werden.</p>
 
-<p>🏛️ In Deutschland fördert das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR, ehem. BMBF) seit 2016 folgende Maßnahmen:</p>
+<p>🏛️ In Deutschland fördert das 
+<strong>Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)</strong> 
+(ehem. BMBF) seit 2016 folgende Maßnahmen:</p>
 
-<ul style="font-size: 18px; margin-left: 1em;">
-  <li>🔹 <a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)</li>
-  <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)</li>
-  <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_Struktur</a> (2024)</li>
+<ul style="
+  font-size: 0.9em;
+  margin-left: 1.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+">
+  <li>🔹 <a href='https://open-educational-resources.de/' target='_blank' rel='noopener'>OERInfo</a> (2016)</li>
+  <li>🔹 <a href='https://www.oer-strategie.de/foerdern/foerderrichtlinien/' target='_blank' rel='noopener'>OE_COM</a> (2023)</li>
+  <li>🔹 <a href='https://www.oer-strategie.de/foerdern/foerderrichtlinien/' target='_blank' rel='noopener'>OE_Struktur</a> (2024)</li>
 </ul>
 
-<p>💡 Diese Maßnahmen unterstützen die Umsetzung der <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">OER-Strategie der Bundesregierung (PDF)</a> von 2022.</p>
+<p>💡 Diese Maßnahmen unterstützen die Umsetzung der 
+<a href='https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5' target='_blank' rel='noopener'>
+OER-Strategie der Bundesregierung (PDF)
+</a> von 2022.</p>
 
 </div>
  
