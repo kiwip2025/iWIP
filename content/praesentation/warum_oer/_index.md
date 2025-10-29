@@ -109,7 +109,7 @@ outputs:
 # 🌍 Woher kommen OER?
 
 <div style="
-  font-size: 0.35em;
+  font-size: 0.1em;
   line-height: 1.1;
   max-width: 900px;
   margin: 0 auto;
@@ -133,7 +133,7 @@ Empfehlungen zu OER (PDF)
 (ehem. BMBF) seit 2016 folgende Maßnahmen:</p>
 
 <ul style="
-  font-size: 0.35em;
+  font-size: 0.1em;
   margin-left: 1.2em;
   margin-top: 0.2em;
   margin-bottom: 0.2em;
