@@ -108,27 +108,47 @@ outputs:
 
 # 🌍 Woher kommen OER?
 
-* 📜 Ursprung der OER-Initiativen ist die 
-  [Agenda Bildung 2030 (PDF)](https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf)
-  der UNESCO (2015).
+<div style="font-size: 20px; line-height: 1.3;">
 
-* 🎯 Ziel ist eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit.
+<ul style="list-style-type: none; padding-left: 0;">
 
-* 🪶 2019 veröffentlichte die UNESCO die 
-  [Empfehlungen zu OER (PDF)](https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf),
-  in denen OER als Mittel zur Erreichung der Bildungsziele definiert werden.
+  <li>📜 Ursprung der OER-Initiativen ist die 
+    <a href="https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf" target="_blank" rel="noopener">
+      Agenda Bildung 2030 (PDF)
+    </a>
+    der UNESCO (2015).
+  </li>
 
-* 🏛️ In Deutschland fördert das **Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)**  
-  (ehem. BMBF) seit 2016 mehrere Maßnahmen:
-  <p style="font-size: 20px;">
-  - 🔹 [OERInfo](https://open-educational-resources.de/) (2016)  
-  - 🔹 [OE_COM](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2023)  
-  - 🔹 [OE_Struktur](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2024)
-(CC)</strong>.
-</p>
-* 💡 Diese Maßnahmen unterstützen die Umsetzung der 
-  [OER-Strategie der Bundesregierung (PDF)](https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5)
-  von 2022.
+  <li>🎯 Ziel ist eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit.</li>
+
+  <li>🪶 2019 veröffentlichte die UNESCO die 
+    <a href="https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf" target="_blank" rel="noopener">
+      Empfehlungen zu OER (PDF)
+    </a>,
+    in denen OER als Mittel zur Erreichung der Bildungsziele definiert werden.
+  </li>
+
+  <li>🏛️ In Deutschland fördert das 
+    <strong>Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)</strong> 
+    (ehem. BMBF) seit 2016 mehrere Maßnahmen:
+    <ul style="margin-top: 0.3em; margin-bottom: 0.3em;">
+      <li>🔹 <a href="https://open-educational-resources.de/" target="_blank" rel="noopener">OERInfo</a> (2016)</li>
+      <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_COM</a> (2023)</li>
+      <li>🔹 <a href="https://www.oer-strategie.de/foerdern/foerderrichtlinien/" target="_blank" rel="noopener">OE_Struktur</a> (2024)</li>
+    </ul>
+  </li>
+
+  <li>💡 Diese Maßnahmen unterstützen die Umsetzung der 
+    <a href="https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5" target="_blank" rel="noopener">
+      OER-Strategie der Bundesregierung (PDF)
+    </a>
+    von 2022.
+  </li>
+
+</ul>
+
+</div>
+
  
 ---
 
