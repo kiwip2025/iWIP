@@ -138,38 +138,43 @@ outputs:
  
 ---
 
-# Welche Rolle nimmt OER in der Gesellschaft ein?
+# 🌍 Welche Rolle nimmt OER in der Gesellschaft ein?
 
-- **Impuls für Bildungspolitik**  
+- **📚 Impuls für Bildungspolitik**  
   - Das *Bündnis Freie Bildung* setzt sich für offene Lehr- und Lernmaterialien, freie Software und offene Infrastrukturen ein  
-  - OER stärkt Transparenz, Teilhabe und demokratische Bildung
+  - OER stärkt **Transparenz, Teilhabe und demokratische Bildung**
 
-- **Internationale Vorreiter**  
+- **🌐 Internationale Vorreiter**  
   - **Norwegen** gilt als Vorreiter der OER-Nutzung in Schulen und Hochschulen  
   - Auch Länder wie **Polen, USA und Kanada** fördern staatlich OER-Initiativen
 
 ---
 
-- **OER im Unterricht – praktische Vorteile**  
-  - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten ergänzen oder aktualisieren  
-  - Fördert individualisierte Lernwege und differenzierten Unterricht
-  
-- **Kultur des Teilens und Kollaborierens**  
-  - OER stärkt Kooperation zwischen Lehrenden, Lernenden und Institutionen  
-  - Ermöglicht gemeinschaftliche Weiterentwicklung und Verbesserung von Materialien
+# 🎓 OER im Unterricht
+
+- **🧩 OER im Unterricht – praktische Vorteile**  
+  - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten **ergänzen oder aktualisieren**  
+  - Fördert **individualisierte Lernwege** und **differenzierten Unterricht**
+
+- **🤝 Kultur des Teilens und Kollaborierens**  
+  - OER stärkt **Kooperation zwischen Lehrenden, Lernenden und Institutionen**  
+  - Ermöglicht **gemeinschaftliche Weiterentwicklung** und **Verbesserung von Materialien**
 
 ---
 
-- **Abbau von Unsicherheiten und Wissenslücken**  
-  - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden. 
-  - Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**
+# 🧠 Abbau von Unsicherheiten und Wissenslücken
+
+- **💡 Aufklärung über Lizenzen** *(z. B. Creative Commons)* ist zentral, um **rechtliche Unsicherheit zu vermeiden**.  
+- Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**.
+
 
 ---
 
-- **Offene Wissenschaft und Wissenstransfer**  
-  - Ideal für die Verbreitung von Forschungsergebnissen, Praxiswissen und Alltagswissen 
-  - Unterstützt Open Science, Citizen Science und wissenschaftliche Transparenz
-  - **Zwei zentrale Einschränkungen / Herausforderungen**  
+# 🌐 Offene Wissenschaft und Wissenstransfer
+
+- Ideal für die **Verbreitung von Forschungsergebnissen**, Praxiswissen und Alltagswissen  
+- Unterstützt **Open Science**, **Citizen Science** und **wissenschaftliche Transparenz**  
+- **Zwei zentrale Einschränkungen / Herausforderungen**  
   - OER bleibt häufig **Mittel zum Zweck eines strukturierten Bildungsprozesses** – nicht automatisch offen oder partizipativ („Education vs. Resource“)  
   - **Qualitätssicherung und Verlässlichkeit** von Materialien müssen gewährleistet werden
 
@@ -298,7 +303,7 @@ table {
 
 ---
 
-## Beispiele in der Praxis
+## 🤝 Beispiele in der Praxis
 
 - **CC BY 4.0** — Namensnennung, internationale Version (weit verbreitet)  
 - **CC BY-NC-ND** — Namensnennung, nicht-kommerziell, keine Bearbeitung  
@@ -306,7 +311,7 @@ table {
 
 ---
 
-## OER finden und einsetzen
+## 🕵️ OER finden und einsetzen
 
 ### Wo kann man OER finden?
 
@@ -318,7 +323,7 @@ table {
 
 ---
 
-### Wie nutze ich OER korrekt?
+### ✅📣 Wie nutze ich OER korrekt?
 
 Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 
@@ -331,48 +336,48 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **U** | Ursprungsort | [Quelle oder URL]
 
 ---
+## 💼 OER selbst erstellen
 
-## OER selbst erstellen
-
-### Schritt 1: Lizenz auswählen
+### 🪪 Schritt 1: Lizenz auswählen
 Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
-➡️ Vorteil: Deine Lizenz ist **maschinenlesbar**, sodass dein Material besser gefunden werden kann.
+➡️ **Vorteil:** Deine Lizenz ist **maschinenlesbar**, sodass dein Material besser gefunden werden kann. 🔍
 
 ---
 
-### Schritt 2: Inhalte prüfen
+### 🧾 Schritt 2: Inhalte prüfen
 Vor der Veröffentlichung:
-- Stelle sicher, dass du **keine urheberrechtlich geschützten Inhalte** verwendest.  
-- Falls doch: **ersetze sie durch offene Materialien** und **füge einen Lizenzhinweis hinzu**.
+- ✅ Stelle sicher, dass du **keine urheberrechtlich geschützten Inhalte** verwendest.  
+- 🔄 Falls doch: **Ersetze sie durch offene Materialien** und **füge einen Lizenzhinweis hinzu**.
 
 ---
 
-### Schritt 3: Geeignete Formate wählen
-| Typ | Empfohlenes Format |
-|------|--------------------|
-| Textdokumente | `.docx` oder `.odt` (statt PDF, um Bearbeitung zu erleichtern) |
-| Interaktive Materialien | mit **H5P** – z. B. Quizze, Selbsttests, Lernspiele |
+### 🧱 Schritt 3: Geeignete Formate wählen
+
+| 📂 Typ | 💡 Empfohlenes Format |
+|:-------|:----------------------|
+| 📝 Textdokumente | `.docx` oder `.odt` *(statt PDF, um Bearbeitung zu erleichtern)* |
+| 🧩 Interaktive Materialien | mit **H5P** – z. B. Quizze, Selbsttests, Lernspiele 🎮 |
 
 ---
 
-### Schritt 4: Arbeitserleichterungen
+### ⚙️ Schritt 4: Arbeitserleichterungen
 
-**Nützliche Tools:**
-- Lizenzhinweisgenerator (z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)  
-- CC Suche  
-- Google Bilder Rückwärtssuche
+**🧰 Nützliche Tools:**
+- 🪪 Lizenzhinweisgenerator *(z. B. für Inhalte aus Wikipedia oder Wikimedia Commons)*  
+- 🌐 CC Suche  
+- 🔍 Google Bilder Rückwärtssuche
 
 ---
 
-## Zusammenfassung
+## 🧭 Zusammenfassung
 
 OER ermöglichen:
-- **Offenes, gemeinsames Lernen und Lehren**
-- **Rechtssichere Nutzung und Anpassung** von Materialien
-- **Transparenz und Sichtbarkeit** in der Wissenschaft und Bildung
+- 🤝 **Offenes, gemeinsames Lernen und Lehren**  
+- 🧑‍🏫 **Rechtssichere Nutzung und Anpassung** von Materialien  
+- 🌟 **Transparenz und Sichtbarkeit** in der Wissenschaft und Bildung
 
-> **Merksatz:**  
-> „Offen teilen heißt gemeinsam weiterlernen – mit Respekt für Urheberrechte.“
+> 💬 **Merksatz:**  
+> „📖 Offen teilen heißt gemeinsam weiterlernen – mit Respekt für Urheberrechte.“
 
 ---
 
