@@ -108,7 +108,7 @@ outputs:
 
 # 🌍 Woher kommen OER?
 
-<div style="font-size: 15px;">
+<p style="font-size: 20px;">
 
 * 📜 Ursprung der OER-Initiativen ist die 
   [Agenda Bildung 2030 (PDF)](https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf)
@@ -130,7 +130,7 @@ outputs:
   [OER-Strategie der Bundesregierung (PDF)](https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5)
   von 2022.
 
-</div>
+</p>
 
 
  
