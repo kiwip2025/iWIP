@@ -112,15 +112,19 @@ outputs:
 * 📜 Ursprung der OER-Initiativen ist die 
   [Agenda Bildung 2030 (PDF)](https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/Publikation_Bildungsagenda_2030_Aktionsrahmen.pdf)
   der UNESCO (2015).
+  
 * 🎯 Ziel ist eine inklusive, chancengerechte und hochwertige Bildung für alle Menschen weltweit.
+  
 * 🪶 2019 veröffentlichte die UNESCO die 
   [Empfehlungen zu OER (PDF)](https://www.unesco.de/assets/2019_Empfehlung_Open_Educational_Resources.pdf),
   in denen OER als Mittel zur Erreichung der Bildungsziele definiert werden.
+  
 * 🏛️ In Deutschland fördert das **Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)**  
   (ehem. BMBF) seit 2016 mehrere Maßnahmen:
   - 🔹 [OERInfo](https://open-educational-resources.de/) (2016)  
   - 🔹 [OE_COM](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2023)  
   - 🔹 [OE_Struktur](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2024)
+    
 * 💡 Diese Maßnahmen unterstützen die Umsetzung der 
   [OER-Strategie der Bundesregierung (PDF)](https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5)
   von 2022.
