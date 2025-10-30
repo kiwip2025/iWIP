@@ -267,6 +267,8 @@ table {
 | **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
 | **ND** | No Derivatives | Das Werk darf **nicht verändert** werden. |
 
+---
+
 > 💡 **Tipp:** Diese Kürzel kannst du frei kombinieren, z. B. `CC BY-SA` oder `CC BY-NC-ND`.
 
 ---
@@ -289,6 +291,8 @@ table {
 | **BY-SA** | *Namensnennung* + 🔁 *Weitergabe unter gleichen Bedingungen* |
 | **3.0** | *Versionsnummer* |
 | **DE** | *Portierung für Deutschland* (optional – sonst international gültig) |
+
+---
 
 > 💬 **Merke:** Ohne Länderkennung (z. B. *DE*) gilt die Lizenz international.
 
