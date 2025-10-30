@@ -164,6 +164,8 @@ outputs:
   - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden. 
   - Lehrkräfte benötigen **Fortbildungen und klare Leitlinien**
 
+---
+
 - **Offene Wissenschaft und Wissenstransfer**  
   - Ideal für die Verbreitung von Forschungsergebnissen, Praxiswissen und Alltagswissen 
   - Unterstützt Open Science, Citizen Science und wissenschaftliche Transparenz
@@ -175,11 +177,9 @@ outputs:
 
 - **Weitere relevante Punkte**  
   - **Barrierefreiheit & Inklusion**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
-  - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.  
+  - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.
   - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
   - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
-
-  > Auf <a href="https://open-educational-resources.de/was-ist-oer-3-2/" target="_blank" rel="noopener">OERInfo.de</a> finden Sie weitere, anschaulich aufbereitete Informationen zu OER: bspw. ein 90s Erklärvideo, eine ausführliche Definition sowie Infos zu offenen Lizenzen und zum Mehrwert von OER.  
 
 ---
 
@@ -234,29 +234,6 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 <img class="fragment responsive-image" data-fragment-index="1" src="OER_qualitaet.png" alt="Kooperative Entwicklung von OER">
 
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
-
----
-
-# Was sind OER?
-
-> OER = Open Educational Resources = freie Bildungsmaterialien  
-
-**OER** sind frei zugängliche **Bildungsmaterialien**, die von allen **genutzt, verändert und weiterverbreitet** werden dürfen – **rechtssicher und kostenlos**.
-
----
-
-* Bildungsmaterialien in einem sehr weiten Verständnis (von einer Definition über eine Grafik bis hin zu einem Selbstlernkurse)  
-* frei über Online-Plattformen verfügbar (bspw. twillo oder HubbS)  
-* digital (so lässt sich das Material gut teilen)  
-* leicht bearbeitbar  
-* unter offener Lizenz veröffentlicht (siehe Creative Commons)
-
----
-
-### Beispiele
-
-- Lehrtexte, Arbeitsblätter, Präsentationen  
-- Videos, Grafiken, Audios, interaktive Lernobjekte
 
 ---
 
