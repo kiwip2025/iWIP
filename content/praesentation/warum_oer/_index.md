@@ -399,7 +399,9 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 
 ### 1️⃣ Themenwahl
 
-Wählen Sie ein Thema aus dem Bereich **Wirtschaftspädagogik**, das sich gut für die Erstellung eines didaktischen Lehrmaterials eignet.  
+Wählen Sie ein Thema aus dem Bereich **Wirtschaftspädagogik**, das sich gut für die Erstellung eines didaktischen Lehrmaterials eignet.
+
+---
 
 **Mögliche Themenbeispiele:**
 - Berufliche Handlungskompetenz  
