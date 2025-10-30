@@ -249,14 +249,23 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
 Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung.
 
 ---
+
 ## 🎨 CC – Bedingungen
 
-| Kürzel | Bedeutung 🧩 | Erklärung 📘 |
-|:------:|:------------:|-------------|
-| **BY** | 🏷️ *Attribution* | Der **Name des Urhebers** muss genannt werden. |
-| **SA** | 🔁 *Share Alike* | Das Werk darf **nur unter gleichen Bedingungen** weitergegeben werden. |
-| **NC** | 💸 *Non Commercial* | **Keine kommerzielle Nutzung** erlaubt. |
-| **ND** | 🚫 *No Derivatives* | Das Werk darf **nicht verändert** werden. |
+<style>
+table {
+  font-size: 0.8em;
+  width: 85%;
+  margin: auto;
+}
+</style>
+
+| Kürzel | Bedeutung | Erklärung |
+|:------:|:-----------|------------|
+| **BY** | Attribution | Der **Name des Urhebers** muss genannt werden. |
+| **SA** | Share Alike | Das Werk darf **nur unter gleichen Bedingungen** weitergegeben werden. |
+| **NC** | Non Commercial | **Keine kommerzielle Nutzung** erlaubt. |
+| **ND** | No Derivatives | Das Werk darf **nicht verändert** werden. |
 
 > 💡 **Tipp:** Diese Kürzel kannst du frei kombinieren, z. B. `CC BY-SA` oder `CC BY-NC-ND`.
 
@@ -264,14 +273,22 @@ Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definie
 
 ## 🧾 Lizenzkürzel – Aufbau
 
+<style>
+table {
+  font-size: 0.8em;
+  width: 85%;
+  margin: auto;
+}
+</style>
+
 **`CC BY-SA 3.0 DE`**
 
 | Teil 🔤 | Bedeutung 💡 |
 |:--------|:-------------|
-| **CC** | 🌐 *Creative Commons* |
-| **BY-SA** | 🏷️ *Namensnennung* + 🔁 *Weitergabe unter gleichen Bedingungen* |
-| **3.0** | 📄 *Versionsnummer* |
-| **DE** | 🇩🇪 *Portierung für Deutschland* (optional – sonst international gültig) |
+| **CC** | *Creative Commons* |
+| **BY-SA** | *Namensnennung* + 🔁 *Weitergabe unter gleichen Bedingungen* |
+| **3.0** | *Versionsnummer* |
+| **DE** | *Portierung für Deutschland* (optional – sonst international gültig) |
 
 > 💬 **Merke:** Ohne Länderkennung (z. B. *DE*) gilt die Lizenz international.
 
