@@ -120,14 +120,15 @@ outputs:
 
 * 🏛️ In Deutschland fördert das **Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)**  
   (ehem. BMBF) seit 2016 mehrere Maßnahmen:
+  <p style="font-size: 20px;">
   - 🔹 [OERInfo](https://open-educational-resources.de/) (2016)  
   - 🔹 [OE_COM](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2023)  
   - 🔹 [OE_Struktur](https://www.oer-strategie.de/foerdern/foerderrichtlinien/) (2024)
-
+(CC)</strong>.
+</p>
 * 💡 Diese Maßnahmen unterstützen die Umsetzung der 
   [OER-Strategie der Bundesregierung (PDF)](https://www.bmbf.de/SharedDocs/Publikationen/DE/3/691288_OER-Strategie.pdf?__blob=publicationFile&v=5)
   von 2022.
-
  
 ---
 
