@@ -285,7 +285,7 @@ table {
 
 **`CC BY-SA 3.0 DE`**
 
-| Teil 🔤 | Bedeutung 💡 |
+| Teil  | Bedeutung  |
 |:--------|:-------------|
 | **CC** | *Creative Commons* |
 | **BY-SA** | *Namensnennung* + 🔁 *Weitergabe unter gleichen Bedingungen* |
