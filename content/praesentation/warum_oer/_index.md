@@ -231,28 +231,6 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
 
 ---
-title: "Was sind OER – Präsentation"
-outputs:
-  - Reveal
-revealOptions:
-  transition: "slide"
-  slideNumber: true
-  controls: true
-  progress: true
----
-
-{{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
-
-<script>
-function triggerPrint() { window.print(); }
-</script>
-
-<div class="top-toggle">
-  <button onclick="triggerPrint()" title="Präsentation speichern">💾</button>
-  <button onclick="location.href='/iWIP/oer/was-sind-oer'" title="Zur Blogansicht">📄</button>
-</div>
-
----
 
 # Was sind OER?
 
