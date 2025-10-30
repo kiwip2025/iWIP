@@ -148,14 +148,17 @@ outputs:
   - **Norwegen** gilt als Vorreiter der OER-Nutzung in Schulen und Hochschulen  
   - Auch Länder wie **Polen, USA und Kanada** fördern staatlich OER-Initiativen
 
+---
+
 - **OER im Unterricht – praktische Vorteile**  
   - Schulbücher und Materialien lassen sich flexibel mit OER-Inhalten ergänzen oder aktualisieren  
   - Fördert individualisierte Lernwege und differenzierten Unterricht
   
----
 - **Kultur des Teilens und Kollaborierens**  
   - OER stärkt Kooperation zwischen Lehrenden, Lernenden und Institutionen  
   - Ermöglicht gemeinschaftliche Weiterentwicklung und Verbesserung von Materialien
+
+---
 
 - **Abbau von Unsicherheiten und Wissenslücken**  
   - Aufklärung über Lizenzen (z. B. Creative Commons) ist zentral, um rechtliche Unsicherheit zu vermeiden. 
@@ -167,8 +170,8 @@ outputs:
   - **Zwei zentrale Einschränkungen / Herausforderungen**  
   - OER bleibt häufig **Mittel zum Zweck eines strukturierten Bildungsprozesses** – nicht automatisch offen oder partizipativ („Education vs. Resource“)  
   - **Qualitätssicherung und Verlässlichkeit** von Materialien müssen gewährleistet werden
----
 
+---
 
 - **Weitere relevante Punkte**  
   - **Barrierefreiheit & Inklusion**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
