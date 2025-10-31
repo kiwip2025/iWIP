@@ -4,9 +4,9 @@ outputs:
   - Reveal
 ---
 
-<!-- 🏠 Globaler Zurück-zum-Inhaltsverzeichnis-Button -->
+<!-- 🏠 Globaler Button -->
 <div class="back-to-index">
-  <button onclick="Reveal.slide(1, 0)" title="Zurück zum Inhaltsverzeichnis">🏠</button>
+  <button onclick="Reveal.slide(1)" title="Zurück zum Inhaltsverzeichnis">🏠</button>
 </div>
 
 <style>
