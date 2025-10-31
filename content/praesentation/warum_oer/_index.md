@@ -240,14 +240,13 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 
 ---
 
-### Bedeutung von Lizenzen
+### 💡 Bedeutung von Lizenzen
 
-Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Lizenz** veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)**.
-
+Damit andere sie rechtssicher ⚖️ nutzen können, werden OER mit einer **offenen Lizenz** 🔓 veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)** 🎨📘
 
 ---
 
-# 📜Lizenzen verstehen
+# 📜 Lizenzen verstehen
 
 Creative Commons Lizenzen 🎨 ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung 👤, nicht-kommerzielle Nutzung 💼🚫, Weitergabe unter gleichen Bedingungen 🔄, und dem Verbot von Bearbeitungen ✏️🚫.
 
