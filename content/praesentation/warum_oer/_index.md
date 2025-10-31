@@ -16,8 +16,6 @@ outputs:
 
 <hr style="border: none; height: 2px; background-color: #ccc; margin: 2rem 0;">
 
-**Prof. Dr. Matthias Söll**
-
 <div class="footer">
   &copy; 2025 Prof. Dr. Matthias Söll · Universität Rostock
 </div>
@@ -181,10 +179,10 @@ outputs:
 ---
 
 - **Weitere relevante Punkte**  
-  - **Barrierefreiheit & Inklusion**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
-  - **Digitale Infrastruktur notwendig**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.
-  - **Nachhaltigkeit**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
-  - **Sprachliche und kulturelle Vielfalt**: Materialien sollten übersetzbar und global zugänglich sein.
+  - **Barrierefreiheit & Inklusion ♿🤝**: OER kann besser an individuelle Bedürfnisse angepasst werden.  
+  - **Digitale Infrastruktur notwendig 💻🔍**: Plattformen, Suchportale (z. B. OERinfo), Metadaten-Standards.
+  - **Nachhaltigkeit 🌱⏳**: Regelmäßige Pflege, Aktualisierung und langfristige Datenhaltung entscheidend.  
+  - **Sprachliche und kulturelle Vielfalt 🌍🗣️**: Materialien sollten übersetzbar und global zugänglich sein.
 
 ---
 
@@ -249,9 +247,11 @@ Damit andere sie rechtssicher nutzen können, werden OER mit einer **offenen Liz
 
 ---
 
-# Lizenzen verstehen
+# 📜Lizenzen verstehen
 
-Creative Commons Lizenzen ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung, nicht-kommerzieller Nutzung, Weitergabe unter gleichen Bedingungen und dem Verbot von Bearbeitungen. Die Lizenzangabe umfasst dabei den Lizenztyp, die Versionsnummer und optional eine Länderanpassung.
+Creative Commons Lizenzen 🎨 ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung 👤, nicht-kommerzielle Nutzung 💼🚫, Weitergabe unter gleichen Bedingungen 🔄, und dem Verbot von Bearbeitungen ✏️🚫.
+
+Die Lizenzangabe umfasst dabei den Lizenztyp 🏷️, die Versionsnummer 🔢 und optional eine Länderanpassung 🌍.
 
 ---
 
