@@ -389,10 +389,12 @@ OER ermöglichen:
 
 ---
 
+<section id="ziel-der-aufgabe">
+  
 ## 🎯 Ziel der Aufgabe
 
-Entwickeln Sie ein eigenes **Open Educational Resource (OER)** basierend auf einem **WiPäd-Thema Ihrer Wahl**.  
-Nutzen Sie bestehende OERs als Ausgangspunkt und wandeln Sie diese in ein neues, **didaktisch sinnvolles Lehrmaterial** um.
+Entwickeln Sie ein eigenes **Open Educational Resource (OER)** basierend auf einem **WiPäd-Thema Ihrer Wahl**.
+</section>
 
 ---
 
@@ -502,8 +504,15 @@ Bei Rückfragen:
 
 ## Quellen & weiterführende Links
 
+<section id="quellen">
+  
+## 📚 Quellen & weiterführende Links
+
 - Creative Commons  
 - OERinfo – Informationsstelle für Open Educational Resources
+</section>
+
+---
 
 Bundeszentrale für politische Bildung (bpb). *Open Educational Resources – OER.*  
 <https://www.bpb.de/lernen/digitale-bildung/werkstatt/222073/open-educational-resources-oer/>  
