@@ -47,12 +47,12 @@ outputs:
 
 ## 📚 Inhaltsverzeichnis
 
-- [Was sind OER?](#was-sind-oer)
-- [Lizenzen verstehen](#lizenzen-verstehen)
-- [OER finden und einsetzen](#oer-finden)
-- [OER selbst erstellen](#oer-erstellen)
-- [Selbst tätig werden](#selbst-taetig)
-- [Quellen & weiterführende Links](#quellen)
+- [Was sind OER?](#/was-sind-oer)
+- [Lizenzen verstehen](#/lizenzen-verstehen)
+- [OER finden und einsetzen](#/oer-finden)
+- [OER selbst erstellen](#/oer-erstellen)
+- [Selbst tätig werden](#/ziel-der-aufgabe)
+- [Quellen & weiterführende Links](#/quellen)
   
 ---
 
