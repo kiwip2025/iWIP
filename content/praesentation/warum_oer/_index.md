@@ -43,12 +43,13 @@ outputs:
 }
 </style>
 
-<!-- 🏠 Zurück-zum-Inhalt-Button -->
+<!-- 🏠 Zurück-zum-Inhalt-Button (global sichtbar auf allen Folien) -->
 <div class="back-to-index">
   <button onclick="Reveal.slide(1, 0)" title="Zurück zum Inhaltsverzeichnis">🏠</button>
 </div>
 
 <style>
+/* Globaler "Zurück-zum-Inhalt"-Button (unten links) */
 .back-to-index {
   position: fixed;
   bottom: 10px;
