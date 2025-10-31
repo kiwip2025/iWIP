@@ -313,15 +313,17 @@ table {
 
 ---
 
+<section id="oer-finden">
+  
 ## 🕵️ OER finden und einsetzen
 
 ### Wo kann man OER finden?
-
-- HubbS - berufliche Schule  
-- MUNDO - Schule  
+- HubbS – berufliche Schule  
+- MUNDO – Schule  
 - CC Suche  
-- WirLernenOnline - Schule  
-- OERSI - Hochschule
+- WirLernenOnline – Schule  
+- OERSI – Hochschule
+</section>
 
 ---
 
@@ -338,11 +340,15 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **U** | Ursprungsort | [Quelle oder URL]
 
 ---
+
+<section id="oer-erstellen">
+  
 ## 💼 OER selbst erstellen
 
 ### 🪪 Schritt 1: Lizenz auswählen
 Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
-➡️ **Vorteil:** Deine Lizenz ist **maschinenlesbar**, sodass dein Material besser gefunden werden kann. 🔍
+➡️ **Vorteil:** Maschinenlesbar, besser auffindbar 🔍
+</section>
 
 ---
 
