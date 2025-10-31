@@ -4,6 +4,32 @@ outputs:
   - Reveal
 ---
 
+<!-- 🏠 Globaler Zurück-zum-Inhaltsverzeichnis-Button -->
+<div class="back-to-index">
+  <button onclick="Reveal.slide(1, 0)" title="Zurück zum Inhaltsverzeichnis">🏠</button>
+</div>
+
+<style>
+.back-to-index {
+  position: fixed;
+  bottom: 10px;
+  left: 20px;
+  z-index: 1000;
+}
+.back-to-index button {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.back-to-index button:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+</style>
+
 {{< logoBox src="/iWIP/bilder/logo_siblog_iwip.png" text="SciBlog iWIP" >}}
 
 ### Open Educational Resources (OER)  
