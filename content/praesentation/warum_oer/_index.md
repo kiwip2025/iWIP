@@ -502,8 +502,6 @@ Bei Rückfragen:
 
 ---
 
-## Quellen & weiterführende Links
-
 <section id="quellen">
   
 ## 📚 Quellen & weiterführende Links
