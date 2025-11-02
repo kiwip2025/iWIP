@@ -257,7 +257,7 @@ Nutzen Sie bestehende OERs als Ausgangspunkt und wandeln Sie diese in ein neues,
 Das Ziel ist es, ein **praxisnahes Beispiel** zu erstellen, das zeigt,  
 wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 
-<a id="aufgabenstellung"></a>
+<a id="selbst-tätig-werden"></a>
 ## ✅ Selbst tätig werden
 
 ### 1️⃣ Themenwahl
