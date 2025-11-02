@@ -4,7 +4,7 @@ outputs:
   - Reveal
 ---
 
-<!-- 🏠 Globaler Button -->
+<!-- Globaler Button -->
 <div class="back-to-index">
   <button onclick="Reveal.slide(1)" title="Zurück zum Inhaltsverzeichnis">🏠</button>
 </div>
