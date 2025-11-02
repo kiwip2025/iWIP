@@ -486,6 +486,7 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 </p>
 
 ---
+<section id="selbst-tätig-werden">
 
 ## ✅ Selbst tätig werden
 
