@@ -265,7 +265,7 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
 
 <p align="center">
-  <button onclick="Reveal.slide(2);"
+  <button onclick="Reveal.slide(1);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -352,7 +352,7 @@ table {
 - Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
 <p align="center">
-  <button onclick="Reveal.slide(2);"
+  <button onclick="Reveal.slide(1);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -394,7 +394,7 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **U** | Ursprungsort | [Quelle oder URL]
 
 <p align="center">
-  <button onclick="Reveal.slide(2);"
+  <button onclick="Reveal.slide(1);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -583,7 +583,7 @@ Bei Rückfragen:
 **[Ansprechpartner:in einsetzen]**
 
 <p align="center">
-  <button onclick="Reveal.slide(2);"
+  <button onclick="Reveal.slide(1);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
