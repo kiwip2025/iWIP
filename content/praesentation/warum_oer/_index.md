@@ -73,12 +73,12 @@ outputs:
 
 ## 📚 Inhaltsverzeichnis
 
-- [Was sind OER?](#/was-sind-oer)
-- [Lizenzen verstehen](#/lizenzen-verstehen)
-- [OER finden und einsetzen](#/oer-finden)
-- [OER selbst erstellen](#/oer-erstellen)
-- [Selbst tätig werden](#/selbst-tätig-werden)
-- [Quellen & weiterführende Links](#/quellen)
+- [Was sind OER?](#was-sind-oer)
+- [Lizenzen verstehen](#lizenzen-verstehen)
+- [OER finden und einsetzen](#oer-finden)
+- [OER selbst erstellen](#oer-erstellen)
+- [Selbst tätig werden](#selbst-tätig-werden)
+- [Quellen & weiterführende Links](#quellen)
   
 ---
 
@@ -265,7 +265,7 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
 
 <p align="center">
-  <button onclick="Reveal.slide(0);"
+  <button onclick="Reveal.slide(2);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -274,7 +274,7 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🔝 Zurück zum Anfang
+    📑 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -352,7 +352,7 @@ table {
 - Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
 <p align="center">
-  <button onclick="Reveal.slide(0);"
+  <button onclick="Reveal.slide(2);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -361,7 +361,7 @@ table {
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🔝 Zurück zum Anfang
+    📑 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -394,7 +394,7 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **U** | Ursprungsort | [Quelle oder URL]
 
 <p align="center">
-  <button onclick="Reveal.slide(0);"
+  <button onclick="Reveal.slide(2);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -403,7 +403,7 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🔝 Zurück zum Anfang
+    📑 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -472,7 +472,7 @@ Das Ziel ist es, ein **praxisnahes Beispiel** zu erstellen, das zeigt,
 wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 
 <p align="center">
-  <button onclick="Reveal.slide(0);"
+  <button onclick="Reveal.slide(2);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -481,7 +481,7 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🔝 Zurück zum Anfang
+    📑 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -583,7 +583,7 @@ Bei Rückfragen:
 **[Ansprechpartner:in einsetzen]**
 
 <p align="center">
-  <button onclick="Reveal.slide(0);"
+  <button onclick="Reveal.slide(2);"
     style="background-color:#2563eb;
            color:white;
            padding:6px 14px;
@@ -592,7 +592,7 @@ Bei Rückfragen:
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🔝 Zurück zum Anfang
+    📑 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
