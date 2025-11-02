@@ -274,7 +274,7 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    📑 Zurück zum Inhaltsverzeichnis
+    🔝 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -361,7 +361,7 @@ table {
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    📑 Zurück zum Inhaltsverzeichnis
+    🔝 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -403,7 +403,7 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    📑 Zurück zum Inhaltsverzeichnis
+    🔝 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -481,7 +481,7 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    📑 Zurück zum Inhaltsverzeichnis
+    🔝 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
@@ -592,7 +592,7 @@ Bei Rückfragen:
            cursor:pointer;
            font-size:0.9em;
            box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    📑 Zurück zum Inhaltsverzeichnis
+    🔝 Zurück zum Inhaltsverzeichnis
   </button>
 </p>
 
