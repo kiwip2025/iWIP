@@ -77,7 +77,7 @@ outputs:
 - [Lizenzen verstehen](#/lizenzen-verstehen)
 - [OER finden und einsetzen](#/oer-finden)
 - [OER selbst erstellen](#/oer-erstellen)
-- [Selbst tätig werden](#/ziel-der-aufgabe)
+- [Selbst tätig werden](#/selbst-tätig-werden)
 - [Quellen & weiterführende Links](#/quellen)
   
 ---
