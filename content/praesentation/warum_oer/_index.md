@@ -1,4 +1,4 @@
----
+t---
 title: "Warum OER"
 outputs:
   - Reveal
@@ -431,7 +431,7 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 
 ---
 
-## ✅ Aufgabenstellung
+## ✅ Selbst tätig werden
 
 ### 1️⃣ Themenwahl
 
