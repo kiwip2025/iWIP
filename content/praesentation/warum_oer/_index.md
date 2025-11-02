@@ -264,7 +264,19 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 
 <p class="fragment bild-quelle" data-fragment-index="1">Bildquelle: Erstellt mit ChatGPT</p>
 
-[🔝 **Zurück zum Anfang**](#top)
+<p align="center">
+  <button onclick="Reveal.slide(0);"
+    style="background-color:#2563eb;
+           color:white;
+           padding:6px 14px;
+           border:none;
+           border-radius:8px;
+           cursor:pointer;
+           font-size:0.9em;
+           box-shadow:0 2px 4px rgba(0,0,0,0.2);">
+    🔝 Zurück zum Anfang
+  </button>
+</p>
 
 ---
 
@@ -339,8 +351,6 @@ table {
 - **CC BY-NC-ND** — Namensnennung, nicht-kommerziell, keine Bearbeitung  
 - Symbole: ![CC-Symbole](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
 
-[🔝 **Zurück zum Anfang**](#top)
-
 ---
 
 <section id="oer-finden">
@@ -368,8 +378,6 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 | **L** | Lizenz | CC BY-SA 4.0 |
 | **L** | Link zur Lizenz | https://creativecommons.org/licenses/by-sa/4.0/ |
 | **U** | Ursprungsort | [Quelle oder URL]
-
-[🔝 **Zurück zum Anfang**](#top)
 
 ---
 
@@ -434,8 +442,6 @@ Entwickeln Sie ein eigenes **Open Educational Resource (OER)** basierend auf ein
 
 Das Ziel ist es, ein **praxisnahes Beispiel** zu erstellen, das zeigt,  
 wie aus vorhandenem OER-Material ein neues OER entstehen kann.
-
-[🔝 **Zurück zum Anfang**](#top)
 
 ---
 
@@ -533,8 +539,6 @@ Beschreiben Sie die **Einbettung Ihres Materials in den Unterricht** (Zielgruppe
 
 Bei Rückfragen:  
 **[Ansprechpartner:in einsetzen]**
-
-[🔝 **Zurück zum Anfang**](#top)
 
 ---
 
