@@ -73,7 +73,7 @@ outputs:
 - [OER finden und einsetzen](#oer-finden-und-einsetzen)
 - [OER selbst erstellen](#oer-selbst-erstellen)
 - [Selbst tätig werden](#selbst-tätig-werden)
-- [Quellen & weiterführende Links](#quellen-&-weiterführende-Links)
+- [Quellen & weiterführende Links](#quellen-und-Links)
   
 ---
 
@@ -584,7 +584,7 @@ Bei Rückfragen:
 
 ---
   
-## Quellen & weiterführende Links
+## Quellen und Links
 
 - Creative Commons  
 - OERinfo – Informationsstelle für Open Educational Resources
