@@ -73,7 +73,7 @@ outputs:
 - [OER finden und einsetzen](#oer-finden-und-einsetzen)
 - [OER selbst erstellen](#oer-selbst-erstellen)
 - [Selbst tätig werden](#selbst-tätig-werden)
-- [Quellen und Links](#quellen-und-Links)
+- [Quellen und Links](#quellen-und-links)
   
 ---
 
