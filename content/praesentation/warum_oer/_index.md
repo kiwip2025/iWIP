@@ -371,12 +371,15 @@ table {
   
 ## 🕵️ OER finden und einsetzen
 
-### Wo kann man OER finden?
-- HubbS – berufliche Schule  
-- MUNDO – Schule  
-- CC Suche  
-- WirLernenOnline – Schule  
-- OERSI – Hochschule
+---
+### 🌐 Wo kann man OER finden?
+
+- [HubbS – berufliche Schule](https://hubbs.berufsbildung.digital/)
+- [MUNDO – Schule](https://mundo.schule/)
+- [CC Suche (Creative Commons Search)](https://search.creativecommons.org/)
+- [WirLernenOnline – Schule](https://wirlernenonline.de/)
+- [OERSI – Hochschule](https://oersi.org/)
+
 </section>
 
 ---
