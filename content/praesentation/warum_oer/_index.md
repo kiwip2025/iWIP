@@ -380,7 +380,6 @@ table {
 - [CC Suche (Creative Commons Search)](https://search.creativecommons.org)
 - [WirLernenOnline – Schule](https://wirlernenonline.de)
 - [OERSI – Hochschule](https://oersi.org)
-</section>
 
 ---
 
@@ -419,7 +418,6 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 ### 🪪 Schritt 1: Lizenz auswählen
 Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
 ➡️ **Vorteil:** Maschinenlesbar, besser auffindbar 🔍
-</section>
 
 ---
 
@@ -465,7 +463,6 @@ OER ermöglichen:
 ## 🎯 Ziel der Aufgabe
 
 Entwickeln Sie ein eigenes **Open Educational Resource (OER)** basierend auf einem **WiPäd-Thema Ihrer Wahl**.
-</section>
 
 ---
 
