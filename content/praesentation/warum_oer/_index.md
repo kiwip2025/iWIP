@@ -70,10 +70,10 @@ outputs:
 
 - [Was sind OER?](#was-sind-oer)
 - [Lizenzen verstehen](#lizenzen-verstehen)
-- [OER finden und einsetzen](#oer-finden)
-- [OER selbst erstellen](#oer-erstellen)
+- [OER finden und einsetzen](#oer-finden-und-einsetzen)
+- [OER selbst erstellen](#oer-selbst-erstellen)
 - [Selbst tätig werden](#selbst-tätig-werden)
-- [Quellen & weiterführende Links](#quellen)
+- [Quellen & weiterführende Links](#quellen-&-weiterführende-Links)
   
 ---
 
@@ -359,7 +359,7 @@ table {
 
 ---
   
-## 🕵️ OER finden und einsetzen (#oer-finden)
+## OER finden und einsetzen
 
 ---
 
@@ -401,7 +401,7 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 
 ---
   
-## 💼 OER selbst erstellen (#oer-erstellen)
+## OER selbst erstellen 
 
 ### 🪪 Schritt 1: Lizenz auswählen
 Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
@@ -473,7 +473,7 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 
 ---
 
-## ✅ Selbst tätig werden (#selbst-tätig-werden)
+## Selbst tätig werden
 
 ### 1️⃣ Themenwahl
 
@@ -584,7 +584,7 @@ Bei Rückfragen:
 
 ---
   
-## 📚 Quellen & weiterführende Links
+## Quellen & weiterführende Links
 
 - Creative Commons  
 - OERinfo – Informationsstelle für Open Educational Resources
