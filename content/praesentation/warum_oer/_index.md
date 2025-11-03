@@ -285,10 +285,8 @@ Die Qualität von Lehr-Lern-Arrangements kann durch kooperative Entwicklung stei
 Damit andere sie rechtssicher ⚖️ nutzen können, werden OER mit einer **offenen Lizenz** 🔓 veröffentlicht – meist einer **Creative-Commons-Lizenz (CC)** 🎨📘
 
 ---
-
-<section id="lizenzen-verstehen">
   
-## 📜 Lizenzen verstehen
+## 📜 Lizenzen verstehen (#lizenzen-verstehen)
 
 Creative Commons Lizenzen 🎨 ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung 👤, nicht-kommerzielle Nutzung 💼🚫, Weitergabe unter gleichen Bedingungen 🔄, und dem Verbot von Bearbeitungen ✏️🚫.
 
@@ -365,10 +363,8 @@ table {
 </p>
 
 ---
-
-<section id="oer-finden">
   
-## 🕵️ OER finden und einsetzen
+## 🕵️ OER finden und einsetzen (#oer-finden)
 
 ---
 
@@ -409,10 +405,8 @@ Beachte bei jeder Nutzung die **TULLU-Regel** für Lizenzhinweise:
 </p>
 
 ---
-
-<section id="oer-erstellen">
   
-## 💼 OER selbst erstellen
+## 💼 OER selbst erstellen (#oer-erstellen)
 
 ### 🪪 Schritt 1: Lizenz auswählen
 Nutze den offiziellen **CC-Lizenzgenerator**, um deine Lizenz festzulegen.  
@@ -456,8 +450,6 @@ OER ermöglichen:
 > „📖 Offen teilen heißt gemeinsam weiterlernen – mit Respekt für Urheberrechte.“
 
 ---
-
-<section id="ziel-der-aufgabe">
   
 ## 🎯 Ziel der Aufgabe
 
@@ -485,9 +477,8 @@ wie aus vorhandenem OER-Material ein neues OER entstehen kann.
 </p>
 
 ---
-<section id="selbst-tätig-werden">
 
-## ✅ Selbst tätig werden
+## ✅ Selbst tätig werden (#selbst-tätig-werden)
 
 ### 1️⃣ Themenwahl
 
@@ -597,8 +588,6 @@ Bei Rückfragen:
 </p>
 
 ---
-
-<section id="quellen">
   
 ## 📚 Quellen & weiterführende Links
 
