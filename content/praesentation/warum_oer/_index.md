@@ -288,7 +288,7 @@ Damit andere sie rechtssicher ⚖️ nutzen können, werden OER mit einer **offe
 
 <section id="lizenzen-verstehen">
   
-# 📜 Lizenzen verstehen
+## 📜 Lizenzen verstehen
 
 Creative Commons Lizenzen 🎨 ermöglichen die Nutzung von Werken unter klar definierten Bedingungen wie Namensnennung 👤, nicht-kommerzielle Nutzung 💼🚫, Weitergabe unter gleichen Bedingungen 🔄, und dem Verbot von Bearbeitungen ✏️🚫.
 
