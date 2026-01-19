@@ -3,9 +3,9 @@ title: "Projekt: Neugestaltung Lernfeld 4"
 date: 2026-01-19
 draft: false
 description: |
-  Der Rechnungswesenunterricht an Berufsschulen wird häufig als zu theoretisch und praxisfern wahrgenommen. Ziel des Projekts ist die Entwicklung eines              handlungsorientierten Unterrichtskonzepts, das Motivation, Selbstständigkeit und Problemlösekompetenz der Auszubildenden stärkt.
+  Der Rechnungswesenunterricht an Berufsschulen wurde im Rahmen dieses Projekts neu konzipiert, um die bisher als zu theoretisch und praxisfern empfundene           Vermittlung zu überwinden. Vorgestellt wird ein handlungsorientiertes Unterrichtskonzept, das entwickelt wurde, um Motivation, Selbstständigkeit und               Problemlösekompetenz der Auszubildenden nachhaltig zu fördern und den Transfer auf reale betriebliche Situationen zu stärken.
 summary: | 
-  Der Rechnungswesenunterricht an Berufsschulen wird häufig als zu theoretisch und praxisfern wahrgenommen. Ziel des Projekts ist die Entwicklung eines              handlungsorientierten Unterrichtskonzepts, das Motivation, Selbstständigkeit und Problemlösekompetenz der Auszubildenden stärkt.
+  Der Rechnungswesenunterricht an Berufsschulen wurde im Rahmen dieses Projekts neu konzipiert, um die bisher als zu theoretisch und praxisfern empfundene           Vermittlung zu überwinden. Vorgestellt wird ein handlungsorientiertes Unterrichtskonzept, das entwickelt wurde, um Motivation, Selbstständigkeit und               Problemlösekompetenz der Auszubildenden nachhaltig zu fördern und den Transfer auf reale betriebliche Situationen zu stärken.
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
 categories: ["OER"]
 weight: 10
