@@ -1,17 +1,13 @@
 ---
 title: "Projekt: Neugestaltung Lernfeld 4"
-date: 2025-07-24
+date: 2026-01-19
 draft: false
 description: |
-•	Problemstellung: 
 Der traditionelle Rechnungswesenunterricht in Berufsschulen wird oft als zu theoretisch, praxisfern und demotivierend empfunden. Auszubildende haben Schwierigkeiten, gelerntes Wissen auf reale betriebliche Situationen zu übertragen und entwickeln zu wenig Problemlösekompetenz.
-•	Ziel: 
 Ein innovatives Unterrichtskonzept zu entwickeln, das Motivation, Selbstständigkeit und Problemlösefähigkeit bei den Auszubildenden fördert, indem es praxisnah, handlungsorientiert, kollaborativ und kompetenzorientiert gestaltet wird.
 
-summary: |
-•	Problemstellung: 
+summary: | 
 Der traditionelle Rechnungswesenunterricht in Berufsschulen wird oft als zu theoretisch, praxisfern und demotivierend empfunden. Auszubildende haben Schwierigkeiten, gelerntes Wissen auf reale betriebliche Situationen zu übertragen und entwickeln zu wenig Problemlösekompetenz.
-•	Ziel: 
 Ein innovatives Unterrichtskonzept zu entwickeln, das Motivation, Selbstständigkeit und Problemlösefähigkeit bei den Auszubildenden fördert, indem es praxisnah, handlungsorientiert, kollaborativ und kompetenzorientiert gestaltet wird.
 
 tags: ["OER", "Lehrmaterial", "Wissenschaft"]
