@@ -38,11 +38,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ## 📚 Inhaltsverzeichnis
 
-- [Was sind OER?](#was-sind-oer)
-- [Lizenzen verstehen](#lizenzen-verstehen)
-- [OER finden und einsetzen](#oer-finden-und-einsetzen)
-- [OER selbst erstellen](#oer-selbst-erstellen)
-- [Selbst tätig werden](#selbst-tätig-werden)
-- [Quellen & weiterführende Links](#quellen--weiterfuehrende-links)
+- [Das Projekt](#das-Projekt)
+- [Didaktische und Methodische Idee](#Didaktische-und-Methodische-Idee)
+- [Das Konzept im Detail: Die Phasen ](#Das-Konzept-im-Detail-Die-Phasen)
+- [Materialien und Ressourcen](#Materialien-und-Ressourcen)
+- [Reflexion und Ausblick](#Reflexion-und-Ausblick)
+- [Literaturverzeichnis](#Literaturverzeichnis)
+- [Kontakt](#Kontakt)
 
 ---
