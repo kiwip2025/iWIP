@@ -114,7 +114,9 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-> **Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾**
+```
+Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
+```
 
 - **Inhalt:**  
   Vorstellung der beteiligten Unternehmen sowie der Ausgangssituation (BPK schreibt rote Zahlen)
@@ -128,7 +130,9 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-> **Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍**
+```
+Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
+```
 
 - **Inhalt:**  
   Einstieg in die buchhalterische Kernarbeit
@@ -144,7 +148,9 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-> **Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️**
+```
+Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
+```
 
 - **Inhalt:**  
   Dramaturgischer Spannungsaufbau durch fehlende Laptops im Rahmen der Inventur
@@ -163,7 +169,9 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-> **Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠**
+```
+Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
+```
 
 - **Inhalt:**  
   Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer
@@ -181,7 +189,7 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 ---
 
 ```
-**Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️**
+Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
 ```
 
 - **Inhalt:**  
