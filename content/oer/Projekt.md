@@ -51,15 +51,18 @@ document.addEventListener("DOMContentLoaded", function () {
 <a id="das-projekt"></a>
 ## Das Projekt 
 
-> Neugestaltung des Lernfeldes 4 "Wertströme erfassen und dokumentieren"
+> **Neugestaltung des Lernfeldes 4 "Wertströme erfassen und dokumentieren"**
 
-****Problemstellung:*** 
+**Problemstellung:**
+
 Der traditionelle Rechnungswesenunterricht in Berufsschulen wird oft als zu theoretisch, praxisfern und demotivierend empfunden. Auszubildende haben Schwierigkeiten, gelerntes Wissen auf reale betriebliche Situationen zu übertragen und entwickeln zu wenig Problemlösekompetenz.
 
-***Ziel:***
+**Ziel:**
+
 Ein innovatives Unterrichtskonzept zu entwickeln, das Motivation, Selbstständigkeit und Problemlösefähigkeit bei den Auszubildenden fördert, indem es praxisnah, handlungsorientiert, kollaborativ und kompetenzorientiert gestaltet wird.
 
-***Zielgruppe:*** 
+**Zielgruppe:**
+
 Auszubildende der Kaufleute für Groß- und Außenhandelsmanagement am Regionalen Beruflichen Bildungszentrum (RBB) Schwerin
 
 ---
