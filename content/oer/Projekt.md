@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ---
 
-<a id="das-projekt"></a>
+<a id="das-Projekt"></a>
 ## Das Projekt 🧩
 
 > **Neugestaltung des Lernfeldes 4 „Wertströme erfassen und dokumentieren“**
