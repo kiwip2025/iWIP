@@ -73,27 +73,34 @@ Auszubildende der Kaufleute für Groß- und Außenhandelsmanagement am Regionale
 Das Kernstück des Projekts ist die Verknüpfung von Storytelling mit dem Prinzip der ***vollständigen Handlung*** in einem Krimi-Szenario.
 
 **1.	Handlungsorientierung:**
+
 Die Auszubildenden übernehmen die Rolle von Wirtschaftsprüfer:innen eines Beratungsunternehmens ("KGM+ Consulting AG"), das von einem fiktiven Unternehmen ("BPK - Bergisches Papierkontor GmbH") beauftragt wird, Ineffizienzen und Unregelmäßigkeiten in dessen Wertströmen zu untersuchen.
 
 **2.	Storytelling (Krimi-Szenario):**
+
 Durch eine durchgehende narrative Geschichte (vom Auftrag über erste Auffälligkeiten bei der Inventur bis hin zu Hinweisen auf mögliche Veruntreuung durch die Geschäftsführung) wird ein Spannungsbogen aufgebaut. Dies soll die Lernenden emotional ansprechen und die Motivation für das oft als "trocken" empfundene Thema Rechnungswesen erhöhen.
 
 **3.	Selbstorganisiertes Lernen (SoLe):** 
+
 Die Auszubildenden arbeiten eigenverantwortlich an komplexen Problemstellungen, analysieren Belege, buchen Geschäftsvorfälle, führen Inventuren durch und identifizieren Unregelmäßigkeiten.
 
 **4.	Kompetenzorientierung:**
+
 Das Projekt zielt darauf ab, nicht nur fachliche Buchhaltungskenntnisse zu vermitteln, sondern auch überfachliche Kompetenzen wie Problemlösefähigkeit, kritisches Denken, Kommunikationsfähigkeit und Teamarbeit zu stärken.
 
 **5.	Praxisbezug:**
+
 Anstatt isolierter Aufgaben bearbeiten die Lernenden reale oder realitätsnahe Dokumente und Situationen. Zudem sollen sie in ihren eigenen Ausbildungsbetrieben Interviews führen, um Parallelen zur "Krimi-Story" zu finden und Optimierungspotenziale zu identifizieren.
 
 **6.	Multimodaler Ansatz:**
+
 Es werden verschiedene Materialien und Medien eingesetzt, darunter Arbeitsblätter, E-Mails (Geschäftsführung, Steuerberater), Lieferscheine, Reflexionsbögen und sogar ein kurzes Video, um unterschiedliche Lernstile anzusprechen und die Authentizität zu erhöhen.
 
 **7.	Rollenspiel & Reflexion:** 
+
 Die Ergebnisse der Untersuchung werden abschließend in einer Art "Gerichtsverhandlung" vor einer Jury (Lehrkraft, Mitschüler:innen) präsentiert, wobei die Auszubildenden verschiedene Rollen einnehmen und ihr Vorgehen reflektieren.
 
-Zusammenfassend soll das Projekt durch den innovativen Einsatz von Storytelling und die Übernahme einer aktiven Rolle die Lücke zwischen theoretischem Wissen und praktischer Anwendung im Rechnungswesen schließen, um die Lernmotivation und die Handlungskompetenz der Auszubildenden nachhaltig zu stärken.
+> Zusammenfassend soll das Projekt durch den innovativen Einsatz von Storytelling und die Übernahme einer aktiven Rolle die Lücke zwischen theoretischem Wissen und praktischer Anwendung im Rechnungswesen schließen, um die Lernmotivation und die Handlungskompetenz der Auszubildenden nachhaltig zu stärken.
 
 
 
