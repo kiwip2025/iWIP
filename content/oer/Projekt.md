@@ -112,8 +112,6 @@ Die Ergebnisse der Untersuchung werden abschließend in einer Art „Gerichtsver
 Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, die sich an der Logik der **vollständigen Handlung** (Informieren – Planen – Entscheiden – Ausführen – Kontrollieren/Reflektieren) orientieren.  
 Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestaltet und verfolgen das Ziel, fachliche Inhalte des Rechnungswesens mit authentischen Handlungssituationen zu verknüpfen. Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche als auch überfachliche Kompetenzen systematisch aufgebaut und gefestigt. Jede Phase ist dabei durch klar definierte Aufgabenstellungen und passgenaue Materialien strukturiert.
 
----
-
 ```
 Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
 ```
@@ -127,8 +125,6 @@ Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
 - **Materialien:**  
   - Arbeitsblatt *„Wertströme analysieren“*  
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“*
-
----
 
 ```
 Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
@@ -145,8 +141,6 @@ Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
   - Kontenrahmen  
   - T-Konten  
   - Digitale Simulationen
-
----
 
 ```
 Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
@@ -167,8 +161,6 @@ Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
 - **Dramaturgische Zuspitzung:**  
   *„Geheimvideo“* der Geschäftsleitung
 
----
-
 ```
 Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
 ```
@@ -186,8 +178,6 @@ Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
 - **Praxisexkurs:**  
   Exkursauftrag *„Inventur im eigenen Betrieb“*
 
----
-
 ```
 Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
 ```
@@ -202,3 +192,5 @@ Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
   - Vorlagen für den Abschlussbericht  
   - Reflexionsbögen  
   - Bewertungsraster
+ 
+---
