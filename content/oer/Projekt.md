@@ -102,4 +102,91 @@ Die Ergebnisse der Untersuchung werden abschließend in einer Art „Gerichtsver
 
 > Zusammenfassend soll das Projekt durch den innovativen Einsatz von Storytelling und die Übernahme einer aktiven Rolle die Lücke zwischen theoretischem Wissen und praktischer Anwendung im Rechnungswesen schließen, um die Lernmotivation und die Handlungskompetenz der Auszubildenden nachhaltig zu stärken.
 
+---
 
+<a id="Das-Konzept-im-Detail-Die-Phasen"></a>
+## Das Konzept im Detail: Die Phasen 
+
+### Didaktische Struktur des Projekts
+
+Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, die sich an der Logik der **vollständigen Handlung** (Informieren – Planen – Entscheiden – Ausführen – Kontrollieren/Reflektieren) orientieren.  
+Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestaltet und verfolgen das Ziel, fachliche Inhalte des Rechnungswesens mit authentischen Handlungssituationen zu verknüpfen. Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche als auch überfachliche Kompetenzen systematisch aufgebaut und gefestigt. Jede Phase ist dabei durch klar definierte Aufgabenstellungen und passgenaue Materialien strukturiert.
+
+### 3.1 Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
+
+- **Inhalt:**  
+  Vorstellung der beteiligten Unternehmen sowie der Ausgangssituation (BPK schreibt rote Zahlen)
+
+- **Aufgabe:**  
+  Analyse der Wertströme des Unternehmens
+
+- **Materialien:**  
+  - Arbeitsblatt *„Wertströme analysieren“*  
+  - Erklärvideo *„Rolle des Wirtschaftsprüfers“*
+
+---
+
+### 3.2 Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
+
+- **Inhalt:**  
+  Einstieg in die buchhalterische Kernarbeit
+
+- **Aufgabe:**  
+  Belege sichten, sortieren und buchen sowie Unstimmigkeiten systematisch dokumentieren
+
+- **Materialien:**  
+  - Fiktives Belegset  
+  - Kontenrahmen  
+  - T-Konten  
+  - Digitale Simulationen
+
+---
+
+### 3.3 Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
+
+- **Inhalt:**  
+  Dramaturgischer Spannungsaufbau durch fehlende Laptops im Rahmen der Inventur
+
+- **Aufgabe:**  
+  Durchführung eines Soll-Ist-Vergleichs, Ursachenanalyse sowie Auseinandersetzung mit gesetzlichen Anforderungen (HGB)
+
+- **Materialien:**  
+  - E-Mail der Geschäftsführung (Inventurauftrag)  
+  - Lieferschein  
+  - E-Mail des Steuerberaters  
+  - Reflexionsbogen
+
+- **Dramaturgische Zuspitzung:**  
+  *„Geheimvideo“* der Geschäftsleitung
+
+---
+
+### 3.4 Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
+
+- **Inhalt:**  
+  Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer
+
+- **Aufgabe:**  
+  Verknüpfung verschiedener Informationsquellen, Analyse von Fehlbuchungen, Steuerbetrug und Lagerbestandsdiskrepanzen
+
+- **Materialien:**  
+  - Weitere fehlerhafte Belege  
+  - Übersichten zu Zugriffs- und Buchungsberechtigungen
+
+- **Praxisexkurs:**  
+  Exkursauftrag *„Inventur im eigenen Betrieb“*
+
+---
+
+### 3.5 Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
+
+- **Inhalt:**  
+  Abschluss der Untersuchung im Rahmen einer simulierten „Gerichtsverhandlung“
+
+- **Aufgabe:**  
+  Präsentation der Ermittlungsergebnisse, Diskussion der Befunde sowie Entwicklung begründeter Handlungsempfehlungen
+
+- **Materialien:**  
+  - Vorlagen für den Abschlussbericht  
+  - Reflexionsbögen  
+  - Bewertungsraster
