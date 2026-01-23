@@ -141,7 +141,7 @@ Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
 ```
 Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
 ```
-> In Phase 2 werden die Grundlagen für die buchhalterische Fallarbeit gelegt. Die Schüler:innen 
+> In ***Phase 2*** werden die Grundlagen für die buchhalterische Fallarbeit gelegt. Die Schüler:innen 
 trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und entwickeln ein 
 Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
 Ermittlungen zu erwerben.
