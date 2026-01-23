@@ -194,3 +194,29 @@ Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
   - Bewertungsraster
  
 ---
+
+<a id="Materialien-und-Ressourcen"></a>
+## Materialien und Ressourcen
+
+**Arbeitsblätter:**
+o	Arbeitsblatt "Wertströme analysieren" (Anhang 1)
+o	Reflexionsbogen (Anhang 5)
+o	Exkurs Betriebe (Anhang 6)
+
+**Kommunikationsmittel:**
+o	E-Mail der Geschäftsführung (Anhang 2)
+o	E-Mail Steuerberater (Anhang 4)
+
+**Belege & Dokumente:**
+o	Lieferschein (Anhang 3)
+o	(Ggf. weitere fiktive Belege, die im Storyboard detailliert werden)
+
+**Medien:**
+o	Skript zum "Geheimvideo" (Anhang 7)
+o	(Ggf. Links zu externen Tools/Simulationen, die verwendet werden könnten)
+
+**Unterrichtsverlaufsplan:**
+o	Tabelle 1: Unterrichtsverlaufsplan UE „Wertströme analysieren“ (Anhang 8)
+
+> Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs)
+
