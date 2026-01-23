@@ -180,7 +180,9 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-> **Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️**
+```
+**Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️**
+```
 
 - **Inhalt:**  
   Abschluss der Untersuchung im Rahmen einer simulierten „Gerichtsverhandlung“
