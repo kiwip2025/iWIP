@@ -146,12 +146,12 @@ trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und 
 Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
 Ermittlungen zu erwerben.
 
- - **Story-Element:**
+- **Story-Element:**
   Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
-Verflechtungen gehen. Die Wirtschaftsprüfungseinheit beginnt mit der systematischen 
-Sichtung der Unterlagen des BPK: Eingangsrechnungen, Ausgangsrechnungen, 
-Kontoauszüge und mehr. Erste Auffälligkeiten tauchen auf: Jetzt heißt es, Belege korrekt 
-zuzuordnen und zu bewerten.
+  Verflechtungen gehen. Die Wirtschaftsprüfungseinheit beginnt mit der systematischen 
+  Sichtung der Unterlagen des BPK: Eingangsrechnungen, Ausgangsrechnungen, 
+  Kontoauszüge und mehr. Erste Auffälligkeiten tauchen auf: Jetzt heißt es, Belege korrekt 
+  zuzuordnen und zu bewerten.
 
 - **Inhalt:**  
   Beleganalyse & Belegkreislauf
@@ -175,10 +175,10 @@ zuzuordnen und zu bewerten.
   - T-Konten-Darstellungen zur Visualisierung
 
 > **Lernziele**
-> Verständnis von buchhalterischen Grundprinzipien
-> Aufbau von Sicherheit im Umgang mit Belegen
-> Fähigkeit zur Erstellung einfacher Buchungssätze
-> Sensibilisierung für Fehlerquellen und Korrekturen 
+> - Verständnis von buchhalterischen Grundprinzipien
+> - Aufbau von Sicherheit im Umgang mit Belegen
+> - Fähigkeit zur Erstellung einfacher Buchungssätze
+> - Sensibilisierung für Fehlerquellen und Korrekturen 
 
 ```
 Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
