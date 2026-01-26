@@ -37,16 +37,3 @@ _build:
 > - Anwendung von Kennzahlen zur Erfolgsbeurteilung
 > - Entwicklung von Reflexions- und Präsentationskompetenz
 > - Verknüpfung von Theorie, Praxis und Handlung sowie Sensibilisierung für GoB und interne Kontrollmaßnahmen
-
-
-
-- **Inhalt:**  
-  Abschluss der Untersuchung im Rahmen einer simulierten „Gerichtsverhandlung“
-
-- **Aufgabe:**  
-  Präsentation der Ermittlungsergebnisse, Diskussion der Befunde sowie Entwicklung begründeter Handlungsempfehlungen
-
-- **Materialien:**  
-  - Vorlagen für den Abschlussbericht  
-  - Reflexionsbögen  
-  - Bewertungsraster
