@@ -1,5 +1,5 @@
 ---
-title: "Phase 1: Einführung"
+title: "Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾"
 draft: false
 _build:
   list: false
