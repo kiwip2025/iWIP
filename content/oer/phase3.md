@@ -42,4 +42,23 @@ Vorbereitung der Inventur
 **Auftrag der SuS:**
  - Lesen der Rundmail und Verständnis der Inventuraufgabe 
  - Planung der Zählvorgänge 
- - Vorbereitung des Lagerbereichs 
+ - Vorbereitung des Lagerbereichs
+
+**Lernziel:**
+Grundverständnis zu Inventur, Inventaren 
+
+Material: E-Mail der Geschäftsführung: Was ist eine Inventur? --- 
+Email der Geschäftsführung:  
+Von: gf@techsolutions.de  
+An: alle@techsolutions.de  
+Betreff: Inventur 2025 – Vorbereitung  
+Liebe Kolleginnen und Kollegen,  
+in der nächsten Woche (ab Montag) findet unsere jährliche Inventur statt. Bitte sorgen Sie bis 
+Freitag dafür, dass alle Waren korrekt eingelagert und zugänglich sind.  
+Frau Krüger ist leider krank, daher übernimmt Herr/Frau ... (Aushilfe) vorerst die Koordination 
+des Lagers.  
+Vielen Dank für Ihre Unterstützung!  
+Mit freundlichen Grüßen,  
+Franziska Lehmann  
+Geschäftsführung 
+
