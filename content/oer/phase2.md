@@ -6,10 +6,12 @@ _build:
   render: true
 ---
 
+```
 > In ***Phase 2*** werden die Grundlagen für die buchhalterische Fallarbeit gelegt. Die Schüler:innen 
 trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und entwickeln ein 
 Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
 Ermittlungen zu erwerben.
+```
 
 - **Story-Element:**
   Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
