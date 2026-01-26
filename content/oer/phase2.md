@@ -1,5 +1,5 @@
 ---
-title: "Phase 2: Die Spurensicherung – Belege prüfen und buchen"
+title: "Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍"
 draft: false
 _build:
   list: false
