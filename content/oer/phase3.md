@@ -27,14 +27,16 @@ Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wend
   *„Geheimvideo“* der Geschäftsleitung
 
 
-**Vorbereitung der Inventur**
-
-Fall: 
 ```
-Inventur steht an. 
+Vorbereitung der Inventur
+```
+
+**Fall:**
+
+> Inventur steht an. 
 Geschäftsleitung schickt Rundmail zur Vorbereitung. 
 Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 
-```
+
 
 Auftrag der SuS: 
 • Lesen der Rundmail und Verständnis der Inventuraufgabe 
