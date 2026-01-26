@@ -1,6 +1,10 @@
-```
-Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
-```
+---
+title: "Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠"
+draft: false
+_build:
+  list: false
+  render: true
+---
 
 - **Inhalt:**  
   Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer
