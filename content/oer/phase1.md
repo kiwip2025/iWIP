@@ -1,3 +1,9 @@
+---
+title: "Phase 1: Einführung"
+hidden: true
+draft: false
+---
+
 ```
 Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
 ```
