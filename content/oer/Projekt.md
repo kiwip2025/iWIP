@@ -121,21 +121,7 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 [Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠](/iWIP/oer/phase4/)
 
-
-```
-Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
-```
-
-- **Inhalt:**  
-  Abschluss der Untersuchung im Rahmen einer simulierten „Gerichtsverhandlung“
-
-- **Aufgabe:**  
-  Präsentation der Ermittlungsergebnisse, Diskussion der Befunde sowie Entwicklung begründeter Handlungsempfehlungen
-
-- **Materialien:**  
-  - Vorlagen für den Abschlussbericht  
-  - Reflexionsbögen  
-  - Bewertungsraster
+[Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️](/iWIP/oer/phase5/)
  
 ---
 
