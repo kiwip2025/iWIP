@@ -117,88 +117,10 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 [Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍](/iWIP/oer/phase2/)
 
-```
-Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
-```
-> In ***Phase 2*** werden die Grundlagen für die buchhalterische Fallarbeit gelegt. Die Schüler:innen 
-trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und entwickeln ein 
-Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
-Ermittlungen zu erwerben.
+[Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️](/iWIP/oer/phase3/)
 
-- **Story-Element:**
-  Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
-  Verflechtungen gehen. Die Wirtschaftsprüfungseinheit beginnt mit der systematischen 
-  Sichtung der Unterlagen des BPK: Eingangsrechnungen, Ausgangsrechnungen, 
-  Kontoauszüge und mehr. Erste Auffälligkeiten tauchen auf: Jetzt heißt es, Belege korrekt 
-  zuzuordnen und zu bewerten.
+[Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠](/iWIP/oer/phase4/)
 
-- **Inhalt:**  
-  Beleganalyse & Belegkreislauf
-  Eröffnung von Bestandskonten (SKR04)
-  Buchung einfacher Geschäftsvorfälle (z. B. Warenkauf, Dienstleistungen, Bankbewegungen)
-  Einführung in Erfolgskonten
-  Korrekturbuchungen bei Abweichungen 
-
-- **Aufgabe:**  
-  Belege sichten, sortieren und buchen aus Belegset
-  Erstellung zugehöriger Buchungssätze
-  Dokumentation von Auffälligkeiten und erste Unstimmigkeiten
-  Entwickelung eines systematischen Ermittlungsprotokolls
-
-- **Materialien:**  
-  - Fiktives Belegset (realitätsnahe, fiktive Belege: Eingangs-, Ausgangsrechnungen, Kassenbelege) 
-  - Erklärvideo: Buchung einfacher Geschäftsvorfälle 
-  - Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen
-  - SKR04-Kontenauszug  
-  - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit)
-  - T-Konten-Darstellungen zur Visualisierung
-
-> **Lernziele**
-> - Verständnis von buchhalterischen Grundprinzipien
-> - Aufbau von Sicherheit im Umgang mit Belegen
-> - Fähigkeit zur Erstellung einfacher Buchungssätze
-> - Sensibilisierung für Fehlerquellen und Korrekturen 
-
-```
-Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
-```
-
-> in Phase 3 werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
-Probleme bei der Inventur und es fällt auf das Gegenstände im Lager fehlen. Sie soll die 
-Vorbereitung für die Phase 4 sein und am Ende mittels einer dramatischen Wendung 
-überleiten. Die SuS sollen mittels dieser Phase die Inventur, das Inventar, Soll-Ist-Vergleich, Bilanz und Ursachenanalyse bei Differenzen vermittelt bekommen. Um die ganze Thematik abzurunden soll es einen Exkurs in die jeweilige Betriebe geben.
-
-- **Inhalt:**  
-  Dramaturgischer Spannungsaufbau durch fehlende Laptops im Rahmen der Inventur
-
-- **Aufgabe:**  
-  Durchführung eines Soll-Ist-Vergleichs, Ursachenanalyse sowie Auseinandersetzung mit gesetzlichen Anforderungen (HGB)
-
-- **Materialien:**  
-  - E-Mail der Geschäftsführung (Inventurauftrag)  
-  - Lieferschein  
-  - E-Mail des Steuerberaters  
-  - Reflexionsbogen
-
-- **Dramaturgische Zuspitzung:**  
-  *„Geheimvideo“* der Geschäftsleitung
-
-```
-Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠
-```
-
-- **Inhalt:**  
-  Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer
-
-- **Aufgabe:**  
-  Verknüpfung verschiedener Informationsquellen, Analyse von Fehlbuchungen, Steuerbetrug und Lagerbestandsdiskrepanzen
-
-- **Materialien:**  
-  - Weitere fehlerhafte Belege  
-  - Übersichten zu Zugriffs- und Buchungsberechtigungen
-
-- **Praxisexkurs:**  
-  Exkursauftrag *„Inventur im eigenen Betrieb“*
 
 ```
 Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
