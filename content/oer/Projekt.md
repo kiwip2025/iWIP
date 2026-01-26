@@ -115,6 +115,7 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 [Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾](/iWIP/oer/phase1/)
 
+[Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍](/iWIP/oer/phase2/)
 
 ```
 Phase 2: Die Spurensicherung – Belege prüfen und buchen 🔍
