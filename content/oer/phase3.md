@@ -6,9 +6,9 @@ _build:
   render: true
 ---
 
-> in Phase 3 werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
+> In **Phase 3** werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
 Probleme bei der Inventur und es fällt auf das Gegenstände im Lager fehlen. Sie soll die 
-Vorbereitung für die Phase 4 sein und am Ende mittels einer dramatischen Wendung 
+Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wendung 
 überleiten. Die SuS sollen mittels dieser Phase die Inventur, das Inventar, Soll-Ist-Vergleich, Bilanz und Ursachenanalyse bei Differenzen vermittelt bekommen. Um die ganze Thematik abzurunden soll es einen Exkurs in die jeweilige Betriebe geben.
 
 - **Inhalt:**  
@@ -25,3 +25,18 @@ Vorbereitung für die Phase 4 sein und am Ende mittels einer dramatischen Wendun
 
 - **Dramaturgische Zuspitzung:**  
   *„Geheimvideo“* der Geschäftsleitung
+
+
+**Vorbereitung der Inventur**
+
+Fall: 
+´´´
+Inventur steht an. 
+Geschäftsleitung schickt Rundmail zur Vorbereitung. 
+Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 
+´´´
+
+Auftrag der SuS: 
+• Lesen der Rundmail und Verständnis der Inventuraufgabe 
+• Planung der Zählvorgänge 
+• Vorbereitung des Lagerbereichs 
