@@ -47,8 +47,9 @@ Vorbereitung der Inventur
 **Lernziel:**
 Grundverständnis zu Inventur, Inventaren 
 
-Material: E-Mail der Geschäftsführung: Was ist eine Inventur? 
---- 
+**Material:**
+E-Mail der Geschäftsführung: Was ist eine Inventur? 
+
 Email der Geschäftsführung:  
 
 > Von: gf@techsolutions.de  
@@ -63,6 +64,8 @@ Vielen Dank für Ihre Unterstützung!
 Mit freundlichen Grüßen,  
 Franziska Lehmann  
 Geschäftsführung 
+
+---
 
 ```
 Fehlende Laptops entdecken
