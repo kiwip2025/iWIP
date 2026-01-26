@@ -6,9 +6,6 @@ _build:
   render: true
 ---
 
-```
-Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
-```
 > Den SuS muss das Konzept von Storytelling beigebracht werden.
 
  - **Story-Element:**
