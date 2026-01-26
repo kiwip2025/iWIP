@@ -1,6 +1,11 @@
-```
-Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️
-```
+---
+title: "Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️"
+draft: false
+_build:
+  list: false
+  render: true
+---
+
 
 - **Inhalt:**  
   Abschluss der Untersuchung im Rahmen einer simulierten „Gerichtsverhandlung“
