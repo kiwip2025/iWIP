@@ -113,9 +113,7 @@ Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, di
 Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestaltet und verfolgen das Ziel, fachliche Inhalte des Rechnungswesens mit authentischen Handlungssituationen zu verknüpfen. Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche als auch überfachliche Kompetenzen systematisch aufgebaut und gefestigt. Jede Phase ist dabei durch klar definierte Aufgabenstellungen und passgenaue Materialien strukturiert.
 
 
-### Phasen
-
-- [Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾](phasen/phase1.md)
+[Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾](phasen/phase1.md)
 
 
 ```
