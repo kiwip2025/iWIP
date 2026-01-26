@@ -64,3 +64,32 @@ Mit freundlichen Grüßen,
 Franziska Lehmann  
 Geschäftsführung 
 
+```
+Fehlende Laptops entdecken
+```
+ 
+**Fall:**
+
+> Lager wird gezählt. Es fehlen 5 Laptops.
+> Lieferschein sagt: Lieferung war vollständig. 
+> Diskussionen starten.
+
+
+**Auftrag der SuS:**
+ - Soll-/Ist-Vergleich durchführen 
+ - Inventurergebnisse dokumentieren 
+ - Abweichungen notieren
+
+   
+**Lernziel:**  
+Soll-/Ist-Vergleich, Inventurdokumentation 
+
+**Material:** 
+Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
+
+Lieferschein:
+> Lieferdatum: 10.06.2025  
+> Lieferant: CompuX GmbH  
+> Produkt: Laptop Lenovo ThinkPad E15  
+> Unterschrift Lager: Frau Krüger Menge: 15 Stück  
+> Lieferstatus: Vollständig geliefert
