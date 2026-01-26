@@ -31,5 +31,3 @@ Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
   - Arbeitsblatt *„Wertströme analysieren“*  
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“*
   - Steckbriefe mit Unternehmens-Informationen
-
-```
