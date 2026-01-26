@@ -1,7 +1,9 @@
 ---
 title: "Phase 1: Einführung"
-hidden: true
 draft: false
+_build:
+  list: false
+  render: true
 ---
 
 ```
