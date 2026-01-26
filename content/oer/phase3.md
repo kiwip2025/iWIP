@@ -1,6 +1,10 @@
-```
-Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️
-```
+---
+title: "Phase 3: Die erste Auffälligkeit – Inventur und Abweichungen ⚠️"
+draft: false
+_build:
+  list: false
+  render: true
+---
 
 > in Phase 3 werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
 Probleme bei der Inventur und es fällt auf das Gegenstände im Lager fehlen. Sie soll die 
