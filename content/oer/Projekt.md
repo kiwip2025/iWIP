@@ -116,6 +116,7 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 [Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾](/oer/phase1/)
 
 
+
 ```
 Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾
 ```
