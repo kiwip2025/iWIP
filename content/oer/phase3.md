@@ -136,3 +136,46 @@ E-Mail von Steuerberater:
 > Abweichungen. 
 > Freundliche Grüße, 
 > Steuerkanzlei Müller & Partner
+
+---
+
+```
+Prüfung der Lagerbewegungen 
+```
+
+**Fall:**
+
+> Lagerbewegungen werden geprüft. Zugangs-/Ausgangsbuch fehlt teilweise. 
+
+**Auftrag der SuS:**
+- Fehlende Dokumente identifizieren 
+- Ein- und Ausgänge dokumentieren 
+- Checkliste zur Buchführung nutzen
+
+  
+**Lernziel:** 
+Lagerbuchführung, Ein- und Ausgänge dokumentieren 
+
+**Material:**
+Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
+
+---
+
+```
+Zweifel an offizieller Darstellung
+```
+
+**Fall:**
+
+> Geschäftsleitung gibt sich ahnungslos. Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
+> teure Geräte?“ → Andeutung auf etwas Größeres.
+
+
+**Auftrag der SuS:** 
+- Kritische Fragen formulieren 
+- Plausibilitätsprüfung durchführen 
+- Betriebliche Abläufe hinterfragen
+
+  
+**Lernziel:**
+Kritische Reflexion betrieblicher Abläufe, Plausibilitätsprüfung
