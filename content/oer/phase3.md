@@ -251,32 +251,37 @@ Darsteller:innen: 2 Personen (Chef + Kolleg:in)
 Drehorte: Büro & Kopierraum oder Flur  
 Ziel: Andeutung, dass der Chef selbst etwas vertuschen könnte.  
 
- **Szene 1** – Büro des Chefs (nach Feierabend) 
-Einstellung: Kamera filmt schräg von der Seite auf den Chef, der an seinem Schreibtisch 
+ **�Szene 1** – Büro des Chefs (nach Feierabend) 
+*Einstellung:* 
+Kamera filmt schräg von der Seite auf den Chef, der an seinem Schreibtisch 
 sitzt.  
-Requisiten: Laptop, Aktenordner („Inventur 2025“, „Altbestand 2023“), Drucker oder 
+*Requisiten:* 
+Laptop, Aktenordner („Inventur 2025“, „Altbestand 2023“), Drucker oder 
 Aktenschrank im Hintergrund. 
-Ton: Stille oder leises Klicken der Tastatur. 
-Handlung:  
+*Ton:*
+Stille oder leises Klicken der Tastatur. 
+*Handlung:*  
 Der Chef arbeitet am Laptop, wirkt konzentriert. Er nimmt ein Blatt Papier aus dem Drucker, 
 liest es, schaut sich kurz um (ob jemand  
 zusieht), öffnet den Ordner „Altbestand 2023“ und legt das Dokument hinein.  
 Gesprochener Satz (halblaut, mehr zu sich selbst):  
-Chef:  
+*Chef:* 
 „Wenn keiner fragt, bleibt’s eben so...“  
 
-**Szene 2** – Kopiererraum oder Flur am nächsten Morgen  
-Einstellung: Kolleg:in kommt in den Raum, blättert durch einige Dokumente, findet zufällig 
+**�Szene 2** – Kopiererraum oder Flur am nächsten Morgen  
+*Einstellung:*
+Kolleg:in kommt in den Raum, blättert durch einige Dokumente, findet zufällig 
 das gleiche Blatt, das der Chef am Vortag  
 abgelegt hatte (z. B. vergessenes Dubletten-Exemplar).  
-Requisite: Dokument mit handschriftlicher Notiz wie:  
+*Requisite:*
+Dokument mit handschriftlicher Notiz wie:  
 "Umbuchung erledigt – Altbestand 2023 – keine Prüfung durch Steuerberater nötig."  
 Reaktion (leise, nachdenklich):  
-Kolleg:in:  
+*Kolleg:in:*  
 „Komisch… das war doch für die neue Lieferung gedacht…?“  
 Optional: Blick zur Tür des Chefs, Nachdenkpause.  
 Abblende auf Schwarz.  
-Texteinblendung:  
+*Texteinblendung:*
 „Manchmal führen Spuren in eine andere Richtung.“  – Fortsetzung folgt – 
 
 
