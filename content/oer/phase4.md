@@ -125,7 +125,8 @@ Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung.
 - Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
 - Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
 - Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
-- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS? 
+- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?
+  
 **2. Beleg-Set (als Untersuchungsmaterial)** 
 - Eingangsrechnungen (korrekte & fehlerhafte) 
 - Ausgangsrechnungen 
@@ -133,24 +134,28 @@ Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung.
 - Lieferscheine & Inventarlisten 
 - Reisekostenbelege / Tankquittungen 
 - Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
-- USt-Voranmeldung (z. B. mit Lücken) 
+- USt-Voranmeldung (z. B. mit Lücken)
+  
 **3. Buchungssatz-Karten oder -Arbeitsblätter**
 - Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
 - Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
-- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen 
+- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
+  
 **4. Kontenübersicht / Auszug aus dem SKR04**
 - Konten für Wareneinkauf/-verkauf, Vorsteuer/USt, Privatkonto, BGA, Bank, Kasse, etc. 
 - Als Tabelle oder Karteikartenformat 
-- Optional: Erklärung zu häufig verwechselten Konten 
+- Optional: Erklärung zu häufig verwechselten Konten
+  
 **5. Verdachtsprotokoll-Vorlage**
-• strukturierte Vorlage mit Rubriken: 
-• Belegnummer / Buchung 
-• Auffälligkeit 
-• Korrekturvorschlag 
-• Mögliche Motivation / Konsequenz 
-• Belegnachweis 
+- strukturierte Vorlage mit Rubriken: 
+- Belegnummer / Buchung 
+- Auffälligkeit 
+- Korrekturvorschlag 
+- Mögliche Motivation / Konsequenz 
+- Belegnachweis
+  
 **6. Reflexionsbogen oder Präsentationsauftrag**
-• Reflexion über die eigene Rolle als Wirtschaftsprüfer*in 
-• Zusammenfassung der wichtigsten Erkenntnisse aus der Fallbearbeitung 
-• Präsentationsauftrag für die Gruppen: „Wie würden Sie dem Kunden den Fall 
+- Reflexion über die eigene Rolle als Wirtschaftsprüfer*in 
+- Zusammenfassung der wichtigsten Erkenntnisse aus der Fallbearbeitung 
+- Präsentationsauftrag für die Gruppen: „Wie würden Sie dem Kunden den Fall 
 erklären?“ 
