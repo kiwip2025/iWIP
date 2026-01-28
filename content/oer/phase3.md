@@ -96,3 +96,10 @@ Lieferschein:
 > Produkt: Laptop Lenovo ThinkPad E15  
 > Unterschrift Lager: Frau Krüger Menge: 15 Stück  
 > Lieferstatus: Vollständig geliefert
+
+
+| Artikel-Nr. | Produkt  | Bestand laut System | Bestand laut Zählung | Abweichung |
+| ----------- | -------- | ------------------- | -------------------- | ---------- |
+| 50123       | ThinkPad | 15                  | 10                   | -5         |
+
+
