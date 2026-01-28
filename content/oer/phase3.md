@@ -250,8 +250,8 @@ Länge: ca. 45–60 Sekunden
 Darsteller:innen: 2 Personen (Chef + Kolleg:in)  
 Drehorte: Büro & Kopierraum oder Flur  
 Ziel: Andeutung, dass der Chef selbst etwas vertuschen könnte.  
-�
-� Szene 1 – Büro des Chefs (nach Feierabend) 
+
+ **Szene 1** – Büro des Chefs (nach Feierabend) 
 Einstellung: Kamera filmt schräg von der Seite auf den Chef, der an seinem Schreibtisch 
 sitzt.  
 Requisiten: Laptop, Aktenordner („Inventur 2025“, „Altbestand 2023“), Drucker oder 
@@ -264,8 +264,8 @@ zusieht), öffnet den Ordner „Altbestand 2023“ und legt das Dokument hinein.
 Gesprochener Satz (halblaut, mehr zu sich selbst):  
 Chef:  
 „Wenn keiner fragt, bleibt’s eben so...“  
-�
-� Szene 2 – Kopiererraum oder Flur am nächsten Morgen  
+
+**Szene 2** – Kopiererraum oder Flur am nächsten Morgen  
 Einstellung: Kolleg:in kommt in den Raum, blättert durch einige Dokumente, findet zufällig 
 das gleiche Blatt, das der Chef am Vortag  
 abgelegt hatte (z. B. vergessenes Dubletten-Exemplar).  
