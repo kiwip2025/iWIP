@@ -98,8 +98,41 @@ Lieferschein:
 > Lieferstatus: Vollständig geliefert
 
 
-| Artikel-Nr. | Produkt  | Bestand laut System | Bestand laut Zählung | Abweichung |
-| ----------- | -------- | ------------------- | -------------------- | ---------- |
-| 50123       | ThinkPad | 15                  | 10                   | -5         |
+| Artikel-Nr.   | Produkt  | Bestand laut System   | Bestand laut Zählung  | Abweichung |
+| ------------- | -------- | --------------------- | --------------------- | ---------- |
+| 50123         | ThinkPad | 15                    | 10                    | -5         |
+
+---
+
+```
+Erinnerung an rechtliche Vorgaben
+```
+
+**Fall:** 
+
+> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. Nun wird der Ablauf 
+> rekonstruiert → Verdacht fällt auf Mitarbeitende.
 
 
+**Auftrag der SuS:** 
+- Gesetzliche Anforderungen prüfen 
+- Ablauf der Inventur rekonstruieren 
+- Diskussion über mögliche Ursachen starten 
+
+**Lernziel:**  
+Inventuraufbau, rechtliche Pflichten, interne Kontrolle 
+
+**Material:**
+E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
+
+E-Mail von Steuerberater:
+> Von: steuerkanzlei@muellerpartner.de 
+> An: gf@techsolutions.de 
+> Betreff: Erinnerung – Ordnungsgemäße Inventur 
+> Sehr geehrte Herr/Frau ..., 
+> wir möchten Sie daran erinnern, dass die jährliche Inventur gemäß §240 HGB vollständig 
+> dokumentiert und nachvollziehbar erfolgen 
+> muss. Bitte denken Sie an die Erstellung des Inventars sowie die Belegpflicht bei 
+> Abweichungen. 
+> Freundliche Grüße, 
+> Steuerkanzlei Müller & Partner
