@@ -29,7 +29,7 @@ Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wend
 ---
 
 ```
-Vorbereitung der Inventur
+1. Vorbereitung der Inventur
 ```
 
 **Fall:**
@@ -50,7 +50,7 @@ Grundverständnis zu Inventur, Inventaren
 **Material:**
 E-Mail der Geschäftsführung: Was ist eine Inventur? 
 
-Email der Geschäftsführung:  
+*Email der Geschäftsführung:* 
 
 > Von: gf@techsolutions.de  
 An: alle@techsolutions.de  
@@ -68,7 +68,7 @@ Geschäftsführung
 ---
 
 ```
-Fehlende Laptops entdecken
+2. Fehlende Laptops entdecken
 ```
  
 **Fall:**
@@ -90,7 +90,7 @@ Soll-/Ist-Vergleich, Inventurdokumentation
 **Material:** 
 Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
 
-Lieferschein:
+*Lieferschein:*
 > Lieferdatum: 10.06.2025  
 > Lieferant: CompuX GmbH  
 > Produkt: Laptop Lenovo ThinkPad E15  
@@ -105,7 +105,7 @@ Lieferschein:
 ---
 
 ```
-Erinnerung an rechtliche Vorgaben
+3. Erinnerung an rechtliche Vorgaben
 ```
 
 **Fall:** 
@@ -125,7 +125,7 @@ Inventuraufbau, rechtliche Pflichten, interne Kontrolle
 **Material:**
 E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
 
-E-Mail von Steuerberater:
+*E-Mail von Steuerberater:*
 > Von: steuerkanzlei@muellerpartner.de 
 > An: gf@techsolutions.de 
 > Betreff: Erinnerung – Ordnungsgemäße Inventur 
@@ -140,7 +140,7 @@ E-Mail von Steuerberater:
 ---
 
 ```
-Prüfung der Lagerbewegungen 
+4. Prüfung der Lagerbewegungen 
 ```
 
 **Fall:**
@@ -162,7 +162,7 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 ---
 
 ```
-Zweifel an offizieller Darstellung
+5. Zweifel an offizieller Darstellung
 ```
 
 **Fall:**
@@ -181,7 +181,7 @@ Kritische Reflexion betrieblicher Abläufe, Plausibilitätsprüfung
 **Material:**
 Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters 
 
-Reflexionsbogen: 
+*Reflexionsbogen:*
 > - Welche internen Kontrollmechanismen hätten das Fehlen der Laptops verhindern können?  
 > - Wer hatte Zugriff auf das Lager – offiziell und inoffiziell?  
 > - Wie plausibel ist der aktuelle Verdacht?  
@@ -190,7 +190,7 @@ Reflexionsbogen:
 ---
 
 ```
-Praxisbezug herstellen 
+6. Praxisbezug herstellen 
 ```
 
 **Fall:**
@@ -209,7 +209,7 @@ Anwendung auf Praxis, Transfersicherung
 
 **Material:** Exkurs-Auftrag (PDF) 
 
-Exkurs-Auftrag für Schüler:innen:
+*Exkurs-Auftrag für Schüler:innen:*
 
 > Titel: „Wie läuft die Inventur in meinem Ausbildungsbetrieb?“  
 > Aufgabe:  
@@ -225,7 +225,7 @@ Exkurs-Auftrag für Schüler:innen:
 ---
 
 ```
-Geheime Absprache 
+7. Geheime Absprache 
 ```
 
 **Fall:** 
@@ -251,7 +251,7 @@ Darsteller:innen: 2 Personen (Chef + Kolleg:in)
 Drehorte: Büro & Kopierraum oder Flur  
 Ziel: Andeutung, dass der Chef selbst etwas vertuschen könnte.  
 
- **�Szene 1** – Büro des Chefs (nach Feierabend) 
+ **Szene 1 – Büro des Chefs (nach Feierabend)**
 *Einstellung:* 
 Kamera filmt schräg von der Seite auf den Chef, der an seinem Schreibtisch 
 sitzt.  
@@ -268,7 +268,7 @@ Gesprochener Satz (halblaut, mehr zu sich selbst):
 *Chef:* 
 „Wenn keiner fragt, bleibt’s eben so...“  
 
-**�Szene 2** – Kopiererraum oder Flur am nächsten Morgen  
+**Szene 2 – Kopiererraum oder Flur am nächsten Morgen**
 *Einstellung:*
 Kolleg:in kommt in den Raum, blättert durch einige Dokumente, findet zufällig 
 das gleiche Blatt, das der Chef am Vortag  
