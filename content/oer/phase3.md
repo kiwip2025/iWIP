@@ -128,6 +128,7 @@ Inventuraufbau, rechtliche Pflichten, interne Kontrolle
 E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
 
 *E-Mail von Steuerberater:*
+
 > Von: steuerkanzlei@muellerpartner.de 
 An: gf@techsolutions.de 
 Betreff: Erinnerung – Ordnungsgemäße Inventur 
