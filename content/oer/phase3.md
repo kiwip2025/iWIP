@@ -34,7 +34,7 @@ Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wend
 
 **Fall:**
 
-> Inventur steht an. 
+> Inventur steht an.
 > Geschäftsleitung schickt Rundmail zur Vorbereitung. 
 > Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 
 
@@ -73,9 +73,10 @@ Geschäftsführung
  
 **Fall:**
 
-> Lager wird gezählt. Es fehlen 5 Laptops.
-Lieferschein sagt: Lieferung war vollständig. 
-Diskussionen starten.
+> Lager wird gezählt.
+> Es fehlen 5 Laptops.
+> Lieferschein sagt: Lieferung war vollständig.
+> Diskussionen starten.
 
 
 **Auftrag der SuS:**
