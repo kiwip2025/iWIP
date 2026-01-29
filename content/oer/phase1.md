@@ -5,9 +5,8 @@ _build:
   list: false
   render: true
 ---
-<button onclick="window.location.href='https://kiwip2025.github.io/iWIP/oer/projekt/'">
-  Zurück zur Projektseite
-</button>
+<a href="../phase1/">Zurück zu Phase 1</a>
+
 
 > Den SuS muss das Konzept von Storytelling beigebracht werden.
 
