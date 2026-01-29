@@ -6,6 +6,25 @@ _build:
   render: true
 ---
 
+<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+
+<style>
+.back-button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+</style>
+
 > In **Phase 3** werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
 Probleme bei der Inventur und es fällt auf das Gegenstände im Lager fehlen. Sie soll die 
 Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wendung 
