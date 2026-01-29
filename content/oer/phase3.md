@@ -74,8 +74,8 @@ Geschäftsführung
 **Fall:**
 
 > Lager wird gezählt. Es fehlen 5 Laptops.
-> Lieferschein sagt: Lieferung war vollständig. 
-> Diskussionen starten.
+Lieferschein sagt: Lieferung war vollständig. 
+Diskussionen starten.
 
 
 **Auftrag der SuS:**
