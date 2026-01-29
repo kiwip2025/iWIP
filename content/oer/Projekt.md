@@ -128,46 +128,46 @@ Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche al
 ---
 
 <a id="Materialien-und-Ressourcen"></a>
-## Materialien und Ressourcen
+## 📦 Materialien und Ressourcen
 
-**Arbeitsblätter:**
+**📝 Arbeitsblätter:**
 -	Arbeitsblatt "Wertströme analysieren" (Anhang 1)
 -	Reflexionsbogen (Anhang 5)
 -	Exkurs Betriebe (Anhang 6)
 
-**Kommunikationsmittel:**
+**💬 Kommunikationsmittel:**
 -	E-Mail der Geschäftsführung (Anhang 2)
 -	E-Mail Steuerberater (Anhang 4)
 
-**Belege & Dokumente:**
+**📄 Belege & Dokumente:**
 -	Lieferschein (Anhang 3)
 -	(Ggf. weitere fiktive Belege, die im Storyboard detailliert werden)
 
-**Medien:**
+**🎬 Medien:**
 -	Skript zum "Geheimvideo" (Anhang 7)
 -	(Ggf. Links zu externen Tools/Simulationen, die verwendet werden könnten)
 
-**Unterrichtsverlaufsplan:**
+**🗂️ Unterrichtsverlaufsplan:**
 -	Tabelle 1: Unterrichtsverlaufsplan UE „Wertströme analysieren“ (Anhang 8)
 
-> Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs)
+> ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs)
 
 ---
 
 <a id="Reflexion-und-Ausblick"></a>
-## Reflexion & Ausblick 
+## 🔎 Reflexion & Ausblick 
 
-**Der Innovationsprozess (Design Thinking):**
-- Kurze Beschreibung der Phasen (Verstehen, Beobachten, Problemdefinition, Ideengenerierung, Prototyping, Testen)
+**💡 Der Innovationsprozess (Design Thinking):**
+- Kurze Beschreibung der Phasen (Verstehen, 👀 Beobachten, 🎯 Problemdefinition, 💭 Ideengenerierung, 🧩 Prototyping, 🧪 Testen)
 - Erlernte Lektionen während des Prozesses
   
-**Herausforderungen & Lösungsstrategien:**
+**⚠️ Herausforderungen & Lösungsstrategien:**
 - Umgang mit Komplexität, Balance zwischen Fachlichkeit und Motivation, organisatorische Rahmenbedingungen
 
-**Teamreflexion:**
+**🤝 Teamreflexion:**
 - Die Zusammenarbeit im Team (Stärken, Herausforderungen, Entwicklung)
 
-**Potenzial & Weiterentwicklung:**
+**🚀 Potenzial & Weiterentwicklung:**
 - Wie das Konzept weiterentwickelt werden könnte
 -	Übertragbarkeit auf andere Lernfelder oder Berufsfelder
 - Beitrag zur Innovationskultur in der beruflichen Bildung
