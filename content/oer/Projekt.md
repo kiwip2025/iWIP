@@ -152,7 +152,7 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 ---
 
-<a id="Reflexion & Ausblick"></a>
+<a id="Reflexion-und-Ausblick"></a>
 ## Reflexion & Ausblick 
 
 **Der Innovationsprozess (Design Thinking):**
