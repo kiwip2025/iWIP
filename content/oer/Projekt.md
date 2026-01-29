@@ -150,3 +150,24 @@ Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestalt
 
 > Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs)
 
+---
+
+<a id="Reflexion & Ausblick"></a>
+## Reflexion & Ausblick 
+
+**Der Innovationsprozess (Design Thinking):**
+- Kurze Beschreibung der Phasen (Verstehen, Beobachten, Problemdefinition, Ideengenerierung, Prototyping, Testen)
+- Erlernte Lektionen während des Prozesses
+  
+**Herausforderungen & Lösungsstrategien:**
+- Umgang mit Komplexität, Balance zwischen Fachlichkeit und Motivation, organisatorische Rahmenbedingungen
+
+**Teamreflexion:**
+- Die Zusammenarbeit im Team (Stärken, Herausforderungen, Entwicklung)
+
+**Potenzial & Weiterentwicklung:**
+- Wie das Konzept weiterentwickelt werden könnte
+-	Übertragbarkeit auf andere Lernfelder oder Berufsfelder
+- Beitrag zur Innovationskultur in der beruflichen Bildung
+
+
