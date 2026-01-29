@@ -107,11 +107,13 @@ Die Ergebnisse der Untersuchung werden abschließend in einer Art „Gerichtsver
 <a id="Das-Konzept-im-Detail-Die-Phasen"></a>
 ## Das Konzept im Detail: Die Phasen 
 
-**Didaktische Struktur des Projekts**
+**📚 Didaktische Struktur des Projekts**
 
-Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, die sich an der Logik der **vollständigen Handlung** (Informieren – Planen – Entscheiden – Ausführen – Kontrollieren/Reflektieren) orientieren.  
-Die Phasen sind zugleich dramaturgisch entlang eines **Krimi-Szenarios** gestaltet und verfolgen das Ziel, fachliche Inhalte des Rechnungswesens mit authentischen Handlungssituationen zu verknüpfen. Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche als auch überfachliche Kompetenzen systematisch aufgebaut und gefestigt. Jede Phase ist dabei durch klar definierte Aufgabenstellungen und passgenaue Materialien strukturiert.
+Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, die sich an der Logik der **vollständigen Handlung** (ℹ️ Informieren – 🗂️ Planen – ⚖️ Entscheiden – ▶️ Ausführen – 🔍 Kontrollieren/♻️ Reflektieren) orientieren.
 
+Die Phasen sind zugleich dramaturgisch entlang eines **🕵️‍♂️ Krimi-Szenarios** gestaltet und verfolgen das Ziel, fachliche Inhalte des Rechnungswesens mit authentischen Handlungssituationen zu verknüpfen.
+
+Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche als auch überfachliche Kompetenzen systematisch aufgebaut und gefestigt. Jede Phase ist dabei durch klar definierte Aufgabenstellungen und passgenaue Materialien strukturiert. 📝
 
 [Phase 1: Die Einführung – Der Auftrag der Wirtschaftsprüfer:innen 🧾](/iWIP/oer/phase1/)
 
