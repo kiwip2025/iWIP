@@ -6,6 +6,25 @@ _build:
   render: true
 ---
 
+<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+
+<style>
+.back-button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+</style>
+
 > = ist der dramaturgische und inhaltliche Höhepunkt deines Storytellings im Lernfeld 4. Ziel ist 
 es, dass die Schülerinnen und Schüler durch die vorher erlernten buchhalterischen Kenntnisse 
 eigenständig Auffälligkeiten entdecken, Belege analysieren und sich ein Gesamtbild 
