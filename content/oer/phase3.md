@@ -149,15 +149,15 @@ E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde
 *E-Mail von Steuerberater:*
 
 > Von: steuerkanzlei@muellerpartner.de
-  An: gf@techsolutions.de
-  Betreff: Erinnerung – Ordnungsgemäße Inventur
-  Sehr geehrte Herr/Frau ...,
-  wir möchten Sie daran erinnern, dass die jährliche Inventur gemäß §240 HGB vollständig
-  dokumentiert und nachvollziehbar erfolgen
-  muss. Bitte denken Sie an die Erstellung des Inventars sowie die Belegpflicht bei
-  Abweichungen.
-  Freundliche Grüße,
-  Steuerkanzlei Müller & Partner
+>  An: gf@techsolutions.de
+>  Betreff: Erinnerung – Ordnungsgemäße Inventur
+>  Sehr geehrte Herr/Frau ...,
+>  wir möchten Sie daran erinnern, dass die jährliche Inventur gemäß §240 HGB vollständig
+>  dokumentiert und nachvollziehbar erfolgen
+>  muss. Bitte denken Sie an die Erstellung des Inventars sowie die Belegpflicht bei
+>  Abweichungen.
+>  Freundliche Grüße,
+>  Steuerkanzlei Müller & Partner
 
 ---
 
