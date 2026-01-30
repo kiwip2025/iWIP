@@ -131,7 +131,8 @@ Inventurliste, Lieferschein, Protokoll, Inventurergebnis
 
 **Fall:** 
 
-> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. Nun wird der Ablauf 
+> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben.
+> Nun wird der Ablauf 
 > rekonstruiert → Verdacht fällt auf Mitarbeitende.
 
 
@@ -166,7 +167,8 @@ E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde
 
 **Fall:**
 
-> Lagerbewegungen werden geprüft. Zugangs-/Ausgangsbuch fehlt teilweise. 
+> Lagerbewegungen werden geprüft.
+> Zugangs-/Ausgangsbuch fehlt teilweise. 
 
 **Auftrag der SuS:**
 - Fehlende Dokumente identifizieren 
@@ -188,7 +190,8 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 
 **Fall:**
 
-> Geschäftsleitung gibt sich ahnungslos. Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
+> Geschäftsleitung gibt sich ahnungslos.
+> Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
 > teure Geräte?“ → Andeutung auf etwas Größeres.
 
 **Auftrag der SuS:** 
@@ -250,8 +253,8 @@ Anwendung auf Praxis, Transfersicherung
 ```
 
 **Fall:** 
-> Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person. Redet über 
-> kreative Buchführung.
+> Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person.
+> Redet über kreative Buchführung.
 
 **Auftrag der SuS:**
 - Video ansehen und analysieren 
