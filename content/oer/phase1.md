@@ -28,23 +28,23 @@ _build:
 
 > Den SuS muss das Konzept von Storytelling beigebracht werden.
 
- - **Story-Element:**
+ - **📖 Story-Element:**
    Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
    Effizienzsteigerung und darum aufzudecken, weshalb trotz guter Auftragslage keine 
-   schwarzen Zahlen geschrieben werden.
+   schwarzen Zahlen geschrieben werden. 📉➡️📈
    
-- **Inhalt:**  
+- **🏢 Inhalt:**  
   Vorstellung der beteiligten Unternehmen sowie der Ausgangssituation (BPK schreibt rote Zahlen)
   Auftrag durch den BPK an die Wirtschaftsprüfung
   Rolle des Wirtschaftsprüfers
   Wertströme
   
-- **Aufgabe:**  
-  Analyse der Wertströme des Unternehmens (erkennen und erläutern)
+- **🧩 Aufgabe:**  
+  Analyse der Wertströme des Unternehmens (erkennen und erläutern) 🔍  
 
-- **Materialien:**
+- **📚 Materialien:**
   - Übersichten
   - Bücher-Inhalte zur theoretischen Vorstellung von Wertströmen
-  - Arbeitsblatt *„Wertströme analysieren“*  
-  - Erklärvideo *„Rolle des Wirtschaftsprüfers“*
-  - Steckbriefe mit Unternehmens-Informationen
+  - Arbeitsblatt *„Wertströme analysieren“* 📝
+  - Erklärvideo *„Rolle des Wirtschaftsprüfers“* 🎥
+  - Steckbriefe mit Unternehmens-Informationen 🗂️
