@@ -33,19 +33,19 @@ Die Zahlen stimmen vorn und hinten nicht. Mehrere Belege lassen sich nicht einde
 zuordnen oder scheinen manipuliert. Die Unternehmensleitung des Bayerischen 
 Papierkontors bittet das Wirtschaftsprüfungsunternehmen nun um eine abschließende 
 Analyse – mit besonderem Fokus auf Warengeschäfte, Steuerbuchungen und private 
-Entnahmen. 
+Entnahmen. ⚠️📊
 
 > Jetzt wird es ernst: Die Schülerinnen und Schüler ermitteln in Buchhaltungsunterlagen, 
 Belegen und Kontoauszügen – und müssen verdächtige Geschäftsvorfälle aufdecken, 
-verbuchen und kritisch bewerten.
+verbuchen und kritisch bewerten. 🔍📁
 
-- **Inhalt:**  
-  Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer
+- **🏢 Inhalt:**  
+  Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer 🔥🕵️  
 
-- **Aufgabe:**  
+- **🧩 Aufgabe:**  
   Verknüpfung verschiedener Informationsquellen, Analyse von Fehlbuchungen, Steuerbetrug und Lagerbestandsdiskrepanzen
 
-- **Materialien:**  
+- **📚 Materialien:**  
   - Weitere fehlerhafte Belege  
   - Übersichten zu Zugriffs- und Buchungsberechtigungen
 
@@ -58,22 +58,22 @@ verbuchen und kritisch bewerten.
 1. Buchung von Warengeschäften
 ```
 
-**Fall:**
+**🔍 Fall:**
 > Eine Buchung zeigt den Kauf von Waren mit einem 3 % Skonto – aber es fehlen Angaben 
 zu Skonto oder Lieferbedingungen. 
 Außerdem wird ein Exportgeschäft falsch verbucht, obwohl keine Umsatzsteuer ausgewiesen 
-werden dürfte (innergemeinschaftliche Lieferung).
+werden dürfte (innergemeinschaftliche Lieferung). 💶⚖️
 
 
-**Auftrag der SuS:**
+**🧩 Auftrag der SuS:**
 - Prüfen, ob die Buchungssätze korrekt sind 
 - Erstellt richtige Buchungssätze mit Berücksichtigung von Skonto, Bezugskosten oder 
 Rücksendungen. 
 - Erklärt den Fehler bei der falschen USt-Ausweisung bei Exportgeschäften.
   
-**Lernziel:**
+**🎯 Lernziel:**
 Differenzierung von normalen und speziellen Warengeschäften und ihre korrekte 
-buchhalterische Behandlung.
+buchhalterische Behandlung. 📘
 
 ---
 
@@ -81,20 +81,20 @@ buchhalterische Behandlung.
 2. Umsatzsteuer & Vorsteuer – Zahllast/ Vorsteuerüberhang 
 ```
 
-**Fall:**
+**🔍 Fall:**
 > Eine Eingangsrechnung mit Vorsteuer wurde gebucht – aber nie bezahlt. Eine 
 Ausgangsrechnung wurde brutto auf Privatkonto gebucht.  
-Die Zahllast wurde nicht fristgerecht abgeführt. 
+Die Zahllast wurde nicht fristgerecht abgeführt. ⚠️
 
-**Auftrag der SuS:**
+**🧩 Auftrag der SuS:**
 - Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
 - Stellt fest, ob Steuerverkürzung vorliegt. 
 - Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
 
    
-**Lernziel:**
+**🎯 Lernziel:**
 korrekte USt-/VSt-Buchung, Berechnung der Zahllast und Aufdecken von 
-Unregelmäßigkeiten bei Steuerbuchungen. 
+Unregelmäßigkeiten bei Steuerbuchungen. 📊
 
 ---
 
@@ -102,20 +102,20 @@ Unregelmäßigkeiten bei Steuerbuchungen.
 3. Arbeiten mit dem Kontenrahmen 
 ```
 
-**Fall:**
+**🔍 Fall:**
 > Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
 Aufwandskonto). Ein Kauf von Druckerpapier wurde auf "BGA" statt auf "Büromaterial" 
-gebucht.
+gebucht. 🗂️
 
-**Auftrag der SuS:**
+**🧩 Auftrag der SuS:**
 - Ordnet die Buchungen den richtigen Konten im SKR04 zu. 
 - Erstellt einen Belegvermerk, der die falsche Buchung erklärt. 
 - Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
 Privatentnahmen. 
 
-**Lernziel:**
+**🎯 Lernziel:**
 Sicherheit im Umgang mit dem Kontenrahmen und das Erkennen von Manipulation 
-durch Kontenwahl.
+durch Kontenwahl. 🔎
 
 ---
 
@@ -123,30 +123,30 @@ durch Kontenwahl.
 4. Privatbuchungen 
 ```
 
-**Fall:**
+**🔍 Fall:**
 > Es wurde ein Laptop auf Geschäftskosten gekauft, Lieferung an Privatadresse.  
 Mehrere Tankbelege ohne Firmenfahrzeugbezug wurden auf Reisekosten gebucht. 
-Geldabhebungen am Wochenende – auf "Repräsentation" gebucht.
+Geldabhebungen am Wochenende – auf "Repräsentation" gebucht. 💻⛽
 
-**Auftrag der SuS:**
+**🧩 Auftrag der SuS:**
 - Korrigiert diese Buchungen unter Einbezug des Privatkontos. 
 - Erklärt, warum dies betriebsfremd ist. 
 - Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
 
-**Lernziel:**
-Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. 
+**🎯 Lernziel:**
+Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. ⚠️
 
 ---
 
-**Materialien:**
+**📚 Materialien:**
 
-**1. Fallakte / Auftragsmappe für die Azubis** 
+**1. Fallakte / Auftragsmappe für die Azubis 🗂️** 
 - Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
 - Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
 - Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
 - Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?
   
-**2. Beleg-Set (als Untersuchungsmaterial)** 
+**2. Beleg-Set (als Untersuchungsmaterial) 🗂️** 
 - Eingangsrechnungen (korrekte & fehlerhafte) 
 - Ausgangsrechnungen 
 - Kontoauszüge (mit privaten Überweisungen, seltsamen Barabhebungen) 
@@ -155,17 +155,17 @@ Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung.
 - Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
 - USt-Voranmeldung (z. B. mit Lücken)
   
-**3. Buchungssatz-Karten oder -Arbeitsblätter**
+**3. Buchungssatz-Karten oder -Arbeitsblätter 📝**
 - Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
 - Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
 - Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
   
-**4. Kontenübersicht / Auszug aus dem SKR04**
+**4. Kontenübersicht / Auszug aus dem SKR04 🗃️**
 - Konten für Wareneinkauf/-verkauf, Vorsteuer/USt, Privatkonto, BGA, Bank, Kasse, etc. 
 - Als Tabelle oder Karteikartenformat 
 - Optional: Erklärung zu häufig verwechselten Konten
   
-**5. Verdachtsprotokoll-Vorlage**
+**5. Verdachtsprotokoll-Vorlage 📋**
 - strukturierte Vorlage mit Rubriken: 
 - Belegnummer / Buchung 
 - Auffälligkeit 
@@ -173,8 +173,8 @@ Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung.
 - Mögliche Motivation / Konsequenz 
 - Belegnachweis
   
-**6. Reflexionsbogen oder Präsentationsauftrag**
+**6. Reflexionsbogen oder Präsentationsauftrag 🎤**
 - Reflexion über die eigene Rolle als Wirtschaftsprüfer*in 
 - Zusammenfassung der wichtigsten Erkenntnisse aus der Fallbearbeitung 
 - Präsentationsauftrag für die Gruppen: „Wie würden Sie dem Kunden den Fall 
-erklären?“ 
+erklären?“ 🎤📊
