@@ -104,8 +104,7 @@ Geschäftsführung
  - Abweichungen notieren
 
    
-**🎯 Lernziel:**  
-Soll-/Ist-Vergleich, Inventurdokumentation 
+**🎯 Lernziel:**  Soll-/Ist-Vergleich, Inventurdokumentation 
 
 **📚 Material:** 
 Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
@@ -141,8 +140,7 @@ Inventurliste, Lieferschein, Protokoll, Inventurergebnis
 - Ablauf der Inventur rekonstruieren 
 - Diskussion über mögliche Ursachen starten 
 
-**🎯 Lernziel:**  
-Inventuraufbau, rechtliche Pflichten, interne Kontrolle 
+**🎯 Lernziel:**  Inventuraufbau, rechtliche Pflichten, interne Kontrolle 
 
 **📚 Material:**
 E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
@@ -262,18 +260,17 @@ Anwendung auf Praxis, Transfersicherung
 - Schlüsse für die nächste Phase ziehen
 
   
-**🎯 Lernziel:**  
-Spannung steigern, Schüler auf Phase 4 vorbereiten 
+**🎯 Lernziel:**  Spannung steigern, Schüler auf Phase 4 vorbereiten 
 
 **📚 Material:**
 Video, Analysebogen zum Video 
 
-> Kurzes Video am Ende 🎥 
-Zweiszene-Drehbuch: „Ein leiser Verdacht“ (überarbeitete Version)  
+> Kurzes Video am Ende 🎥
+> Zweiszene-Drehbuch: „Ein leiser Verdacht“ (überarbeitete Version)  
 Länge: ca. 45–60 Sekunden  
 Darsteller:innen: 2 Personen (Chef + Kolleg:in)  
 Drehorte: Büro & Kopierraum oder Flur  
-Ziel: Andeutung, dass der Chef selbst etwas vertuschen könnte.  
+🎯 Ziel: Andeutung, dass der Chef selbst etwas vertuschen könnte.  
 
  **🎥 Szene 1 – Büro des Chefs (nach Feierabend)**
  
@@ -288,7 +285,7 @@ Aktenschrank im Hintergrund.
 *Ton:*
 Stille oder leises Klicken der Tastatur. 
 
-*Handlung:*  
+*Handlung:* 
 Der Chef arbeitet am Laptop, wirkt konzentriert. Er nimmt ein Blatt Papier aus dem Drucker, 
 liest es, schaut sich kurz um (ob jemand  
 zusieht), öffnet den Ordner „Altbestand 2023“ und legt das Dokument hinein.  
@@ -315,7 +312,9 @@ Optional: Blick zur Tür des Chefs, Nachdenkpause.
 Abblende auf Schwarz.  
 
 *Texteinblendung:*
-„Manchmal führen Spuren in eine andere Richtung.“  – Fortsetzung folgt – 
+„Manchmal führen Spuren in eine andere Richtung.“  
+
+– Fortsetzung folgt – 
 
 
 
