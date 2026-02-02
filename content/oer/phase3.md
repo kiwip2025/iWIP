@@ -95,7 +95,7 @@ Geschäftsführung
 > Lager wird gezählt.
 > Es fehlen 5 Laptops.
 > Lieferschein sagt: Lieferung war vollständig.
-> Diskussionen starten.
+> Diskussionen starten. 💻❌
 
 
 **🧩 Auftrag der SuS:**
@@ -131,7 +131,7 @@ Inventurliste, Lieferschein, Protokoll, Inventurergebnis
 
 **🔍 Fall:** 
 
-> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben.
+> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
 > Nun wird der Ablauf 
 > rekonstruiert → Verdacht fällt auf Mitarbeitende.
 
@@ -168,7 +168,7 @@ E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde
 **🔍 Fall:**
 
 > Lagerbewegungen werden geprüft.
-> Zugangs-/Ausgangsbuch fehlt teilweise. 
+> Zugangs-/Ausgangsbuch fehlt teilweise. 📉
 
 **🧩 Auftrag der SuS:**
 - Fehlende Dokumente identifizieren 
@@ -192,7 +192,7 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 
 > Geschäftsleitung gibt sich ahnungslos.
 > Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
-> teure Geräte?“ → Andeutung auf etwas Größeres.
+> teure Geräte?“ → Andeutung auf etwas Größeres. 🤔
 
 **🧩 Auftrag der SuS:** 
 - Kritische Fragen formulieren 
@@ -220,7 +220,7 @@ Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters
 **🔍 Fall:**
 
 > Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
-> Ausbildungsbetrieb.
+> Ausbildungsbetrieb. 🏢
 
 
 **🧩 Auftrag der SuS:**
