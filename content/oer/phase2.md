@@ -31,6 +31,12 @@ trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und 
 Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
 Ermittlungen zu erwerben. 🧰📘
 
+> **🎯 Lernziele**
+> - Verständnis von buchhalterischen Grundprinzipien 📘
+> - Aufbau von Sicherheit im Umgang mit Belegen 🧠
+> - Fähigkeit zur Erstellung einfacher Buchungssätze ✍️
+> - Sensibilisierung für Fehlerquellen und Korrekturen ⚠️
+
 - **📖 Story-Element:**
   Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
   Verflechtungen gehen. Die Wirtschaftsprüfungseinheit beginnt mit der systematischen 
@@ -58,9 +64,3 @@ Ermittlungen zu erwerben. 🧰📘
   - SKR04-Kontenauszug
   - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑
   - T-Konten-Darstellungen zur Visualisierung 
-
-> **🎯 Lernziele**
-> - Verständnis von buchhalterischen Grundprinzipien 📘
-> - Aufbau von Sicherheit im Umgang mit Belegen 🧠
-> - Fähigkeit zur Erstellung einfacher Buchungssätze ✍️
-> - Sensibilisierung für Fehlerquellen und Korrekturen ⚠️
