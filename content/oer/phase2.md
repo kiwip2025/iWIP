@@ -26,6 +26,11 @@ _build:
 }
 </style>
 
+![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
+
+*Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch CHATGPT).*
+
+
 > **🎯 Lernziele:** Nach Abschluss der Phase 2 können die SuS …
 > - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
 > - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
