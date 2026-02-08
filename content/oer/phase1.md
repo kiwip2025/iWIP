@@ -27,7 +27,7 @@ _build:
 
 ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
 
-> **🎯 Lernziel:** Die SuS verstehen das Storytelling-Konzept und übernehemen die Rolle von Wirtschaftsprüfer:innen, um die Wertströme bei der BPK zu analysieren.
+> **🎯Lernziel:** Die SuS verstehen das Storytelling-Konzept und übernehemen die Rolle von Wirtschaftsprüfer:innen, um die Wertströme bei der BPK zu analysieren.
 
  - **📖 Story-Element:**
    Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
