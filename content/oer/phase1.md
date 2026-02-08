@@ -26,6 +26,8 @@ _build:
 </style>
 
 
+https://github.com/kiwip2025/iWIP/blob/main/content/oer/ChatGPT_Phase1.png
+
 > Den SuS muss das Konzept von Storytelling beigebracht werden.
 
  - **📖 Story-Element:**
