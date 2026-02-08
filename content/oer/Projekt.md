@@ -124,7 +124,17 @@ Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche al
 [Phase 4: Die Ermittlung – Analyse komplexer Sachverhalte 🧠](/iWIP/oer/phase4/)
 
 [Phase 5: Das Urteil – Reflexion, Präsentation und Bewertung ⚖️](/iWIP/oer/phase5/)
- 
+
+---
+
+ ## 🎨 Comic zum Unterrichtsprojekt
+
+Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung von Wertströmen im Rechnungswesen:
+
+![Comic zum Krimi-Unterrichtskonzept](content/oer/ChatGPT-Krimi.png)
+
+*Abbildung: Visualisierung des handlungsorientierten Unterrichtskonzepts (eigene Darstellung durch CHATGPT).*
+
 ---
 
 <a id="Materialien-und-Ressourcen"></a>
