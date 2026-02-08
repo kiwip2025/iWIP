@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ## 📚 Inhaltsverzeichnis
 
-- [Das Projekt](#das-Projekt)
+- [Das Projekt 🧩](#das-Projekt)
 - [Didaktische und Methodische Idee](#Didaktische-und-Methodische-Idee)
 - [Das Konzept im Detail: Die Phasen ](#Das-Konzept-im-Detail-Die-Phasen)
 - [Comic zum Unterrichtsprojekt](#Comic-zum-Unterrichtsprojekt)
