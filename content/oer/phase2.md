@@ -26,11 +26,6 @@ _build:
 }
 </style>
 
-> In ***Phase 2*** werden die Grundlagen für die buchhalterische Fallarbeit gelegt. Die Schüler:innen 
-trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und entwickeln ein 
-Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
-Ermittlungen zu erwerben. 🧰📘
-
 > **🎯 Lernziele:** Nach Abschluss der Phase 2 können die SuS …
 > - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
 > - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
