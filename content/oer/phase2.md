@@ -31,11 +31,13 @@ trainieren das korrekte Buchen von Geschäftsvorfällen, analysieren Belege und 
 Verständnis für systematische Belegabläufe. Ziel ist es, das Handwerkszeug für spätere 
 Ermittlungen zu erwerben. 🧰📘
 
-> **🎯 Lernziele**
-> - Verständnis von buchhalterischen Grundprinzipien 📘
-> - Aufbau von Sicherheit im Umgang mit Belegen 🧠
-> - Fähigkeit zur Erstellung einfacher Buchungssätze ✍️
-> - Sensibilisierung für Fehlerquellen und Korrekturen ⚠️
+> **🎯 Lernziele:** Nach Abschluss der Phase 2 können die SuS …
+> - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
+> - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
+> - einfache Buchungssätze korrekt formulieren und buchen (z. B. Warenkauf, Dienstleistungsbezug, Bankbewegungen) unter Verwendung des Kontenrahmens SKR04. ✍️
+> - typische Fehlerquellen in Belegen identifizieren und beschreiben (z. B. falsche Beträge, fehlende Angaben, unplausible Buchungen). ⚠️
+> - Korrekturbuchungen bei festgestellten Abweichungen durchführen und diese fachlich begründen.
+> - Auffälligkeiten systematisch dokumentieren, indem sie ein Ermittlungsprotokoll führen und erste Unstimmigkeiten nachvollziehbar festhalten.
 
 - **📖 Story-Element:**
   Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
