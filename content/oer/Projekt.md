@@ -39,11 +39,11 @@ document.addEventListener("DOMContentLoaded", function () {
 ## 📚 Inhaltsverzeichnis
 
 - [Das Projekt 🧩](#das-Projekt)
-- [Didaktische und Methodische Idee](#Didaktische-und-Methodische-Idee)
+- [Didaktische und Methodische Idee 🧠](#Didaktische-und-Methodische-Idee)
 - [Das Konzept im Detail: Die Phasen ](#Das-Konzept-im-Detail-Die-Phasen)
-- [Comic zum Unterrichtsprojekt](#Comic-zum-Unterrichtsprojekt)
-- [Materialien und Ressourcen](#Materialien-und-Ressourcen)
-- [Reflexion und Ausblick](#Reflexion-und-Ausblick)
+- [Comic zum Unterrichtsprojekt 🎨](#Comic-zum-Unterrichtsprojekt)
+- [Materialien und Ressourcen 📦](#Materialien-und-Ressourcen)
+- [Reflexion und Ausblick 🔎](#Reflexion-und-Ausblick)
 - [Literaturverzeichnis](#Literaturverzeichnis)
 - [Kontakt](#Kontakt)
 
@@ -108,7 +108,7 @@ Die Ergebnisse der Untersuchung werden abschließend in einer Art „Gerichtsver
 <a id="Das-Konzept-im-Detail-Die-Phasen"></a>
 ## Das Konzept im Detail: Die Phasen 
 
-**📚 Didaktische Struktur des Projekts**
+**Didaktische Struktur des Projekts 📚**
 
 Das Unterrichtsprojekt ist in fünf aufeinander aufbauende Phasen gegliedert, die sich an der Logik der **vollständigen Handlung** (ℹ️ Informieren – 🗂️ Planen – ⚖️ Entscheiden – ▶️ Ausführen – 🔍 Kontrollieren/♻️ Reflektieren) orientieren.
 
@@ -129,7 +129,7 @@ Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche al
 ---
 
 <a id="Comic-zum-Unterrichtsprojekt"></a>
- ## 🎨 Comic zum Unterrichtsprojekt
+ ## Comic zum Unterrichtsprojekt 🎨
 
 Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung von Wertströmen im Rechnungswesen:
 
@@ -140,7 +140,7 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 ---
 
 <a id="Materialien-und-Ressourcen"></a>
-## 📦 Materialien und Ressourcen
+## Materialien und Ressourcen 📦
 
 **📝 Arbeitsblätter:**
 -	Arbeitsblatt "Wertströme analysieren" (Anhang 1)
@@ -167,7 +167,7 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 ---
 
 <a id="Reflexion-und-Ausblick"></a>
-## 🔎 Reflexion & Ausblick 
+## Reflexion & Ausblick 🔎 
 
 **💡 Der Innovationsprozess (Design Thinking):**
 - Kurze Beschreibung der Phasen (Verstehen, 👀 Beobachten, 🎯 Problemdefinition, 💭 Ideengenerierung, 🧩 Prototyping, 🧪 Testen)
@@ -184,4 +184,7 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 -	Übertragbarkeit auf andere Lernfelder oder Berufsfelder
 - Beitrag zur Innovationskultur in der beruflichen Bildung
 
+---
 
+<a id="Literaturverzeichnis"></a>
+## Literaturverzeichnis 
