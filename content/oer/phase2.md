@@ -26,7 +26,7 @@ _build:
 }
 </style>
 
-![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
+![Comic zu Phase 2](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase2.png)
 
 *Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch CHATGPT).*
 
