@@ -27,7 +27,7 @@ _build:
 
 ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
 
-Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch CHATGPT).
+*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch CHATGPT).*
 
 > **🎯Lernziel:** Die SuS verstehen das Storytelling-Konzept und übernehemen die Rolle von Wirtschaftsprüfer:innen, um die Wertströme bei der BPK zu analysieren.
 
