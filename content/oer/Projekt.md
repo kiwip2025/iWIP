@@ -190,17 +190,17 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 <a id="Überarbeitung-des-Storyboards"></a>
 ## Überarbeitung des Storyboards
 
-1. Überarbeitung der einzelnen Phasen
-- jede Phase mit didaktische Funktion, Lernziele, das Story-Element und Aufträge an SuS ausgestattet
-- Lernziele klarer formuliert
-2. Materialien in den Anhang hinzugefügt
-3. Reflexion und Evaluation: Möglichkeit zur Selbst- und Fremdreflexion + Evaluationsbogen hinzugefügt
+Jede Phase wurde hinsichtlich ihrer **didaktischen Funktion**, der **Lernziele**, des jeweiligen **Story-Elements** sowie der **Aufträge an die Schülerinnen und Schüler (SuS)** präzisiert und systematisch ausgearbeitet.
+Die Lernziele wurden klarer und operationalisierbar formuliert.
+Die zugehörigen Materialien wurden strukturiert in den Anhang aufgenommen.
+Im Bereich Reflexion und Evaluation wurden ergänzend Möglichkeiten zur Selbst- und Fremdreflexion sowie ein Evaluationsbogen integriert.
 
-*Folge:*
-- Kompetenzzuwachs klar zu erkennen
-- bessere Verzahnung der einzelnen Phasen - Übergänge einbauen
-- bessere Übersichtlichkeit
-- Lernprozess sichtbarer gestalten  
+*Folgen der Überarbeitung:*
+
+- Der Kompetenzzuwachs der Lernenden wird transparenter und nachvollziehbarer.
+- Die einzelnen Phasen sind stärker miteinander verzahnt; Übergänge wurden gezielt didaktisch gestaltet.
+- Die Übersichtlichkeit der Unterrichtskonzeption wurde verbessert.
+- Der Lernprozess der Auszubildenden wird sichtbar und reflektierbar gemacht.
 
 ---
 
