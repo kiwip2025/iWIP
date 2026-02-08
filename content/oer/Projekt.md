@@ -131,7 +131,7 @@ Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche al
 
 Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung von Wertströmen im Rechnungswesen:
 
-![Comic](../content/oer/ChatGPT-Krimi.png)
+![Comic zum Krimi-Unterrichtskonzept](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT-Krimi.png)
 
 *Abbildung: Visualisierung des handlungsorientierten Unterrichtskonzepts (eigene Darstellung durch CHATGPT).*
 
