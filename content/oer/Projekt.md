@@ -194,6 +194,7 @@ Jede Phase wurde hinsichtlich ihrer **didaktischen Funktion**, der **Lernziele**
 Die Lernziele wurden klarer und operationalisierbar formuliert.
 Die zugehörigen Materialien wurden strukturiert in den Anhang aufgenommen.
 Im Bereich Reflexion und Evaluation wurden ergänzend Möglichkeiten zur Selbst- und Fremdreflexion sowie ein Evaluationsbogen integriert.
+Zusätzlich wurde ein Comic´s für das Storyboard erstellt.
 
 *Folgen der Überarbeitung:*
 
@@ -201,6 +202,7 @@ Im Bereich Reflexion und Evaluation wurden ergänzend Möglichkeiten zur Selbst-
 - Die einzelnen Phasen sind stärker miteinander verzahnt; Übergänge wurden gezielt didaktisch gestaltet.
 - Die Übersichtlichkeit der Unterrichtskonzeption wurde verbessert.
 - Der Lernprozess der Auszubildenden wird sichtbar und reflektierbar gemacht.
+- Das Storyboard wird durch die Bilder anschaulicher gestaltet.
 
 ---
 
