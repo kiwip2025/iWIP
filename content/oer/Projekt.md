@@ -41,6 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - [Das Projekt](#das-Projekt)
 - [Didaktische und Methodische Idee](#Didaktische-und-Methodische-Idee)
 - [Das Konzept im Detail: Die Phasen ](#Das-Konzept-im-Detail-Die-Phasen)
+- [Comic zum Unterrichtsprojekt](#Comic-zum-Unterrichtsprojekt)
 - [Materialien und Ressourcen](#Materialien-und-Ressourcen)
 - [Reflexion und Ausblick](#Reflexion-und-Ausblick)
 - [Literaturverzeichnis](#Literaturverzeichnis)
@@ -127,6 +128,7 @@ Durch die schrittweise Vertiefung der Problemstellung werden sowohl fachliche al
 
 ---
 
+<a id="Comic-zum-Unterrichtsprojekt"></a>
  ## 🎨 Comic zum Unterrichtsprojekt
 
 Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung von Wertströmen im Rechnungswesen:
