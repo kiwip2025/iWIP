@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - [Comic zum Unterrichtsprojekt 🎨](#Comic-zum-Unterrichtsprojekt)
 - [Materialien und Ressourcen 📦](#Materialien-und-Ressourcen)
 - [Reflexion und Ausblick 🔎](#Reflexion-und-Ausblick)
+- [Überarbeitung des Storyboards](#Überarbeitung-des-Storyboards)
 - [Literaturverzeichnis](#Literaturverzeichnis)
 - [Kontakt](#Kontakt)
 
@@ -183,6 +184,23 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 - Wie das Konzept weiterentwickelt werden könnte
 -	Übertragbarkeit auf andere Lernfelder oder Berufsfelder
 - Beitrag zur Innovationskultur in der beruflichen Bildung
+
+---
+
+<a id="Überarbeitung-des-Storyboards"></a>
+## Überarbeitung des Storyboards
+
+1. Überarbeitung der einzelnen Phasen
+- jede Phase mit didaktische Funktion, Lernziele, das Story-Element und Aufträge an SuS ausgestattet
+- Lernziele klarer formuliert
+2. Materialien in den Anhang hinzugefügt
+3. Reflexion und Evaluation: Möglichkeit zur Selbst- und Fremdreflexion + Evaluationsbogen hinzugefügt
+
+*Folge:*
+- Kompetenzzuwachs klar zu erkennen
+- bessere Verzahnung der einzelnen Phasen - Übergänge einbauen
+- bessere Übersichtlichkeit
+- Lernprozess sichtbarer gestalten  
 
 ---
 
