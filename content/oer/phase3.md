@@ -65,10 +65,10 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 
 ```
 1. Vorbereitung der Inventur
-**🔍 Fall:**
-> Inventur steht an.
-> Geschäftsleitung schickt Rundmail zur Vorbereitung. 
-> Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
+🔍 Fall:
+Inventur steht an.
+Geschäftsleitung schickt Rundmail zur Vorbereitung. 
+Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
 ```
 
 **🎯 Lernziel: Inventur-Grundlagen**
@@ -103,11 +103,11 @@ Geschäftsführung
 
 ```
 2. Fehlende Laptops entdecken
-**🔍 Fall:**
-> Lager wird gezählt.
-> Es fehlen 5 Laptops.
-> Lieferschein sagt: Lieferung war vollständig.
-> Diskussionen starten. 💻❌
+🔍 Fall:
+Lager wird gezählt.
+Es fehlen 5 Laptops.
+Lieferschein sagt: Lieferung war vollständig.
+Diskussionen starten. 💻❌
 ```
 
 **🎯 Lernziel: Soll-/Ist-Vergleich & Inventurdokumentation**
@@ -141,13 +141,11 @@ Inventurliste, Lieferschein, Protokoll, Inventurergebnis
 
 ```
 3. Erinnerung an rechtliche Vorgaben
+🔍 Fall:
+E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
+Nun wird der Ablauf 
+rekonstruiert → Verdacht fällt auf Mitarbeitende.
 ```
-
-**🔍 Fall:** 
-
-> E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
-> Nun wird der Ablauf 
-> rekonstruiert → Verdacht fällt auf Mitarbeitende.
 
 **🎯 Lernziel: Rechtliche Anforderungen & interne Kontrolle**
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
@@ -178,9 +176,9 @@ E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde
 
 ```
 4. Prüfung der Lagerbewegungen 
-**🔍 Fall:**
-> Lagerbewegungen werden geprüft.
-> Zugangs-/Ausgangsbuch fehlt teilweise. 📉
+🔍 Fall:
+Lagerbewegungen werden geprüft.
+Zugangs-/Ausgangsbuch fehlt teilweise. 📉
 ```
 
 **🎯 Lernziel: Lagerbuchführung & Warenbewegungen**
@@ -200,10 +198,10 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 
 ```
 5. Zweifel an offizieller Darstellung
-**🔍 Fall:**
-> Geschäftsleitung gibt sich ahnungslos.
-> Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
-> teure Geräte?“ → Andeutung auf etwas Größeres. 🤔
+🔍 Fall:
+Geschäftsleitung gibt sich ahnungslos.
+Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
+teure Geräte?“ → Andeutung auf etwas Größeres. 🤔
 ```
 
 **🎯 Lernziel: Ursachenanalyse & Plausibilitätsprüfung**
@@ -229,9 +227,9 @@ Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters
 
 ```
 6. Praxisbezug herstellen 
-**🔍 Fall:**
-> Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
-> Ausbildungsbetrieb. 🏢
+🔍 Fall:
+Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
+Ausbildungsbetrieb. 🏢
 ```
 
 **🎯 Lernziel: Praxisbezug & Transfer** 
@@ -263,9 +261,9 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 ```
 7. Geheime Absprache 
-**🔍 Fall:** 
-> Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person.
-> Redet über kreative Buchführung. 🎥🕶️
+🔍 Fall:
+Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person.
+Redet über kreative Buchführung. 🎥🕶️
 ```
 
 
