@@ -25,10 +25,14 @@ _build:
 }
 </style>
 
-> In **Phase 3** werden die SuS an das zu lösende Problem bzw. den Fall herangeführt. Es gibt 
-Probleme bei der Inventur und es fällt auf das Gegenstände im Lager fehlen. Sie soll die 
-Vorbereitung für die *Phase 4* sein und am Ende mittels einer dramatischen Wendung 
-überleiten. Die SuS sollen mittels dieser Phase die Inventur, das Inventar, Soll-Ist-Vergleich, Bilanz und Ursachenanalyse bei Differenzen vermittelt bekommen. Um die ganze Thematik abzurunden soll es einen Exkurs in die jeweilige Betriebe geben. 🏭📦⚠️
+> **🎯 Übergeordnetes Lernziel – Phase 3**
+> Nach Abschluss der Phase 3 sind die Schülerinnen und Schüler in der Lage,
+> - eine Inventur organisatorisch zu planen und durchzuführen,
+> - Inventarlisten zu erstellen und Soll-/Ist-Abweichungen rechnerisch zu ermitteln,
+> - rechtliche Anforderungen gemäß §240 HGB zu erläutern,
+> - Ursachen für Inventurdifferenzen systematisch zu untersuchen,
+> - betriebliche Abläufe kritisch zu hinterfragen und
+> - Bezüge zur Praxis im eigenen Ausbildungsbetrieb herzustellen.
 
 - **🏢 Inhalt:**  
   Dramaturgischer Spannungsaufbau durch fehlende Laptops im Rahmen der Inventur 💻❌
