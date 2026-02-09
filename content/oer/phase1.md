@@ -43,7 +43,7 @@ _build:
 
 > **🎯Lernziel:**
 >
-> Nach Abschluss der Phase 1 können die Auszubildenden
+> Nach Abschluss der Phase 1 sind die Auszubildenden in der Lage,
 > - das Storytelling-Setting erläutern,
 > - ihre Rolle als Wirtschaftsprüfer:innen begründet einnehmen und
 > - grundlegende Wertströme des Unternehmens BPK erkennen und beschreiben.
