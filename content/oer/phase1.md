@@ -29,7 +29,12 @@ _build:
 
 *Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch CHATGPT).*
 
-> **🎯Lernziel:** Die SuS verstehen das Storytelling-Konzept und übernehemen die Rolle von Wirtschaftsprüfer:innen, um die Wertströme bei der BPK zu analysieren.
+> **🎯Lernziel:**
+>
+> Nach Abschluss der Phase 1 können die SuS
+> - das Storytelling-Setting erläutern,
+> - ihre Rolle als Wirtschaftsprüfer:innen begründet einnehmen und
+> - grundlegende Wertströme des Unternehmens BPK erkennen und beschreiben.
 
  - **📖 Story-Element:**
    Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
