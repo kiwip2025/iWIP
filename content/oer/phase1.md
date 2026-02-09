@@ -29,9 +29,14 @@ _build:
 
 *Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch CHATGPT).*
 
+- **🧠 Didaktische Funktion:**
+  Phase 1 dient der motivierenden Einführung in das Projekt und der Orientierung im Handlungskontext.
+  Die Auszubildenden werden in die berufliche Rolle der Wirtschaftsprüfer:innen eingeführt und an das zentrale Problem (wirtschaftliche Schwierigkeiten der BPK) herangeführt.
+
+
 > **🎯Lernziel:**
 >
-> Nach Abschluss der Phase 1 können die SuS
+> Nach Abschluss der Phase 1 können die Auszubildenden
 > - das Storytelling-Setting erläutern,
 > - ihre Rolle als Wirtschaftsprüfer:innen begründet einnehmen und
 > - grundlegende Wertströme des Unternehmens BPK erkennen und beschreiben.
@@ -41,14 +46,11 @@ _build:
    Effizienzsteigerung und darum aufzudecken, weshalb trotz guter Auftragslage keine 
    schwarzen Zahlen geschrieben werden. 📉➡️📈
    
-- **🏢 Inhalt:**  
-  Vorstellung der beteiligten Unternehmen sowie der Ausgangssituation (BPK schreibt rote Zahlen)
-  Auftrag durch den BPK an die Wirtschaftsprüfung
-  Rolle des Wirtschaftsprüfers
-  Wertströme
-  
-- **🧩 Aufgabe:**  
-  Analyse der Wertströme des Unternehmens (erkennen und erläutern) 🔍  
+- **🧩 Aufträge an die Auszubildenden**
+  - Vorstellung der beteiligten Unternehmen und der wirtschaftlichen Ausgangssituation (BPK schreibt rote Zahlen)
+  - Klärung des Auftrags an die Wirtschaftsprüfung
+  - Auseinandersetzung mit der Rolle des Wirtschaftsprüfers
+  - Analyse der Wertströme des Unternehmens (erkennen und erläutern) 🔍
 
 - **📚 Materialien:**
   - Übersichten
