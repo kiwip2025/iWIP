@@ -31,7 +31,9 @@ _build:
 *Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch CHATGPT).*
 
 
-> **🎯 Lernziele:** Nach Abschluss der Phase 2 können die SuS …
+> **🎯 Lernziele:**
+>
+> Nach Abschluss der Phase 2 sind die SuS in der Lage,
 > - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
 > - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
 > - einfache Buchungssätze korrekt formulieren und buchen (z. B. Warenkauf, Dienstleistungsbezug, Bankbewegungen) unter Verwendung des Kontenrahmens SKR04. ✍️
