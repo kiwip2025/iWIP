@@ -46,7 +46,7 @@ _build:
 
    ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
 
-*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch CHATGPT).*
+*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch ChatGPT)*
    
 - **🧩 Aufträge an die Auszubildenden**
   - Vorstellung der beteiligten Unternehmen und der wirtschaftlichen Ausgangssituation (BPK schreibt rote Zahlen)
