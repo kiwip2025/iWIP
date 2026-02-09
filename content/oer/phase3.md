@@ -65,22 +65,21 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 
 ```
 1. Vorbereitung der Inventur
-```
-
 **🔍 Fall:**
-
 > Inventur steht an.
 > Geschäftsleitung schickt Rundmail zur Vorbereitung. 
 > Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
+```
 
+**🎯 Lernziel: Inventur-Grundlagen**
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- die Inventur und das Inventar zu erläutern sowie
+- deren Bedeutung für die Bestandsaufnahme eines Unternehmens zu beschreiben.📦
 
 **🧩 Auftrag der SuS:**
  - Lesen der Rundmail und Verständnis der Inventuraufgabe 
  - Planung der Zählvorgänge 
  - Vorbereitung des Lagerbereichs 📋
-
-**🎯 Lernziel:**
-Grundverständnis zu Inventur, Inventaren 📦
 
 **📚 Material:**
 E-Mail der Geschäftsführung: Was ist eine Inventur? 
@@ -104,23 +103,23 @@ Geschäftsführung
 
 ```
 2. Fehlende Laptops entdecken
-```
- 
 **🔍 Fall:**
-
 > Lager wird gezählt.
 > Es fehlen 5 Laptops.
 > Lieferschein sagt: Lieferung war vollständig.
 > Diskussionen starten. 💻❌
+```
 
+**🎯 Lernziel: Soll-/Ist-Vergleich & Inventurdokumentation**
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- Soll- und Ist-Bestände zu vergleichen,
+- Abweichungen rechnerisch ermitteln und
+- Inventarlisten fachgerecht zu führen.
 
 **🧩 Auftrag der SuS:**
  - Soll-/Ist-Vergleich durchführen 
  - Inventurergebnisse dokumentieren 
  - Abweichungen notieren
-
-   
-**🎯 Lernziel:**  Soll-/Ist-Vergleich, Inventurdokumentation 
 
 **📚 Material:** 
 Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
@@ -150,13 +149,15 @@ Inventurliste, Lieferschein, Protokoll, Inventurergebnis
 > Nun wird der Ablauf 
 > rekonstruiert → Verdacht fällt auf Mitarbeitende.
 
+**🎯 Lernziel: Rechtliche Anforderungen & interne Kontrolle**
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- die rechtlichen Anforderungen gemäß §240 HGB zu erläutern und
+- Maßnahmen der internen Kontrolle im Inventurprozess zu benennen.
 
 **🧩 Auftrag der SuS:** 
 - Gesetzliche Anforderungen prüfen 
 - Ablauf der Inventur rekonstruieren 
 - Diskussion über mögliche Ursachen starten 
-
-**🎯 Lernziel:**  Inventuraufbau, rechtliche Pflichten, interne Kontrolle 
 
 **📚 Material:**
 E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
@@ -177,21 +178,20 @@ E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde
 
 ```
 4. Prüfung der Lagerbewegungen 
-```
-
 **🔍 Fall:**
-
 > Lagerbewegungen werden geprüft.
 > Zugangs-/Ausgangsbuch fehlt teilweise. 📉
+```
+
+**🎯 Lernziel: Lagerbuchführung & Warenbewegungen**
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- Ein- und Ausgänge von Waren nachzuvollziehen und zu dokumentieren sowie
+- Unstimmigkeiten in der Lagerbuchführung zu identifizieren.   
 
 **🧩 Auftrag der SuS:**
 - Fehlende Dokumente identifizieren 
 - Ein- und Ausgänge dokumentieren 
 - Checkliste zur Buchführung nutzen
-
-  
-**🎯 Lernziel:** 
-Lagerbuchführung, Ein- und Ausgänge dokumentieren 
 
 **📚 Material:**
 Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
@@ -200,21 +200,21 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 
 ```
 5. Zweifel an offizieller Darstellung
-```
-
 **🔍 Fall:**
-
 > Geschäftsleitung gibt sich ahnungslos.
 > Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
 > teure Geräte?“ → Andeutung auf etwas Größeres. 🤔
+```
+
+**🎯 Lernziel: Ursachenanalyse & Plausibilitätsprüfung**
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- Ursachen für Inventurdifferenzen systematisch zu analysieren und
+- betriebliche Abläufe auf Plausibilität zu prüfen.
 
 **🧩 Auftrag der SuS:** 
 - Kritische Fragen formulieren 
 - Plausibilitätsprüfung durchführen 
 - Betriebliche Abläufe hinterfragen
-
-**🎯 Lernziel:**
-Kritische Reflexion betrieblicher Abläufe, Plausibilitätsprüfung
 
 **📚 Material:**
 Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters 
@@ -229,21 +229,20 @@ Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters
 
 ```
 6. Praxisbezug herstellen 
-```
-
 **🔍 Fall:**
-
 > Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
 > Ausbildungsbetrieb. 🏢
+```
 
+**🎯 Lernziel: Praxisbezug & Transfer** 
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- Inventurprozesse im eigenen Ausbildungsbetrieb zu untersuchen und
+- mit der Fallsituation zu vergleichen.
 
 **🧩 Auftrag der SuS:**
 - Interview im Betrieb führen 
 - Abläufe mit der Story vergleichen 
 - Ergebnisse schriftlich oder als Präsentation festhalten
-
-**🎯 Lernziel:** 
-Anwendung auf Praxis, Transfersicherung 
 
 **📚 Material:** Exkurs-Auftrag (PDF) 
 
@@ -264,19 +263,22 @@ Anwendung auf Praxis, Transfersicherung
 
 ```
 7. Geheime Absprache 
-```
-
 **🔍 Fall:** 
 > Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person.
 > Redet über kreative Buchführung. 🎥🕶️
+```
+
+
+**🎯 Lernziel: Synthese & Vorbereitung Phase 4** 
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- die gewonnenen Erkenntnisse zusammenzuführen,
+- betriebliche Abläufe kritisch zu bewerten und
+- daraus begründete Schlussfolgerungen für die weitere Untersuchung abzuleiten.
 
 **🧩 Auftrag der SuS:**
 - Video ansehen und analysieren 
 - Hypothesen zum weiteren Verlauf der Story entwickeln 
 - Schlüsse für die nächste Phase ziehen
-
-  
-**🎯 Lernziel:**  Spannung steigern, Schüler auf Phase 4 vorbereiten 
 
 **📚 Material:**
 Video, Analysebogen zum Video 
