@@ -25,6 +25,16 @@ _build:
 }
 </style>
 
+ - **📖 Story-Element:**
+   
+   Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
+   Effizienzsteigerung und darum aufzudecken, weshalb trotz guter Auftragslage keine 
+   schwarzen Zahlen geschrieben werden. 📉➡️📈
+
+   ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
+
+*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch ChatGPT)*
+
 - **🧠 Didaktische Funktion:**
   
   Phase 1 dient der motivierenden Einführung in das Projekt und der Orientierung im Handlungskontext.
@@ -37,16 +47,6 @@ _build:
 > - das Storytelling-Setting erläutern,
 > - ihre Rolle als Wirtschaftsprüfer:innen begründet einnehmen und
 > - grundlegende Wertströme des Unternehmens BPK erkennen und beschreiben.
-
- - **📖 Story-Element:**
-   
-   Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
-   Effizienzsteigerung und darum aufzudecken, weshalb trotz guter Auftragslage keine 
-   schwarzen Zahlen geschrieben werden. 📉➡️📈
-
-   ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
-
-*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch ChatGPT)*
    
 - **🧩 Aufträge an die Auszubildenden**
   - Vorstellung der beteiligten Unternehmen und der wirtschaftlichen Ausgangssituation (BPK schreibt rote Zahlen)
