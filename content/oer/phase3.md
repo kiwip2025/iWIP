@@ -25,9 +25,21 @@ _build:
 }
 </style>
 
+- **📖 Story-Element:**
+
+Im Rahmen der Inventur fällt auf, dass mehrere Laptops im Lager fehlen. 💻❌
+Die Situation spitzt sich dramaturgisch zu, da Hinweise auf Unregelmäßigkeiten auftreten.
+Ein „Geheimvideo“ der Geschäftsleitung deutet auf mögliche Vertuschung hin und leitet zur nächsten Phase über.
+
+- **🧠 Didaktische Funktion:**
+
+Phase 3 führt die Auszubildenden an das zentrale Problem des Falls heran.
+Sie verknüpft fachliche Inhalte (Inventur, Soll-Ist-Vergleich, rechtliche Vorgaben) mit einer zugespitzten Problemsituation und bereitet die analytische Vertiefung in Phase 4 vor.
+Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb angebahnt.
+
 > **🎯 Übergeordnetes Lernziel – Phase 3**
 > 
-> Nach Abschluss der Phase 3 sind die SuS in der Lage,
+> Nach Abschluss der Phase 3 sind die Auszubildenden in der Lage,
 > - eine Inventur organisatorisch zu planen und durchzuführen,
 > - Inventarlisten zu erstellen und Soll-/Ist-Abweichungen rechnerisch zu ermitteln,
 > - rechtliche Anforderungen gemäß §240 HGB zu erläutern,
@@ -35,21 +47,20 @@ _build:
 > - betriebliche Abläufe kritisch zu hinterfragen und
 > - Bezüge zur Praxis im eigenen Ausbildungsbetrieb herzustellen.
 
-- **🏢 Inhalt:**  
-  Dramaturgischer Spannungsaufbau durch fehlende Laptops im Rahmen der Inventur 💻❌
-
-- **🧩 Aufgabe:**  
-  Durchführung eines Soll-Ist-Vergleichs, Ursachenanalyse sowie Auseinandersetzung mit gesetzlichen Anforderungen (HGB) ⚖️🔍
-
+- **🧩 Aufträge an die Auszubildenden:**
+  - Durchführung eines Soll-Ist-Vergleichs anhand der Inventurdaten
+  - Dokumentation der Inventurergebnisse und festgestellten Abweichungen
+  - Analyse möglicher Ursachen für die Inventurdifferenzen
+  - Auseinandersetzung mit den gesetzlichen Anforderungen gemäß HGB ⚖️
+  - Auswertung des „Geheimvideos“ und Ableitung von Hypothesen für die weitere Ermittlung 🔍
+ 
+    
 - **📚 Materialien:**  
   - E-Mail der Geschäftsführung (Inventurauftrag) 📧
   - Lieferschein  
   - E-Mail des Steuerberaters 📧 
   - Reflexionsbogen
-
-- **📖 Dramaturgische Zuspitzung:**  
-  *„Geheimvideo“* der Geschäftsleitung
-
+    
 ---
 
 ```
