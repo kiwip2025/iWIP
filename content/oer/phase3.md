@@ -26,7 +26,8 @@ _build:
 </style>
 
 > **🎯 Übergeordnetes Lernziel – Phase 3**
-> Nach Abschluss der Phase 3 sind die Schülerinnen und Schüler in der Lage,
+> 
+> Nach Abschluss der Phase 3 sind die SuS in der Lage,
 > - eine Inventur organisatorisch zu planen und durchzuführen,
 > - Inventarlisten zu erstellen und Soll-/Ist-Abweichungen rechnerisch zu ermitteln,
 > - rechtliche Anforderungen gemäß §240 HGB zu erläutern,
