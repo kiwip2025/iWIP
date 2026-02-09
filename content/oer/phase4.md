@@ -25,116 +25,118 @@ _build:
 }
 </style>
 
-> = ist der dramaturgische und inhaltliche Höhepunkt deines Storytellings im Lernfeld 4. Ziel ist 
-es, dass die Schülerinnen und Schüler durch die vorher erlernten buchhalterischen Kenntnisse 
-eigenständig Auffälligkeiten entdecken, Belege analysieren und sich ein Gesamtbild 
-erschließen, das auf Veruntreuung oder betrügerisches Verhalten hinweist. 
-Die Zahlen stimmen vorn und hinten nicht. Mehrere Belege lassen sich nicht eindeutig 
-zuordnen oder scheinen manipuliert. Die Unternehmensleitung des Bayerischen 
-Papierkontors bittet das Wirtschaftsprüfungsunternehmen nun um eine abschließende 
-Analyse – mit besonderem Fokus auf Warengeschäfte, Steuerbuchungen und private 
-Entnahmen. ⚠️📊
+- **📖 Story-Element:**
 
-> Jetzt wird es ernst: Die Schülerinnen und Schüler ermitteln in Buchhaltungsunterlagen, 
-Belegen und Kontoauszügen – und müssen verdächtige Geschäftsvorfälle aufdecken, 
-verbuchen und kritisch bewerten. 🔍📁
+Phase 4 stellt den dramaturgischen und inhaltlichen Höhepunkt des Storytellings dar.
+Die Auszubildenden entdecken eigenständig Auffälligkeiten in Belegen, Buchungen und Kontoauszügen, die auf mögliche Veruntreuung oder betrügerisches Verhalten hinweisen.
+Mehrere Belege lassen sich nicht eindeutig zuordnen oder wirken manipuliert.
+Die Unternehmensleitung des Bayerischen Papierkontors bittet das Wirtschaftsprüfungsunternehmen nun um eine abschließende Analyse, mit Fokus auf Warengeschäfte, Steuerbuchungen und private Entnahmen. 🔍📊🔥
 
-- **🏢 Inhalt:**  
-  Die „heiße Spur“: Hinweise auf systematische Manipulationen durch den Geschäftsführer 🔥🕵️  
+- **🧠 Didaktische Funktion:**
 
-- **🧩 Aufgabe:**  
-  Verknüpfung verschiedener Informationsquellen, Analyse von Fehlbuchungen, Steuerbetrug und Lagerbestandsdiskrepanzen
+Phase 4 dient der Vertiefung und Anwendung der bisherigen fachlichen Kenntnisse.
+Die Auszubildenden verknüpfen ihre vorher erworbenen Kompetenzen in Buchhaltung, Beleganalyse und Inventur, um komplexe, realitätsnahe Problemstellungen selbstständig zu lösen.
+Gleichzeitig werden kritisches Denken, Problemlösefähigkeit und reflektierte Entscheidungsfindung trainiert.
+Die Phase bereitet auf die abschließende Reflexion und Präsentation der Ergebnisse vor.
+
+- **🎯 Lernziele:**
+Nach Abschluss der Phase 4 sind die Auszubildenden in der Lage,
+  - verschiedene Informationsquellen systematisch zu verknüpfen, um ein Gesamtbild von Auffälligkeiten zu erstellen,
+  - Fehlbuchungen, Steueranomalien und Lagerbestandsdiskrepanzen zu erkennen und zu dokumentieren,
+  - verdächtige Geschäftsvorfälle fachlich korrekt zu verbuchen,
+  - die Auswirkungen von Manipulationen auf Unternehmenszahlen kritisch zu bewerten,
+  - Hypothesen über mögliche Ursachen und Verantwortlichkeiten abzuleiten,
+  - die Ergebnisse auf den eigenen Ausbildungsbetrieb zu übertragen und Transferfragen zu reflektieren,
+  - eine fundierte abschließende Analyse zu erstellen, die fachlich begründet Entscheidungen oder Empfehlungen enthält.
+
+- **🧩 Aufträge an die Auszubildenden:**
+  - Analyse fehlerhafter Belege und Kontoauszüge 🔍📁
+  - Identifikation von Unstimmigkeiten in Warengeschäften, Steuerbuchungen und Lagerbeständen
+  - Verbuchung verdächtiger Geschäftsvorfälle
+  - Zusammenführen aller Erkenntnisse zu einer abschließenden Analyse
+  - Durchführung eines Praxisexkurses: Inventur im eigenen Ausbildungsbetrieb durchführen und mit der Story vergleichen
+  - Dokumentation und Präsentation der Ergebnisse
 
 - **📚 Materialien:**  
   - Weitere fehlerhafte Belege  
   - Übersichten zu Zugriffs- und Buchungsberechtigungen
 
-- **Praxisexkurs:**  
-  Exkursauftrag *„Inventur im eigenen Betrieb“*
-
 ---
 
 ```
 1. Buchung von Warengeschäften
-```
-
-**🔍 Fall:**
-> Eine Buchung zeigt den Kauf von Waren mit einem 3 % Skonto – aber es fehlen Angaben 
+🔍 Fall:
+Eine Buchung zeigt den Kauf von Waren mit einem 3 % Skonto – aber es fehlen Angaben 
 zu Skonto oder Lieferbedingungen. 
 Außerdem wird ein Exportgeschäft falsch verbucht, obwohl keine Umsatzsteuer ausgewiesen 
 werden dürfte (innergemeinschaftliche Lieferung). 💶⚖️
+```
 
+**🎯 Lernziel:**
+Differenzierung von normalen und speziellen Warengeschäften und ihre korrekte 
+buchhalterische Behandlung. 📘
 
-**🧩 Auftrag der SuS:**
+**🧩 Auftrag der Auszubildenden:**
 - Prüfen, ob die Buchungssätze korrekt sind 
 - Erstellt richtige Buchungssätze mit Berücksichtigung von Skonto, Bezugskosten oder 
 Rücksendungen. 
 - Erklärt den Fehler bei der falschen USt-Ausweisung bei Exportgeschäften.
   
-**🎯 Lernziel:**
-Differenzierung von normalen und speziellen Warengeschäften und ihre korrekte 
-buchhalterische Behandlung. 📘
-
 ---
 
 ```
 2. Umsatzsteuer & Vorsteuer – Zahllast/ Vorsteuerüberhang 
-```
-
-**🔍 Fall:**
-> Eine Eingangsrechnung mit Vorsteuer wurde gebucht – aber nie bezahlt. Eine 
+🔍 Fall:
+Eine Eingangsrechnung mit Vorsteuer wurde gebucht – aber nie bezahlt. Eine 
 Ausgangsrechnung wurde brutto auf Privatkonto gebucht.  
 Die Zahllast wurde nicht fristgerecht abgeführt. ⚠️
-
-**🧩 Auftrag der SuS:**
-- Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
-- Stellt fest, ob Steuerverkürzung vorliegt. 
-- Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
-
-   
+```
 **🎯 Lernziel:**
 korrekte USt-/VSt-Buchung, Berechnung der Zahllast und Aufdecken von 
 Unregelmäßigkeiten bei Steuerbuchungen. 📊
+
+**🧩 Auftrag der Auszubildenden:**
+- Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
+- Stellt fest, ob Steuerverkürzung vorliegt. 
+- Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
 
 ---
 
 ```
 3. Arbeiten mit dem Kontenrahmen 
-```
-
-**🔍 Fall:**
-> Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
+🔍 Fall:
+Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
 Aufwandskonto). Ein Kauf von Druckerpapier wurde auf "BGA" statt auf "Büromaterial" 
 gebucht. 🗂️
-
-**🧩 Auftrag der SuS:**
-- Ordnet die Buchungen den richtigen Konten im SKR04 zu. 
-- Erstellt einen Belegvermerk, der die falsche Buchung erklärt. 
-- Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
-Privatentnahmen. 
+```
 
 **🎯 Lernziel:**
 Sicherheit im Umgang mit dem Kontenrahmen und das Erkennen von Manipulation 
 durch Kontenwahl. 🔎
 
+**🧩 Auftrag der Auszubildenden:**
+- Ordnet die Buchungen den richtigen Konten im SKR04 zu. 
+- Erstellt einen Belegvermerk, der die falsche Buchung erklärt. 
+- Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
+Privatentnahmen. 
+
 ---
 
 ```
 4. Privatbuchungen 
-```
-
-**🔍 Fall:**
-> Es wurde ein Laptop auf Geschäftskosten gekauft, Lieferung an Privatadresse.  
+🔍 Fall:
+Es wurde ein Laptop auf Geschäftskosten gekauft, Lieferung an Privatadresse.  
 Mehrere Tankbelege ohne Firmenfahrzeugbezug wurden auf Reisekosten gebucht. 
 Geldabhebungen am Wochenende – auf "Repräsentation" gebucht. 💻⛽
-
-**🧩 Auftrag der SuS:**
-- Korrigiert diese Buchungen unter Einbezug des Privatkontos. 
-- Erklärt, warum dies betriebsfremd ist. 
-- Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
+```
 
 **🎯 Lernziel:**
 Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. ⚠️
+
+**🧩 Auftrag der Auszubildenden:**
+- Korrigiert diese Buchungen unter Einbezug des Privatkontos. 
+- Erklärt, warum dies betriebsfremd ist. 
+- Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
 
 ---
 
