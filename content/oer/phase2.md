@@ -26,14 +26,25 @@ _build:
 }
 </style>
 
+- **📖 Story-Element:**
+
+Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Unklar ist, wie tief die Verflechtungen gehen.
+Die Wirtschaftsprüfungseinheit beginnt mit der systematischen Sichtung der Unterlagen des BPK (Eingangsrechnungen, Ausgangsrechnungen, Kontoauszüge).
+Dabei treten erste Auffälligkeiten auf, die korrekt zugeordnet und bewertet werden müssen. 🔍📄
+
 ![Comic zu Phase 2](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase2.png)
 
-*Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch CHATGPT).*
+*Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch ChatGPT)*
 
+- **🧠 Didaktische Funktion:**
+
+Phase 2 dient der fachlichen Grundlegung der Ermittlungsarbeit.
+Die Auszubildenden erwerben das buchhalterische Handwerkszeug (Beleganalyse und Buchungstechnik), das für die nachfolgenden Phasen erforderlich ist.
+Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an eine systematische, regelgeleitete Vorgehensweise herangeführt.
 
 > **🎯 Lernziele:**
 >
-> Nach Abschluss der Phase 2 sind die SuS in der Lage,
+> Nach Abschluss der Phase 2 sind die Auszubildenden in der Lage,
 > - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
 > - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
 > - einfache Buchungssätze korrekt formulieren und buchen (z. B. Warenkauf, Dienstleistungsbezug, Bankbewegungen) unter Verwendung des Kontenrahmens SKR04. ✍️
@@ -41,25 +52,11 @@ _build:
 > - Korrekturbuchungen bei festgestellten Abweichungen durchführen und diese fachlich begründen.
 > - Auffälligkeiten systematisch dokumentieren, indem sie ein Ermittlungsprotokoll führen und erste Unstimmigkeiten nachvollziehbar festhalten.
 
-- **📖 Story-Element:**
-  Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Nun ist unklar, wie tief die 
-  Verflechtungen gehen. Die Wirtschaftsprüfungseinheit beginnt mit der systematischen 
-  Sichtung der Unterlagen des BPK: Eingangsrechnungen, Ausgangsrechnungen, 
-  Kontoauszüge und mehr. Erste Auffälligkeiten tauchen auf: Jetzt heißt es, Belege korrekt 
-  zuzuordnen und zu bewerten. 🔍📄
-
-- **🏢 Inhalt:**  
-  Beleganalyse & Belegkreislauf 🔄
-  Eröffnung von Bestandskonten (SKR04)
-  Buchung einfacher Geschäftsvorfälle (z. B. Warenkauf, Dienstleistungen, Bankbewegungen)
-  Einführung in Erfolgskonten 📊
-  Korrekturbuchungen bei Abweichungen ✏️
-
-- **🧩 Aufgabe:**  
-  Belege sichten, sortieren und buchen aus Belegset
-  Erstellung zugehöriger Buchungssätze 🧾
-  Dokumentation von Auffälligkeiten und erste Unstimmigkeiten
-  Entwickelung eines systematischen Ermittlungsprotokolls 📋
+- **🧩 Aufträge an die Auszubildenden:**
+  - Belege aus einem Belegset sichten, sortieren und den entsprechenden Geschäftsvorfällen zuordnen
+  - zugehörige Buchungssätze erstellen und buchen 🧾
+  - festgestellte Auffälligkeiten und Unstimmigkeiten dokumentieren
+  - ein systematisches Ermittlungsprotokoll entwickeln und führen 📋
 
 - **📚 Materialien:**  
   - Fiktives Belegset (realitätsnahe, fiktive Belege: Eingangs-, Ausgangsrechnungen, Kassenbelege) 
