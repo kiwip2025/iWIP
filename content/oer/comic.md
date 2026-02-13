@@ -25,7 +25,7 @@ _build:
 }
 </style>
 
-**📘 Visualisierung der Lernphasen durch Comics**
+**📘 Funktion:**
 
 Zur Visualisierung der einzelnen Lernphasen wurden begleitende Comics entwickelt. Diese führen die Storyline fort und unterstützen die inhaltliche Orientierung der Lernenden.
 
