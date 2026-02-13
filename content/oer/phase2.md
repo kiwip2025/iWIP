@@ -7,10 +7,12 @@ _build:
 ---
 
 
-<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase1/" class="nav-button">⬅️ Phase 1</a>
+<a href="../projekt/" class="nav-button">🏠 Zurück zur Projektseite</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase3/" class="nav-button">Phase 3 ➡️</a>
 
 <style>
-.back-button {
+.nav-button {
   display: inline-block;
   padding: 12px 20px;
   background-color: #007BFF;
@@ -19,12 +21,14 @@ _build:
   border-radius: 8px;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  margin-right: 10px;
 }
 
-.back-button:hover {
+.nav-button:hover {
   background-color: #0056b3;
 }
 </style>
+
 
 - **📖 Story-Element:**
 
