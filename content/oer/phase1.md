@@ -25,6 +25,28 @@ _build:
 }
 </style>
 
+<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase2/" class="next-button">Weiter zu Phase 2 ➡️</a>
+
+<style>
+.back-button, .next-button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-right: 10px;
+}
+
+.back-button:hover, .next-button:hover {
+  background-color: #0056b3;
+}
+</style>
+
+
  - **📖 Story-Element:**
    
    Der BPK meldet sich aktiv bei der Wirtschaftsprüfung und bittet um Mithilfe, bei der 
