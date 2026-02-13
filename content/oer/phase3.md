@@ -31,10 +31,6 @@ Im Rahmen der Inventur fällt auf, dass mehrere Laptops im Lager fehlen. 💻❌
 Die Situation spitzt sich dramaturgisch zu, da Hinweise auf Unregelmäßigkeiten auftreten.
 Ein „Geheimvideo“ der Geschäftsleitung deutet auf mögliche Vertuschung hin und leitet zur nächsten Phase über.
 
-![Comic zu Phase 3](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase3.png)
-
-*Abbildung: Visualisierung der Phase 3 (eigene Darstellung durch ChatGPT)*
-
 - **🧠 Didaktische Funktion:**
 
 Phase 3 führt die Auszubildenden an das zentrale Problem des Falls heran.
