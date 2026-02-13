@@ -25,3 +25,29 @@ _build:
 }
 </style>
 
+**✅ Sachlich-didaktisch (empfohlen für Konzept / OER)**
+
+Zur Visualisierung der einzelnen Lernphasen wurden begleitende Comics entwickelt. Diese führen die Storyline fort und unterstützen die inhaltliche Orientierung der Lernenden.
+
+ ![Comic zu Phase 1](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase1.png)
+
+*Abbildung: Visualisierung der Phase 1 (eigene Darstellung durch ChatGPT)*
+
+---
+
+ ![Comic zu Phase 2](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase2.png)
+
+*Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch ChatGPT)*
+
+---
+
+ ![Comic zu Phase 3](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase3.png)
+
+*Abbildung: Visualisierung der Phase 3 (eigene Darstellung durch ChatGPT)*
+
+---
+
+ ![Comic zu Phase 4](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase4.png)
+
+*Abbildung: Visualisierung der Phase 4 (eigene Darstellung durch ChatGPT)*
+
