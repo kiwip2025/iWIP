@@ -32,10 +32,6 @@ Die ersten Hinweise auf Unregelmäßigkeiten liegen vor. Unklar ist, wie tief di
 Die Wirtschaftsprüfungseinheit beginnt mit der systematischen Sichtung der Unterlagen des BPK (Eingangsrechnungen, Ausgangsrechnungen, Kontoauszüge).
 Dabei treten erste Auffälligkeiten auf, die korrekt zugeordnet und bewertet werden müssen. 🔍📄
 
-![Comic zu Phase 2](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase2.png)
-
-*Abbildung: Visualisierung der Phase 2 (eigene Darstellung durch ChatGPT)*
-
 - **🧠 Didaktische Funktion:**
 
 Phase 2 dient der fachlichen Grundlegung der Ermittlungsarbeit.
