@@ -1,5 +1,5 @@
 ---
-title: "Comic für die einzelnen Phasen"
+title: "Visualisierung der Lernphasen durch Comics"
 draft: false
 _build:
   list: false
@@ -25,7 +25,7 @@ _build:
 }
 </style>
 
-**✅ Sachlich-didaktisch (empfohlen für Konzept / OER)**
+**📘 Visualisierung der Lernphasen durch Comics**
 
 Zur Visualisierung der einzelnen Lernphasen wurden begleitende Comics entwickelt. Diese führen die Storyline fort und unterstützen die inhaltliche Orientierung der Lernenden.
 
