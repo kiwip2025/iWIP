@@ -7,25 +7,6 @@ _build:
 ---
 
 <a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
-
-<style>
-.back-button {
-  display: inline-block;
-  padding: 12px 20px;
-  background-color: #007BFF;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
-}
-
-.back-button:hover {
-  background-color: #0056b3;
-}
-</style>
-
-<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
 <a href="https://kiwip2025.github.io/iWIP/oer/phase2/" class="next-button">Weiter zu Phase 2 ➡️</a>
 
 <style>
