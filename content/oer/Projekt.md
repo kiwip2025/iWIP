@@ -138,6 +138,8 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 
 *Abbildung: Visualisierung des handlungsorientierten Unterrichtskonzepts (eigene Darstellung durch CHATGPT).*
 
+[Comic zur Visualisierung](/iWIP/oer/comic/)
+
 ---
 
 <a id="Materialien-und-Ressourcen"></a>
