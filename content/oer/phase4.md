@@ -6,7 +6,9 @@ _build:
   render: true
 ---
 
-<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase3/" class="back-button">⬅️ Phase 3</a>
+<a href="../projekt/" class="back-button">🏠 Zurück zur Projektseite</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase5/" class="back-button">Phase 5 ➡️</a>
 
 <style>
 .back-button {
@@ -18,6 +20,7 @@ _build:
   border-radius: 8px;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  margin-right: 10px;
 }
 
 .back-button:hover {
