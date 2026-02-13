@@ -32,6 +32,10 @@ Die Auszubildenden entdecken eigenständig Auffälligkeiten in Belegen, Buchunge
 Mehrere Belege lassen sich nicht eindeutig zuordnen oder wirken manipuliert.
 Die Unternehmensleitung des Bayerischen Papierkontors bittet das Wirtschaftsprüfungsunternehmen nun um eine abschließende Analyse, mit Fokus auf Warengeschäfte, Steuerbuchungen und private Entnahmen. 🔍📊🔥
 
+![Comic zu Phase 4](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase4.png)
+
+*Abbildung: Visualisierung der Phase 4 (eigene Darstellung durch ChatGPT)*
+
 - **🧠 Didaktische Funktion:**
 
 Phase 4 dient der Vertiefung und Anwendung der bisherigen fachlichen Kenntnisse.
