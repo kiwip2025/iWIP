@@ -53,6 +53,6 @@ Zur Visualisierung der einzelnen Lernphasen wurden begleitende Comics entwickelt
 
 ---
 
- ![Comic zu Phase 5](https://github.com/kiwip2025/iWIP/blob/main/content/oer/ChatGPT_Phase5.png)
+ ![Comic zu Phase 5](https://raw.githubusercontent.com/kiwip2025/iWIP/main/content/oer/ChatGPT_Phase5.png)
 
 *Abbildung: Visualisierung der Phase 5 (eigene Darstellung durch ChatGPT)*
