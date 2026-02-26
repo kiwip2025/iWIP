@@ -65,7 +65,7 @@ Ein innovatives Unterrichtskonzept zu entwickeln, das Motivation, Selbstständig
 
 **Zielgruppe 👥**
 
-Auszubildende der Kaufleute für Groß- und Außenhandelsmanagement am Regionalen Beruflichen Bildungszentrum (RBB) Schwerin
+Auszubildende der Kaufleute für Groß- und Außenhandelsmanagement 
 
 ---
 
