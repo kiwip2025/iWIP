@@ -167,6 +167,10 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 
 > ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs und OpenDocument)
 
+Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
+
+[➡️ Zum Download-Bereich](downloadbereich/)
+
 ---
 
 <a id="Reflexion-und-Ausblick"></a>
