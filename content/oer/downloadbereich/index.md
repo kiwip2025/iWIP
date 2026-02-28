@@ -33,10 +33,6 @@ Hier findest du alle Materialien nach Phasen sortiert.
 <button>📄 Lieferschein</button>
 </a>
 
-<a href="materialien/phase1/Anhang_3_Lieferschein.odt" download>
-<button>📄 Lieferschein</button>
-</a>
-
 </div>
 
 ## 🟢 Phase 4
