@@ -72,8 +72,8 @@ _build:
 > - Anwendung von Kennzahlen zur Erfolgsbeurteilung
 > - Entwicklung von Reflexions- und Präsentationskompetenz 🎤🧠
 > - Verknüpfung von Theorie, Praxis und Handlung sowie Sensibilisierung für GoB und interne Kontrollmaßnahmen 🔗⚠️
->
-> - # 📊 Unterrichtsprojekt: Gerichtsverhandlung zur Buchführung  
+
+# 📊 Unterrichtsprojekt: Gerichtsverhandlung zur Buchführung  
 **Fallstudie: Bergisches Papierkontor GmbH (BPK)**
 
 ---
