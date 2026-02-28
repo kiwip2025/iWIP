@@ -25,11 +25,11 @@ Hier findest du alle Materialien nach Phasen sortiert.
   
 <div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
 
-<a href="materialien/phase1/Anhang%202_Mail%20der%20Geschäftsführung.odt" download>
+<a href="materialien/phase3/Anhang%202_Mail%20der%20Geschäftsführung.odt" download>
 <button>📄 E-Mail der Geschäftsführung</button>
 </a>
 
-<a href="materialien/phase1/Anhang_3_Lieferschein.odt" download>
+<a href="materialien/phase3/Anhang_3_Lieferschein.odt" download>
 <button>📄 Lieferschein</button>
 </a>
 
