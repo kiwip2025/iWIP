@@ -12,14 +12,6 @@ Hier findest du alle Materialien nach Phasen sortiert.
 <button>📄 Steckbriefe Unternehmen</button>
 </a>
 
-<a href="materialien/phase1/Anhang%202_Mail%20der%20Geschäftsführung.odt" download>
-<button>📄 E-Mail der Geschäftsführung</button>
-</a>
-
-<a href="materialien/phase1/Anhang_3_Lieferschein.odt" download>
-<button>📄 Lieferschein</button>
-</a>
-
 </div>
 
 
@@ -35,6 +27,10 @@ Hier findest du alle Materialien nach Phasen sortiert.
 
 <a href="materialien/phase1/Anhang%202_Mail%20der%20Geschäftsführung.odt" download>
 <button>📄 E-Mail der Geschäftsführung</button>
+</a>
+
+<a href="materialien/phase1/Anhang_3_Lieferschein.odt" download>
+<button>📄 Lieferschein</button>
 </a>
 
 <a href="materialien/phase1/Anhang_3_Lieferschein.odt" download>
