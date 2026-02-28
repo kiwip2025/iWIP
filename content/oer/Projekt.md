@@ -171,7 +171,7 @@ Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
 
 ### 📥 Materialien herunterladen
 
-[**→ Zum Download-Bereich**](/oer/downloadbereich/)
+[**→ Zum Download-Bereich**](downloadbereich.md)
 
 *Hier findest du alle Dokumente und Materialien nach Phasen sortiert zum Download.*
 
