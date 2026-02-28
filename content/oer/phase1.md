@@ -59,3 +59,9 @@ _build:
   - Arbeitsblatt *„Wertströme analysieren“* 📝
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“* 🎥
   - Steckbriefe mit Unternehmens-Informationen 🗂️
+ 
+  ### Steckbriefe mit Unternehmens-Informationen 🗂️
+
+Die Steckbriefe mit weiterführenden Unternehmens-Informationen findest du hier:
+
+[📄 Steckbriefe Unternehmen ansehen](content/oer/materialien/Steckbriefe%20Unternehmen.pdf)
