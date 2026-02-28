@@ -68,6 +68,7 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 [📄 E-Mail der Geschäftsführung ansehen](../materialien/Anhang%202_Mail%20der%20Geschäftsführung.odt)
 
 [📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)
+
 ---
 
 ```
