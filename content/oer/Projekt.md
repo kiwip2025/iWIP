@@ -165,7 +165,7 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 **🗂️ Unterrichtsverlaufsplan:**
 -	Tabelle 1: Unterrichtsverlaufsplan UE „Wertströme analysieren“ (Anhang 8)
 
-> ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs)
+> ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs und OpenDocument)
 
 ---
 
