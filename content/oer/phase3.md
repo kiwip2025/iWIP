@@ -65,9 +65,13 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
   - E-Mail des Steuerberaters 📧 
   - Reflexionsbogen
 
-    Die E-Mail der Geschäftsführung findest du hier:
+Die E-Mail der Geschäftsführung findest du hier:
 
 [📄 E-Mail der Geschäftsführung ansehen](content/oer/materialien/Anhang%202_Mail%20der%20Geschäftsführung.odt)
+
+Den Lieferschein findest du hier:
+
+[📄 Lieferschein ansehen](content/oer/materialien/Anhang_3_Lieferschein.odt)
 ---
 
 ```
