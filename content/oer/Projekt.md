@@ -217,6 +217,7 @@ Zusätzlich wurde ein Comic´s für das Storyboard erstellt.
 - Die Übersichtlichkeit der Unterrichtskonzeption wurde verbessert.
 - Der Lernprozess der Auszubildenden wird sichtbar und reflektierbar gemacht.
 - Das Storyboard wird durch die Bilder anschaulicher gestaltet.
+- Die Unternehmen werden am Anfang kurz vorgestellt, damit die einzunehmenden Rollen ersichtlich sind.
 
 ---
 
