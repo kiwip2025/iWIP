@@ -64,4 +64,4 @@ _build:
 
 Die Steckbriefe mit weiterführenden Unternehmens-Informationen findest du hier:
 
-[📄 Steckbriefe Unternehmen ansehen](../materialien/Steckbriefe%20Unternehmen.pdf)
+[📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
