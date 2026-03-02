@@ -57,11 +57,6 @@ _build:
   - Übersichten
   - Bücher-Inhalte zur theoretischen Vorstellung von Wertströmen
   - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
-  - Erklärvideo *„Rolle des Wirtschaftsprüfers“* 🎥 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABC123"
-  title="YouTube video player"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+  - Erklärvideo *„Rolle des Wirtschaftsprüfers“* <a href="https://www.youtube.com/watch?v=Y2p4n6iOhaM" target="_blank" class="video-button">🎬 Video auf YouTube ansehen</a>>
   - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
 
