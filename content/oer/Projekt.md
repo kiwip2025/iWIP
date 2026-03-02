@@ -78,6 +78,8 @@ Das Kernstück des Projekts ist die Verknüpfung von Storytelling mit dem Prinzi
 
 Die Auszubildenden übernehmen die Rolle von Wirtschaftsprüfer:innen eines Beratungsunternehmens („KGM+ Consulting AG“), das von einem fiktiven Unternehmen („BPK – Bergisches Papierkontor GmbH“) beauftragt wird, Ineffizienzen und Unregelmäßigkeiten in dessen Wertströmen zu untersuchen.
 
+- Steckbriefe der Unternehmen mit weiterführenden Informationen sind hier zu finden: [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
+
 **2. Storytelling (Krimi-Szenario) 📖**
 
 Durch eine durchgehende narrative Geschichte (vom Auftrag über erste Auffälligkeiten bei der Inventur bis hin zu Hinweisen auf mögliche Veruntreuung durch die Geschäftsführung) wird ein Spannungsbogen aufgebaut. Dies soll die Lernenden emotional ansprechen und die Motivation für das oft als „trocken“ empfundene Thema Rechnungswesen erhöhen.
