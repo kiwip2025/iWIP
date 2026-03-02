@@ -6,7 +6,7 @@ _build:
   render: true
 ---
 
-<a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
+<a href="/iWIP/oer/projekt/" class="back-button">Zurück zur Projektseite</a>
 
 <style>
 .back-button {
