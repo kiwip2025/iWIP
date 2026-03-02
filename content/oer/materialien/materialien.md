@@ -29,7 +29,8 @@ Hier findest du alle Materialien nach Phasen sortiert.
 
 
 ## 🟢 Phase 1
-[Phase 1](/iWIP/oer/materialien/phase1)
+- [Arbeitsblatt Wertströme analysieren](../materialien/https://github.com/kiwip2025/iWIP/blob/main/content/oer/materialien/Arbeitsblatt_Wertstr%C3%B6me.odt)
+- [📄 Steckbriefe Unternehmen ansehen](../materialien/Steckbriefe%20Unternehmen.pdf)
 ## 🟢 Phase 2
 ## 🟢 Phase 3
 ## 🟢 Phase 4
