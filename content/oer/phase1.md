@@ -56,9 +56,9 @@ _build:
 - **📚 Materialien:**
   - Übersichten
   - Bücher-Inhalte zur theoretischen Vorstellung von Wertströmen
-  - Arbeitsblatt *„Wertströme analysieren“* 📝
+  - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“* 🎥
-  - Steckbriefe mit Unternehmens-Informationen 🗂️
+  - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
  
   ### Steckbriefe mit Unternehmens-Informationen 🗂️
 
