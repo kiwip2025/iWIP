@@ -171,7 +171,7 @@ Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
 
 ### 📥 Materialien herunterladen
 
-[**→ Zum Download-Bereich**]((/iWIP/oer/materialien/materialien.md))
+[**→ Zum Download-Bereich**]((/iWIP/oer/materialien/materialien/))
 
 *Hier findest du alle Dokumente und Materialien nach Phasen sortiert zum Download.*
 
