@@ -59,9 +59,4 @@ _build:
   - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“* 🎥
   - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
- 
-  ### Steckbriefe mit Unternehmens-Informationen 🗂️
 
-Die Steckbriefe mit weiterführenden Unternehmens-Informationen findest du hier:
-
-[📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
