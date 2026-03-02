@@ -28,8 +28,8 @@ _build:
 Hier findest du alle Materialien nach Phasen sortiert.
 
 ## 🟢 Phase 1
-- [Arbeitsblatt Wertströme analysieren](../materialien/Arbeitsblatt_Wertstroeme.odt)
-- [📄 Steckbriefe Unternehmen ansehen](../materialien/Steckbriefe_Unternehmen.pdf)
+- [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
+- [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
 ## 🟢 Phase 2
 ## 🟢 Phase 3
 ## 🟢 Phase 4
