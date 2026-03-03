@@ -29,6 +29,7 @@ Hier findest du alle Materialien nach Phasen sortiert.
 
 ## 🟢 Phase 1
 - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
+- [Arbeitsblatt Wertströme analysieren_ohne Lösung](../materialien/arbeitsblatt_wertstroeme_ohne_Lösung.odt)
 - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
 ## 🟢 Phase 2
 ## 🟢 Phase 3
