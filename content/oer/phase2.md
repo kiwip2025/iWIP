@@ -45,12 +45,12 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
 > **🎯 Lernziele:**
 >
 > Nach Abschluss der Phase 2 sind die Auszubildenden in der Lage,
-> - buchhalterische Grundprinzipien erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
-> - geschäftliche Belege sachgerecht analysieren und zuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
-> - einfache Buchungssätze korrekt formulieren und buchen (z. B. Warenkauf, Dienstleistungsbezug, Bankbewegungen) unter Verwendung des Kontenrahmens SKR04. ✍️
-> - typische Fehlerquellen in Belegen identifizieren und beschreiben (z. B. falsche Beträge, fehlende Angaben, unplausible Buchungen). ⚠️
-> - Korrekturbuchungen bei festgestellten Abweichungen durchführen und diese fachlich begründen.
-> - Auffälligkeiten systematisch dokumentieren, indem sie ein Ermittlungsprotokoll führen und erste Unstimmigkeiten nachvollziehbar festhalten.
+> - buchhalterische Grundprinzipien zu erläutern (z. B. Belegprinzip, Soll-/Haben-Logik, Bestands- und Erfolgskonten). 📘
+> - geschäftliche Belege sachgerecht zu analysieren und zuzuordnen, indem sie Eingangs- und Ausgangsrechnungen, Kassenbelege und Kontoauszüge den entsprechenden Geschäftsvorfällen zuweisen. 🧠
+> - einfache Buchungssätze korrekt zu formulieren und zu buchen (z. B. Warenkauf, Dienstleistungsbezug, Bankbewegungen) unter Verwendung des Kontenrahmens SKR04. ✍️
+> - typische Fehlerquellen in Belegen zu identifizieren und zu beschreiben (z. B. falsche Beträge, fehlende Angaben, unplausible Buchungen). ⚠️
+> - Korrekturbuchungen bei festgestellten Abweichungen durchzuführen und diese fachlich zu begründen.
+> - Auffälligkeiten systematisch zu dokumentieren, indem sie ein Ermittlungsprotokoll führen und erste Unstimmigkeiten nachvollziehbar festhalten.
 
 - **🧩 Aufträge an die Auszubildenden:**
   - Belege aus einem Belegset sichten, sortieren und den entsprechenden Geschäftsvorfällen zuordnen
