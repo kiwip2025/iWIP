@@ -54,7 +54,6 @@ _build:
   - Analyse der Wertströme des Unternehmens (erkennen und erläutern) 🔍
 
 - **📚 Materialien:**
-  - Übersichten
   - Bücher-Inhalte zur theoretischen Vorstellung von Wertströmen
   - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
   - Erklärvideo *„Rolle des Wirtschaftsprüfers“* <a href="https://www.youtube.com/watch?v=Y2p4n6iOhaM" target="_blank" class="video-button">🎬 Video auf YouTube ansehen</a>
