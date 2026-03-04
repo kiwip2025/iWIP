@@ -59,9 +59,9 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
   - ein systematisches Ermittlungsprotokoll entwickeln und führen 📋
 
 - **📚 Materialien:**  
-  - Fiktives Belegset (realitätsnahe, fiktive Belege: Eingangs-, Ausgangsrechnungen, Kassenbelege) 
+  - Fiktives Belegset (realitätsnahe, fiktive Belege: [Eingangs-, Ausgangsrechnungen](../materialien/ER_AR.png), [Kassenbelege](../materialien/KB.png) 
   - Erklärvideo: Buchung einfacher Geschäftsvorfälle 🎥
-  - Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝
+  - Arbeitsblatt: Belegabla+ Zuordnung zu Geschäftsvorfällen 📝
   - SKR04-Kontenauszug
   - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑
   - T-Konten-Darstellungen zur Visualisierung 
