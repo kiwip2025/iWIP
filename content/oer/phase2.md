@@ -60,8 +60,7 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
 
 - **📚 Materialien:**  
   - Fiktives Belegset (realitätsnahe, fiktive Belege: Erstellung durch ChatGPT: [Eingangs-, Ausgangsrechnungen](../materialien/ER_AR.png), [Kassenbelege](../materialien/KB.png))
-  - Erklärvideo: Buchung einfacher Geschäftsvorfälle 🎥 (Video selbst erstellen oder andere Plattformen nutzen -> Bsp. mit Creative Commons Attribution 3.0 Unported License <iframe width="560" height="315" src="https://www.youtube.com/embed/DBuOeSSROW4" 
-title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  - Erklärvideo: Buchung einfacher Geschäftsvorfälle 🎥 (Video selbst erstellen oder andere Plattformen nutzen -> Bsp. mit Creative Commons Attribution 3.0 Unported License [Video zum Belegablauf im Rechnungswesen ansehen](https://www.youtube.com/watch?v=DBuOeSSROW4)
   - Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝
   - [SKR04-Kontenauszug](../materialien/SKR04.odt)
   - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑
