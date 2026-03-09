@@ -64,4 +64,4 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
   - Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝
   - SKR04-Kontenrahmen -> selbst eine Übersicht erstellen oder andere Quellen nutzen
   - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑
-  - T-Konten-Darstellungen zur Visualisierung 
+  - [T-Konten-Darstellungen zur Visualisierung](../materialien/T-Konten.odt) 
