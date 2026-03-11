@@ -62,7 +62,7 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 - **📚 Materialien:**  
   - [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
   - [📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)
-  - E-Mail des Steuerberaters 📧 
+  - [E-Mail des Steuerberaters 📧](../Mail_Steuerberater_in.odt) 
   - Reflexionsbogen
 
 ---
@@ -143,7 +143,6 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 **📚 Material:**
 [E-Mail](../materialien/Mail_Steuerberater_in.odt), Inventarbeispiele, Rollenkarten für Diskussionsrunde 
 
-
 ---
 
 ```
@@ -187,13 +186,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Betriebliche Abläufe hinterfragen
 
 **📚 Material:**
-Reflexionsbogen, Verdachtsnotiz eines Mitarbeiters 
-
-*Reflexionsbogen:*
-> - Welche internen Kontrollmechanismen hätten das Fehlen der Laptops verhindern können?  
-> - Wer hatte Zugriff auf das Lager – offiziell und inoffiziell?  
-> - Wie plausibel ist der aktuelle Verdacht?  
-> - Wie sicher ist unsere Dokumentation?
+[Reflexionsbogen](../materialien/Reflexionsbogen.odt), Verdachtsnotiz eines Mitarbeiters 
 
 ---
 
