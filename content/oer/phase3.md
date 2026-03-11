@@ -88,7 +88,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 **📚 Material:**
 E-Mail der Geschäftsführung: Was ist eine Inventur? 
 
-*Email der Geschäftsführung:* 
+[E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
 
 > Von: gf@techsolutions.de  
 An: alle@techsolutions.de  
@@ -128,7 +128,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 **📚 Material:** 
 Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
 
-*Lieferschein:*
+[*Lieferschein:*](../materialien/Lieferschein.odt) oder alternativ als [Bild](../materialien/Lieferschein.png)
 > Lieferdatum: 10.06.2025  
 > Lieferant: CompuX GmbH  
 > Produkt: Laptop Lenovo ThinkPad E15  
