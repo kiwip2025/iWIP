@@ -63,7 +63,7 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
   - [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
   - [📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)
   - [E-Mail des Steuerberaters 📧](../Mail_Steuerberater_in.odt) 
-  - Reflexionsbogen
+  - [Reflexionsbogen](../materialien/Reflexionsbogen.odt)
 
 ---
 
@@ -207,20 +207,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Abläufe mit der Story vergleichen 
 - Ergebnisse schriftlich oder als Präsentation festhalten
 
-**📚 Material:** Exkurs-Auftrag (PDF) 
-
-*Exkurs-Auftrag für Schüler:innen:*
-
-> Titel: „Wie läuft die Inventur in meinem Ausbildungsbetrieb?“  
-> Aufgabe:  
-> Führe ein kurzes Interview mit deiner Lager-/Buchhaltungsabteilung (max. 5 Fragen) 
-> Dokumentiere:  
-> Wie wird gezählt?  
-> Wer ist verantwortlich?  
-> Wie werden Lagerbewegungen erfasst?  
-> Gibt es Prüfungen/Kontrollen?  
-> Vergleiche: Was läuft ähnlich wie in der Story? Was läuft besser/schlechter?  
-> Abgabe: schriftlich oder als kurze Präsentation (2 Folien)
+**📚 Material:** [Exkurs-Auftrag](../materialien/Exkurs_Auftrag.odt) 
 
 ---
 
