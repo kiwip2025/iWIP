@@ -7,7 +7,7 @@ _build:
 ---
 
 <a href="../projekt/" class="back-button">Zurück zur Projektseite</a>
-<a href="https://kiwip2025.github.io/iWIP/oer/phase4/" class="back-button">➡️ Weiter zu Phase 4</a>
+<a href="https://kiwip2025.github.io/iWIP/oer/phase4/" class="back-button">⬅️ Zurück zu Phase 4</a>
 
 <style>
 .back-button {
