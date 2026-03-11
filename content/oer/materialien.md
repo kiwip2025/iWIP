@@ -32,6 +32,11 @@ Hier findest du alle Materialien nach Phasen sortiert.
 - [Arbeitsblatt Wertströme analysieren_ohne Lösung](../materialien/arbeitsblatt_wertstroeme_ohne_Lösung.odt)
 - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
 ## 🟢 Phase 2
+- []
 ## 🟢 Phase 3
 ## 🟢 Phase 4
 ## 🟢 Phase 5
+
+
+*Hinweis:*
+Zu Erstelllung der Arbeitsblätter und Bilder wurde die KI genutzt (wie u.a. ChatGPT und Clode)!
