@@ -27,25 +27,27 @@ _build:
 }
 </style>
 
+- **📖 Story-Element:**
 
+Nach intensiver Spurensuche präsentiert das Wirtschaftsprüfungsteam die Ergebnisse vor dem „Aufsichtsrat“ des BPK (Klassenjury/Lehrkraft). Entscheidung: Was ist passiert und wer ist verantwortlich? In einer simulierten Verhandlung müssen die Teams ihre   Untersuchungsergebnisse erklären, begründen und Handlungsempfehlungen vorstellen. ⚖️🕵️
 
-> In ***Phase 5*** wird die abschließende Reflexion, Präsentation und Bewertung der Ermittlungen durchgeführt. Die Schüler:innen fassen ihre Ermittlungsergebnisse zusammen, reflektieren das eigene Handeln und verteidigen ihre Befunde in einer simulierten Anhörung. Ziel ist die Verknüpfung von Buchführungswissen mit Präsentations- und Bewertungsfähigkeiten. 🧾📊🎤  
+- **🧠 didaktische Funktion:**
 
-- **Story-Element:**
-  Nach intensiver Spurensuche präsentiert das Wirtschaftsprüfungsteam die Ergebnisse vor dem „Aufsichtsrat“ des BPK           (Klassenjury/Lehrkraft). Entscheidung: Was ist passiert und wer ist verantwortlich? In einer simulierten Verhandlung müssen die Teams ihre   Untersuchungsergebnisse erklären, begründen und Handlungsempfehlungen vorstellen. ⚖️🕵️
+Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermittlungen durchgeführt. Die Schüler:innen fassen ihre Ermittlungsergebnisse zusammen, reflektieren das eigene Handeln und verteidigen ihre Befunde in einer simulierten Anhörung. Ziel ist die Verknüpfung von Buchführungswissen mit Präsentations- und Bewertungsfähigkeiten. 🧾📊🎤  
 
-- **🏢 Inhalt:**  
-  Erstellung von EBK, SBK und Bilanz
-  Erfolgsermittlung (Eigenkapitalveränderung, Rentabilitätskennzahlen)
-  Fehleranalyse & Handlungsempfehlungen
-  Reflexion über Buchführungsprozesse und GoB-Konformität
-  Vorbereitung von Präsentationen und Berichten 
+> **🎯 Lernziele:**
+> 
+> Nach Abschluss der Phase 5 sind die Auszubildenden in der Lage,
+> - komplexe buchhalterischer Sachverhalte darzustellen, 
+> - Kennzahlen zur Erfolgsbeurteilung anzuwenden,
+> - Reflexions- und Präsentationskompetenz 🎤🧠 zu erproben und
+> - Theorie, Praxis und Handlung sowie Sensibilisierung für GoB und interne Kontrollmaßnahmen 🔗⚠️gezielt zu verknüpfen.
 
-- **🧩 Aufgabe:**  
-  Erstellt einen schriftlichen Ermittlungsbericht (digital oder analog)
-  Bereitet eine Gruppenpräsentation vor und präsentiert im simulierten „Gerichtsverfahren“/Aufsichtsrat
-  Bewertet euer Vorgehen: Was lief gut, was nicht?
-  Entwickelt konkrete Vorschläge zur Prozessverbesserung im BPK
+- **🧩 Aufträge an Auszubildenden:**  
+  - Erstellung eines schriftlichen Ermittlungsberichts (digital oder analog)
+  - Vorbereitung einer Gruppenpräsentation und Präsentation im simulierten Gerichtsverfahren/Aufsichtsrat
+  - Bewertung euers Vorgehens: Was lief gut, was nicht?
+  - Entwickelung konkreter Vorschläge zur Prozessverbesserung im BPK
 
 - **📚 Materialien:**  
   - Abschlussbericht-Vorlage mit Leitfragen 
@@ -58,7 +60,7 @@ _build:
 
 ---
 
- ## 🛠️ Methoden
+ # 🛠️ Methoden
 
 - 🎭 Rollenspiel: Gerichtsverhandlung oder Aufsichtsratssitzung
 - 📊 Präsentation & Feedback (analog oder digital)
