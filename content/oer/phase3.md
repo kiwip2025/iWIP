@@ -86,8 +86,6 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
  - Vorbereitung des Lagerbereichs 📋
 
 **📚 Material:**
-E-Mail der Geschäftsführung: Was ist eine Inventur? 
-
 [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
 
 > Von: gf@techsolutions.de  
