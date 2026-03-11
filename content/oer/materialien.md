@@ -39,4 +39,4 @@ Hier findest du alle Materialien nach Phasen sortiert.
 
 
 *Hinweis:*
-Zu Erstelllung der Arbeitsblätter und Bilder wurde die KI genutzt (wie u.a. ChatGPT und Clode)!
+Für die Erstellung der Arbeitsblätter und Bilder wurden KI-gestützte Tools (u. a. ChatGPT und Claude) verwendet.
