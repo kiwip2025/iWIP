@@ -88,19 +88,6 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 **📚 Material:**
 [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
 
-> Von: gf@techsolutions.de  
-An: alle@techsolutions.de  
-Betreff: Inventur 2025 – Vorbereitung  
-Liebe Kolleginnen und Kollegen,  
-in der nächsten Woche (ab Montag) findet unsere jährliche Inventur statt. Bitte sorgen Sie bis 
-Freitag dafür, dass alle Waren korrekt eingelagert und zugänglich sind.  
-Frau Krüger ist leider krank, daher übernimmt Herr/Frau ... (Aushilfe) vorerst die Koordination 
-des Lagers.  
-Vielen Dank für Ihre Unterstützung!  
-Mit freundlichen Grüßen,  
-Franziska Lehmann  
-Geschäftsführung 
-
 ---
 
 ```
@@ -127,12 +114,6 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 Inventurliste, Lieferschein, Protokoll, Inventurergebnis 
 
 [*Lieferschein:*](../materialien/Lieferschein.odt) oder alternativ als [Bild](../materialien/Lieferschein.png)
-> Lieferdatum: 10.06.2025  
-> Lieferant: CompuX GmbH  
-> Produkt: Laptop Lenovo ThinkPad E15  
-> Unterschrift Lager: Frau Krüger
-> Menge: 15 Stück  
-> Lieferstatus: Vollständig geliefert
 
 
 | Artikel-Nr.   | Produkt  | Bestand laut System   | Bestand laut Zählung  | Abweichung |
@@ -160,19 +141,8 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Diskussion über mögliche Ursachen starten 
 
 **📚 Material:**
-E-Mail, Inventarbeispiele, Rollenkarten für Diskussionsrunde 
+[E-Mail](../materialien/Mail_Steuerberater_in.odt), Inventarbeispiele, Rollenkarten für Diskussionsrunde 
 
-*E-Mail von Steuerberater:*
-
-> Sehr geehrte Herr/Frau ...,
->
-> wir möchten Sie daran erinnern, dass die jährliche Inventur gemäß §240 HGB
-> vollständig dokumentiert und nachvollziehbar erfolgen muss.
->
-> Bitte denken Sie an die Erstellung des Inventars sowie die Belegpflicht bei Abweichungen.
->
-> Freundliche Grüße  
-> Steuerkanzlei Müller & Partner
 
 ---
 
