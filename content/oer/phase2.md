@@ -61,7 +61,7 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
 - **📚 Materialien:**  
   - Fiktives Belegset (realitätsnahe, fiktive Belege: Erstellung durch ChatGPT: [Eingangs-](../materialien/ER.png), [Ausgangsrechnungen](../materialien/AR.png), [Kassenbelege](../materialien/KB.png))
   - Erklärvideo: Buchung einfacher Geschäftsvorfälle 🎥 (Video selbst erstellen oder andere Plattformen nutzen -> Bsp. mit Creative Commons Attribution 3.0 Unported License [Video zum Belegablauf im Rechnungswesen ansehen](https://www.youtube.com/watch?v=DBuOeSSROW4)
-  - Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝
+  - [Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝](../materialien/arbeitsblatt_belegablauf_geschaeftsvorfaelle.odt)
   - SKR04-Kontenrahmen -> selbst eine Übersicht erstellen oder andere Quellen nutzen
   - Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑
   - [T-Konten-Darstellungen zur Visualisierung](../materialien/T-Konten.odt) 
