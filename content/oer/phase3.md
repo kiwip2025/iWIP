@@ -60,14 +60,10 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
  
     
 - **📚 Materialien:**  
-  - E-Mail der Geschäftsführung (Inventurauftrag) 📧
-  - Lieferschein  
+  - [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
+  - [📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)Lieferschein  
   - E-Mail des Steuerberaters 📧 
   - Reflexionsbogen
-
-[📄 E-Mail der Geschäftsführung ansehen](../materialien/Mail_Geschaeftsfuehrung.odt)
-
-[📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)
 
 ---
 
