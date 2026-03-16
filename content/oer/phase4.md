@@ -42,15 +42,16 @@ Die Auszubildenden verknüpfen ihre vorher erworbenen Kompetenzen in Buchhaltung
 Gleichzeitig werden kritisches Denken, Problemlösefähigkeit und reflektierte Entscheidungsfindung trainiert.
 Die Phase bereitet auf die abschließende Reflexion und Präsentation der Ergebnisse vor.
 
-- **🎯 Lernziele:**
-Nach Abschluss der Phase 4 sind die Auszubildenden in der Lage,
-  - verschiedene Informationsquellen systematisch zu verknüpfen, um ein Gesamtbild von Auffälligkeiten zu erstellen,
-  - Fehlbuchungen, Steueranomalien und Lagerbestandsdiskrepanzen zu erkennen und zu dokumentieren,
-  - verdächtige Geschäftsvorfälle fachlich korrekt zu verbuchen,
-  - die Auswirkungen von Manipulationen auf Unternehmenszahlen kritisch zu bewerten,
-  - Hypothesen über mögliche Ursachen und Verantwortlichkeiten abzuleiten,
-  - die Ergebnisse auf den eigenen Ausbildungsbetrieb zu übertragen und Transferfragen zu reflektieren,
-  - eine fundierte abschließende Analyse zu erstellen, die fachlich begründet Entscheidungen oder Empfehlungen enthält.
+> **🎯 Lernziele:**
+>
+> Nach Abschluss der Phase 4 sind die Auszubildenden in der Lage,
+>  - verschiedene Informationsquellen systematisch zu verknüpfen, um ein Gesamtbild von Auffälligkeiten zu erstellen,
+>  - Fehlbuchungen, Steueranomalien und Lagerbestandsdiskrepanzen zu erkennen und zu dokumentieren,
+>  - verdächtige Geschäftsvorfälle fachlich korrekt zu verbuchen,
+>  - die Auswirkungen von Manipulationen auf Unternehmenszahlen kritisch zu bewerten,
+>  - Hypothesen über mögliche Ursachen und Verantwortlichkeiten abzuleiten,
+>  - die Ergebnisse auf den eigenen Ausbildungsbetrieb zu übertragen und Transferfragen zu reflektieren,
+>  - eine fundierte abschließende Analyse zu erstellen, die fachlich begründet Entscheidungen oder Empfehlungen enthält.
 
 - **🧩 Aufträge an die Auszubildenden:**
   - Analyse fehlerhafter Belege und Kontoauszüge 🔍📁
