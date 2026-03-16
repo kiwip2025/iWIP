@@ -72,7 +72,7 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 
 ---
 
-# 1. Vorbereitung der Inventur
+### 1. Vorbereitung der Inventur
 
 ```
 🔍 Fall:
@@ -98,7 +98,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 ---
 
 
-# 2. Fehlende Laptops entdecken
+### 2. Fehlende Laptops entdecken
 
 ```
 🔍 Fall:
@@ -131,8 +131,10 @@ Inventurliste, Protokoll, Inventurergebnis
 
 ---
 
+
+### 3. Erinnerung an rechtliche Vorgaben
+
 ```
-3. Erinnerung an rechtliche Vorgaben
 🔍 Fall:
 - E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
 - Nun wird der Ablauf 
@@ -154,8 +156,10 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 ---
 
-```
-4. Prüfung der Lagerbewegungen 
+
+### 4. Prüfung der Lagerbewegungen
+
+ ```
 🔍 Fall:
 Lagerbewegungen werden geprüft.
 Zugangs-/Ausgangsbuch fehlt teilweise. 📉
