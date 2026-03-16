@@ -86,7 +86,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - die Inventur und das Inventar zu erläutern sowie
 - deren Bedeutung für die Bestandsaufnahme eines Unternehmens zu beschreiben.📦
 
-**🧩 Auftrag der SuS:**
+**🧩 Aufträge an die Auszubildenden:**
  - Lesen der Rundmail und Verständnis der Inventuraufgabe 
  - Planung der Zählvorgänge 
  - Vorbereitung des Lagerbereichs 📋
@@ -111,7 +111,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Abweichungen rechnerisch ermitteln und
 - Inventarlisten fachgerecht zu führen.
 
-**🧩 Auftrag der SuS:**
+**🧩 Aufträge an die Auszubildenden:**
  - Soll-/Ist-Vergleich durchführen 
  - Inventurergebnisse dokumentieren 
  - Abweichungen notieren
@@ -141,7 +141,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - die rechtlichen Anforderungen gemäß §240 HGB zu erläutern und
 - Maßnahmen der internen Kontrolle im Inventurprozess zu benennen.
 
-**🧩 Auftrag der SuS:** 
+**🧩 Aufträge an die Auszubildenden:** 
 - Gesetzliche Anforderungen prüfen 
 - Ablauf der Inventur rekonstruieren 
 - Diskussion über mögliche Ursachen starten 
@@ -163,7 +163,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Ein- und Ausgänge von Waren nachzuvollziehen und zu dokumentieren sowie
 - Unstimmigkeiten in der Lagerbuchführung zu identifizieren.   
 
-**🧩 Auftrag der SuS:**
+**🧩 Aufträge an die Auszubildenden:**
 - Fehlende Dokumente identifizieren 
 - Ein- und Ausgänge dokumentieren 
 - Checkliste zur Buchführung nutzen
@@ -186,7 +186,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Ursachen für Inventurdifferenzen systematisch zu analysieren und
 - betriebliche Abläufe auf Plausibilität zu prüfen.
 
-**🧩 Auftrag der SuS:** 
+**🧩 Aufträge an die Auszubildenden:** 
 - Kritische Fragen formulieren 
 - Plausibilitätsprüfung durchführen 
 - Betriebliche Abläufe hinterfragen
@@ -208,7 +208,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Inventurprozesse im eigenen Ausbildungsbetrieb zu untersuchen und
 - mit der Fallsituation zu vergleichen.
 
-**🧩 Auftrag der SuS:**
+**🧩 Aufträge an die Auszubildenden:**
 - Interview im Betrieb führen 
 - Abläufe mit der Story vergleichen 
 - Ergebnisse schriftlich oder als Präsentation festhalten
@@ -231,7 +231,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - betriebliche Abläufe kritisch zu bewerten und
 - daraus begründete Schlussfolgerungen für die weitere Untersuchung abzuleiten.
 
-**🧩 Auftrag der SuS:**
+**🧩 Aufträge an die Auszubildenden:**
 - Video ansehen und analysieren 
 - Hypothesen zum weiteren Verlauf der Story entwickeln 
 - Schlüsse für die nächste Phase ziehen
