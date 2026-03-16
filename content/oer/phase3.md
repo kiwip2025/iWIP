@@ -72,12 +72,13 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 
 ---
 
+# 1. Vorbereitung der Inventur
+
 ```
-1. Vorbereitung der Inventur
 🔍 Fall:
-Inventur steht an.
-Geschäftsleitung schickt Rundmail zur Vorbereitung. 
-Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
+- Inventur steht an.
+- Geschäftsleitung schickt Rundmail zur Vorbereitung. 
+- Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
 ```
 
 **🎯 Lernziel: Inventur-Grundlagen**
@@ -96,13 +97,15 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 ---
 
+
+# 2. Fehlende Laptops entdecken
+
 ```
-2. Fehlende Laptops entdecken
 🔍 Fall:
-Lager wird gezählt.
-Es fehlen 5 Laptops.
-Lieferschein sagt: Lieferung war vollständig.
-Diskussionen starten. 💻❌
+- Lager wird gezählt.
+- Es fehlen 5 Laptops.
+- Lieferschein sagt: Lieferung war vollständig.
+- Diskussionen starten. 💻❌
 ```
 
 **🎯 Lernziel: Soll-/Ist-Vergleich & Inventurdokumentation**
@@ -131,9 +134,9 @@ Inventurliste, Protokoll, Inventurergebnis
 ```
 3. Erinnerung an rechtliche Vorgaben
 🔍 Fall:
-E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
-Nun wird der Ablauf 
-rekonstruiert → Verdacht fällt auf Mitarbeitende.
+- E-Mail vom Steuerberater: Erinnerung an gesetzliche Vorgaben. 📧
+- Nun wird der Ablauf 
+- rekonstruiert → Verdacht fällt auf Mitarbeitende.
 ```
 
 **🎯 Lernziel: Rechtliche Anforderungen & interne Kontrolle**
