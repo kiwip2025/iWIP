@@ -109,6 +109,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 ```
 
 **🎯 Lernziel: Soll-/Ist-Vergleich & Inventurdokumentation**
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Soll- und Ist-Bestände zu vergleichen,
 - Abweichungen rechnerisch ermitteln und
@@ -161,11 +162,12 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
  ```
 🔍 Fall:
-Lagerbewegungen werden geprüft.
-Zugangs-/Ausgangsbuch fehlt teilweise. 📉
+- Lagerbewegungen werden geprüft.
+- Zugangs-/Ausgangsbuch fehlt teilweise. 📉
 ```
 
 **🎯 Lernziel: Lagerbuchführung & Warenbewegungen**
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Ein- und Ausgänge von Waren nachzuvollziehen und zu dokumentieren sowie
 - Unstimmigkeiten in der Lagerbuchführung zu identifizieren.   
@@ -180,15 +182,18 @@ Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
 
 ---
 
+
+### 5. Zweifel an offizieller Darstellung
+
 ```
-5. Zweifel an offizieller Darstellung
 🔍 Fall:
-Geschäftsleitung gibt sich ahnungslos.
-Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
+- Geschäftsleitung gibt sich ahnungslos.
+- Ein Mitarbeiter äußert Zweifel: „Wieso fehlen nur 
 teure Geräte?“ → Andeutung auf etwas Größeres. 🤔
 ```
 
 **🎯 Lernziel: Ursachenanalyse & Plausibilitätsprüfung**
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Ursachen für Inventurdifferenzen systematisch zu analysieren und
 - betriebliche Abläufe auf Plausibilität zu prüfen.
@@ -203,14 +208,17 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 ---
 
+
+### 6. Praxisbezug herstellen
+
 ```
-6. Praxisbezug herstellen 
 🔍 Fall:
-Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
+- Exkurs für Schüler: Untersucht die Logistik und Inventurprozesse in eurem 
 Ausbildungsbetrieb. 🏢
 ```
 
 **🎯 Lernziel: Praxisbezug & Transfer** 
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Inventurprozesse im eigenen Ausbildungsbetrieb zu untersuchen und
 - mit der Fallsituation zu vergleichen.
@@ -224,8 +232,10 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 ---
 
+
+### 7. Geheime Absprache
+
 ```
-7. Geheime Absprache 
 🔍 Fall:
 Kurzes Video zeigt Andeutung: Chef trifft sich heimlich mit unbekannter Person.
 Redet über kreative Buchführung. 🎥🕶️
@@ -233,6 +243,7 @@ Redet über kreative Buchführung. 🎥🕶️
 
 
 **🎯 Lernziel: Synthese & Vorbereitung Phase 4** 
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - die gewonnenen Erkenntnisse zusammenzuführen,
 - betriebliche Abläufe kritisch zu bewerten und
