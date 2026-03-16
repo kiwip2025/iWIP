@@ -85,8 +85,9 @@ werden dürfte (innergemeinschaftliche Lieferung). 💶⚖️
 
 **🎯 Lernziel:**
 
-Differenzierung von normalen und speziellen Warengeschäften und ihre korrekte 
-buchhalterische Behandlung. 📘
+Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
+- zwischen normalen und speziellen Warengeschäften zu differenzieren und
+- diese buchhalterisch korrekt zu erfassen. 📘
 
 **🧩 Aufträge an die Auszubildenden:**
 - Prüfen, ob die Buchungssätze korrekt sind 
