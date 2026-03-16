@@ -93,6 +93,14 @@ buchhalterische Behandlung. 📘
 - Erstellt richtige Buchungssätze mit Berücksichtigung von Skonto, Bezugskosten oder 
 Rücksendungen. 
 - Erklärt den Fehler bei der falschen USt-Ausweisung bei Exportgeschäften.
+
+**📚 Materialien:**
+
+**Fallakte / Auftragsmappe für die Azubis 🗂️** 
+- Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
+- Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
+- Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
+- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?
   
 ---
 
@@ -114,6 +122,17 @@ Unregelmäßigkeiten bei Steuerbuchungen. 📊
 - Stellt fest, ob Steuerverkürzung vorliegt. 
 - Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
 
+**📚 Materialien:**
+  
+**Beleg-Set (als Untersuchungsmaterial) 🗂️** 
+- Eingangsrechnungen (korrekte & fehlerhafte) 
+- Ausgangsrechnungen 
+- Kontoauszüge (mit privaten Überweisungen, seltsamen Barabhebungen) 
+- Lieferscheine & Inventarlisten 
+- Reisekostenbelege / Tankquittungen 
+- Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
+- USt-Voranmeldung (z. B. mit Lücken)
+
 ---
 
 
@@ -121,8 +140,9 @@ Unregelmäßigkeiten bei Steuerbuchungen. 📊
 
  ```
 🔍 Fall:
-Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
-Aufwandskonto). Ein Kauf von Druckerpapier wurde auf "BGA" statt auf "Büromaterial" 
+- Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
+Aufwandskonto).
+- Ein Kauf von Druckerpapier wurde auf "BGA" statt auf "Büromaterial" 
 gebucht. 🗂️
 ```
 
@@ -136,6 +156,13 @@ durch Kontenwahl. 🔎
 - Erstellt einen Belegvermerk, der die falsche Buchung erklärt. 
 - Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
 Privatentnahmen. 
+
+**📚 Materialien:**
+  
+**Buchungssatz-Karten oder -Arbeitsblätter 📝**
+- Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
+- Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
+- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
 
 ---
 
@@ -157,34 +184,16 @@ Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. ⚠️
 - Erklärt, warum dies betriebsfremd ist. 
 - Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
 
----
-
 **📚 Materialien:**
 
-**1. Fallakte / Auftragsmappe für die Azubis 🗂️** 
-- Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
-- Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
-- Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
-- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?
-  
-**2. Beleg-Set (als Untersuchungsmaterial) 🗂️** 
-- Eingangsrechnungen (korrekte & fehlerhafte) 
-- Ausgangsrechnungen 
-- Kontoauszüge (mit privaten Überweisungen, seltsamen Barabhebungen) 
-- Lieferscheine & Inventarlisten 
-- Reisekostenbelege / Tankquittungen 
-- Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
-- USt-Voranmeldung (z. B. mit Lücken)
-  
-**3. Buchungssatz-Karten oder -Arbeitsblätter 📝**
-- Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
-- Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
-- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
-  
-**4. Kontenübersicht / Auszug aus dem SKR04 🗃️**
+**Kontenübersicht / Auszug aus dem SKR04 🗃️**
 - Konten für Wareneinkauf/-verkauf, Vorsteuer/USt, Privatkonto, BGA, Bank, Kasse, etc. 
 - Als Tabelle oder Karteikartenformat 
 - Optional: Erklärung zu häufig verwechselten Konten
+
+---
+
+**📚 Materialien:**
   
 **5. Verdachtsprotokoll-Vorlage 📋**
 - strukturierte Vorlage mit Rubriken: 
