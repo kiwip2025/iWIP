@@ -59,5 +59,5 @@ _build:
 
 - **Tipps:**
   - Video *„Rolle des Wirtschaftsprüfers“* -> passendes Video selbst erstellen oder geeignete Plattformen nutzen
-  - theoretische Inhalte mit passender Fachliteratur vertiefen (Projekt nutze das Lehrbuch "Groß-und Außenhandelsmanagement" von Cornelsen 2021)
+  - theorethische Inhalte mit passender Fachliteratur vertiefen (Projekt verwendete Lehrbuch "Groß- und Außenhandelsmanagement" von Cornelsen 2021)
 
