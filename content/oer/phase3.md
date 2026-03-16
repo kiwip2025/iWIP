@@ -68,7 +68,7 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 ---
 
 > Im Folgenden werden die einzelnen Abschnitte der Phase 3 beschrieben. 
-> Für einen erfolgreichen Abschluss müssen sieben Teilprozesse durchlaufen werden, die nachfolgend dargestellt werden.
+> Für einen erfolgreichen Abschluss müssen sieben Teilprozesse durchlaufen werden, die nachfolgend dargestellt werden. 📋🔎
 
 ---
 
