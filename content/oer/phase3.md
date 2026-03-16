@@ -67,6 +67,11 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
 
 ---
 
+> Im Folgenden werden die einzelnen Abschnitte der Phase 3 beschrieben. 
+> Für einen erfolgreichen Abschluss müssen sieben Teilprozesse durchlaufen werden, die nachfolgend dargestellt werden.
+
+---
+
 ```
 1. Vorbereitung der Inventur
 🔍 Fall:
@@ -76,6 +81,7 @@ Lagerleiterin ist krank – Aushilfe übernimmt die Koordination. 🤒➡️👤
 ```
 
 **🎯 Lernziel: Inventur-Grundlagen**
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - die Inventur und das Inventar zu erläutern sowie
 - deren Bedeutung für die Bestandsaufnahme eines Unternehmens zu beschreiben.📦
