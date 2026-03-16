@@ -67,20 +67,28 @@ Die Phase bereitet auf die abschließende Reflexion und Präsentation der Ergebn
 
 ---
 
+> Im Folgenden werden die einzelnen Abschnitte der Phase 4 beschrieben. 
+> Für einen erfolgreichen Abschluss müssen vier Teilprozesse durchlaufen werden, die nachfolgend dargestellt werden. 📋🔎
+
+---
+
+
+### 1. Buchung von Warengeschäften
+
 ```
-1. Buchung von Warengeschäften
 🔍 Fall:
-Eine Buchung zeigt den Kauf von Waren mit einem 3 % Skonto – aber es fehlen Angaben 
+- Eine Buchung zeigt den Kauf von Waren mit einem 3 % Skonto – aber es fehlen Angaben 
 zu Skonto oder Lieferbedingungen. 
-Außerdem wird ein Exportgeschäft falsch verbucht, obwohl keine Umsatzsteuer ausgewiesen 
+- Außerdem wird ein Exportgeschäft falsch verbucht, obwohl keine Umsatzsteuer ausgewiesen 
 werden dürfte (innergemeinschaftliche Lieferung). 💶⚖️
 ```
 
 **🎯 Lernziel:**
+
 Differenzierung von normalen und speziellen Warengeschäften und ihre korrekte 
 buchhalterische Behandlung. 📘
 
-**🧩 Auftrag der Auszubildenden:**
+**🧩 Aufträge an die Auszubildenden:**
 - Prüfen, ob die Buchungssätze korrekt sind 
 - Erstellt richtige Buchungssätze mit Berücksichtigung von Skonto, Bezugskosten oder 
 Rücksendungen. 
@@ -88,26 +96,30 @@ Rücksendungen.
   
 ---
 
+### 2. Umsatzsteuer & Vorsteuer – Zahllast/ Vorsteuerüberhang
+
 ```
-2. Umsatzsteuer & Vorsteuer – Zahllast/ Vorsteuerüberhang 
 🔍 Fall:
-Eine Eingangsrechnung mit Vorsteuer wurde gebucht – aber nie bezahlt. Eine 
-Ausgangsrechnung wurde brutto auf Privatkonto gebucht.  
-Die Zahllast wurde nicht fristgerecht abgeführt. ⚠️
+- Eine Eingangsrechnung mit Vorsteuer wurde gebucht – aber nie bezahlt.
+- Eine Ausgangsrechnung wurde brutto auf Privatkonto gebucht.  
+- Die Zahllast wurde nicht fristgerecht abgeführt. ⚠️
 ```
 **🎯 Lernziel:**
+
 korrekte USt-/VSt-Buchung, Berechnung der Zahllast und Aufdecken von 
 Unregelmäßigkeiten bei Steuerbuchungen. 📊
 
-**🧩 Auftrag der Auszubildenden:**
+**🧩 Aufträge an die Auszubildenden:**
 - Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
 - Stellt fest, ob Steuerverkürzung vorliegt. 
 - Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
 
 ---
 
-```
-3. Arbeiten mit dem Kontenrahmen 
+
+### 3. Arbeiten mit dem Kontenrahmen
+
+ ```
 🔍 Fall:
 Einzelne Belege wurden auf falsche Konten gebucht (z. B. Privatkonto statt 
 Aufwandskonto). Ein Kauf von Druckerpapier wurde auf "BGA" statt auf "Büromaterial" 
@@ -115,10 +127,11 @@ gebucht. 🗂️
 ```
 
 **🎯 Lernziel:**
+
 Sicherheit im Umgang mit dem Kontenrahmen und das Erkennen von Manipulation 
 durch Kontenwahl. 🔎
 
-**🧩 Auftrag der Auszubildenden:**
+**🧩 Aufträge an die Auszubildenden:**
 - Ordnet die Buchungen den richtigen Konten im SKR04 zu. 
 - Erstellt einen Belegvermerk, der die falsche Buchung erklärt. 
 - Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
@@ -126,18 +139,20 @@ Privatentnahmen.
 
 ---
 
+### 4. Privatbuchungen
+
 ```
-4. Privatbuchungen 
 🔍 Fall:
-Es wurde ein Laptop auf Geschäftskosten gekauft, Lieferung an Privatadresse.  
-Mehrere Tankbelege ohne Firmenfahrzeugbezug wurden auf Reisekosten gebucht. 
-Geldabhebungen am Wochenende – auf "Repräsentation" gebucht. 💻⛽
+- Es wurde ein Laptop auf Geschäftskosten gekauft, Lieferung an Privatadresse.  
+- Mehrere Tankbelege ohne Firmenfahrzeugbezug wurden auf Reisekosten gebucht. 
+- Geldabhebungen am Wochenende – auf "Repräsentation" gebucht. 💻⛽
 ```
 
 **🎯 Lernziel:**
+
 Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. ⚠️
 
-**🧩 Auftrag der Auszubildenden:**
+**🧩 Aufträge an die Auszubildenden:**
 - Korrigiert diese Buchungen unter Einbezug des Privatkontos. 
 - Erklärt, warum dies betriebsfremd ist. 
 - Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
