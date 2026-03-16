@@ -55,7 +55,6 @@ _build:
 
 - **📚 Materialien:**
   - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
-  - Video *„Rolle des Wirtschaftsprüfers“* -> passendes Video selbst erstellen oder geeignete Plattformen nutzen
   - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
 
 - **Tipps:**
