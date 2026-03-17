@@ -115,8 +115,10 @@ Rücksendungen.
 ```
 **🎯 Lernziel:**
 
-korrekte USt-/VSt-Buchung, Berechnung der Zahllast und Aufdecken von 
-Unregelmäßigkeiten bei Steuerbuchungen. 📊
+Nach Abschluss der Phase 4 sind die Auszubildenden in der Lage,
+- Umsatzsteuer und Vorsteuer korrekt zu buchen,
+- die Zahllast ordnungsgemäß zu berechnen und
+- Unregelmäßigkeiten bei Steuerbuchungen zu erkennen. 📊
 
 **🧩 Aufträge an die Auszubildenden:**
 - Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
