@@ -61,10 +61,6 @@ Die Phase bereitet auf die abschließende Reflexion und Präsentation der Ergebn
   - Durchführung eines Praxisexkurses: Inventur im eigenen Ausbildungsbetrieb durchführen und mit der Story vergleichen
   - Dokumentation und Präsentation der Ergebnisse
 
-- **📚 Materialien:**  
-  - Weitere fehlerhafte Belege  
-  - Übersichten zu Zugriffs- und Buchungsberechtigungen
-
 ---
 
 > Im Folgenden werden die einzelnen Abschnitte der Phase 4 beschrieben. 
@@ -94,14 +90,6 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Erstellt richtige Buchungssätze mit Berücksichtigung von Skonto, Bezugskosten oder 
 Rücksendungen. 
 - Erklärt den Fehler bei der falschen USt-Ausweisung bei Exportgeschäften.
-
-**📚 Materialien:**
-
-**Fallakte / Auftragsmappe für die Azubis 🗂️** 
-- Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
-- Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
-- Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
-- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?
   
 ---
 
@@ -124,17 +112,6 @@ Nach Abschluss der Phase 4 sind die Auszubildenden in der Lage,
 - Ermittelt die Zahllast bzw. den Vorsteuerüberhang für den Monat. 
 - Stellt fest, ob Steuerverkürzung vorliegt. 
 - Prüft, ob Belege korrekt mit USt/VSt erfasst wurden.
-
-**📚 Materialien:**
-  
-**Beleg-Set (als Untersuchungsmaterial) 🗂️** 
-- Eingangsrechnungen (korrekte & fehlerhafte) 
-- Ausgangsrechnungen 
-- Kontoauszüge (mit privaten Überweisungen, seltsamen Barabhebungen) 
-- Lieferscheine & Inventarlisten 
-- Reisekostenbelege / Tankquittungen 
-- Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
-- USt-Voranmeldung (z. B. mit Lücken)
 
 ---
 
@@ -161,13 +138,6 @@ Nach Abschluss der Phase sind die Auszubildenden in der Lage,
 - Leitet mögliche Absichten ab: z. B. steuerlicher Vorteil, Verschleierung von 
 Privatentnahmen. 
 
-**📚 Materialien:**
-  
-**Buchungssatz-Karten oder -Arbeitsblätter 📝**
-- Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
-- Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
-- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
-
 ---
 
 ### 4. Privatbuchungen
@@ -190,17 +160,35 @@ Nach Abschluss der Phase sind die Auszubildenden in der Lage,
 - Erklärt, warum dies betriebsfremd ist. 
 - Diskutiert steuerliche Konsequenzen und mögliche strafrechtliche Folgen. 
 
-**📚 Materialien:**
+---
 
-**Kontenübersicht / Auszug aus dem SKR04 🗃️**
+**📚 Materialien für alle Phasen:**
+
+**1. Fallakte / Auftragsmappe für die Azubis 🗂️** 
+- Auftragsbeschreibung (Brief des Kunden / Mandanten, z. B. Bayerisches Papierkontor) 
+- Einführungstext zur „heißen Spur“ (mit Kontext, Zielsetzung, Rolle der Azubis) 
+- Fallhintergrund: z. B. Chronologie der Auffälligkeiten 
+- Bearbeitungshinweise (Was wird erwartet? In welcher Rolle handeln die SuS?)
+
+**2. Beleg-Set (als Untersuchungsmaterial) 🗂️** 
+- Eingangsrechnungen (korrekte & fehlerhafte) 
+- Ausgangsrechnungen 
+- Kontoauszüge (mit privaten Überweisungen, seltsamen Barabhebungen) 
+- Lieferscheine & Inventarlisten 
+- Reisekostenbelege / Tankquittungen 
+- Anlagegüter-Käufe (z. B. teurer Bürostuhl mit Lieferanschrift = Privatadresse) 
+- USt-Voranmeldung (z. B. mit Lücken)
+
+**3. Buchungssatz-Karten oder -Arbeitsblätter 📝**
+- Unvollständige / fehlerhafte Buchungssätze (zur Korrektur) 
+- Buchungssätze mit Auswahloptionen (Multiple Choice, Zuordnung) 
+- Spezialfälle wie Skonto, innergemeinschaftliche Lieferung, Privatentnahmen
+
+**4. Kontenübersicht / Auszug aus dem SKR04 🗃️**
 - Konten für Wareneinkauf/-verkauf, Vorsteuer/USt, Privatkonto, BGA, Bank, Kasse, etc. 
 - Als Tabelle oder Karteikartenformat 
 - Optional: Erklärung zu häufig verwechselten Konten
 
----
-
-**📚 Materialien:**
-  
 **5. Verdachtsprotokoll-Vorlage 📋**
 - strukturierte Vorlage mit Rubriken: 
 - Belegnummer / Buchung 
