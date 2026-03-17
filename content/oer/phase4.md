@@ -151,8 +151,9 @@ gebucht. 🗂️
 
 **🎯 Lernziel:**
 
-Sicherheit im Umgang mit dem Kontenrahmen und das Erkennen von Manipulation 
-durch Kontenwahl. 🔎
+Nach Abschluss der Phase sind die Auszubildenden in der Lage,
+- sicher mit dem Kontenrahmen zu arbeiten und
+- Manipulationen durch gezielte Kontenwahl zu erkennen. 🔎
 
 **🧩 Aufträge an die Auszubildenden:**
 - Ordnet die Buchungen den richtigen Konten im SKR04 zu. 
@@ -180,7 +181,9 @@ Privatentnahmen.
 
 **🎯 Lernziel:**
 
-Erkennen und korrekte Behandlung von Privatentnahmen in der Buchführung. ⚠️
+Nach Abschluss der Phase sind die Auszubildenden in der Lage,
+- Privatentnahmen in der Buchführung zu erkennen und
+- diese korrekt zu verbuchen. ⚠️
 
 **🧩 Aufträge an die Auszubildenden:**
 - Korrigiert diese Buchungen unter Einbezug des Privatkontos. 
