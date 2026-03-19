@@ -85,14 +85,5 @@ Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermit
 
 ---
 
-# 🔄 Reflexionsimpulse
-
-- Welche fachlichen Zusammenhänge habe ich besser verstanden?
-- Welche Rolle habe ich übernommen – und wie sicher fühlte ich mich darin?
-- Wo gab es Unsicherheiten im Buchungsprozess?
-- Welche Maßnahmen würden zukünftige Fehler verhindern?
-
----
-
 **Ziel des Projekts:**  
 Die Verbindung von fachlicher Buchführungskompetenz mit Analyse-, Reflexions- und Präsentationsfähigkeiten in einem realitätsnahen Handlungsszenario.
