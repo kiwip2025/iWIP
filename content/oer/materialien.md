@@ -31,8 +31,13 @@ Hier findest du alle Materialien nach Phasen sortiert.
 - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
 - [Arbeitsblatt Wertströme analysieren_ohne Lösung](../materialien/arbeitsblatt_wertstroeme_ohne_Lösung.odt)
 - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf)
+  
 ## 🟢 Phase 2
-- []
+- Fiktives Belegset (realitätsnahe, fiktive Belege: Erstellung durch ChatGPT: [Eingangs-](../materialien/ER.png), [Ausgangsrechnungen](../materialien/AR.png), [Kassenbelege](../materialien/KB.png))
+- [Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝](../materialien/arbeitsblatt_belegablauf_geschaeftsvorfaelle.odt)
+- [Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑](../materialien/Ermittlungsprotokoll_BPK.ods)
+- [T-Konten-Darstellungen zur Visualisierung](../materialien/T-Konten.odt)
+  
 ## 🟢 Phase 3
 ## 🟢 Phase 4
 ## 🟢 Phase 5
