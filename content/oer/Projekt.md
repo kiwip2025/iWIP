@@ -147,26 +147,6 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 <a id="Materialien-und-Ressourcen"></a>
 ## Materialien und Ressourcen 📦
 
-**📝 Arbeitsblätter:**
--	Arbeitsblatt "Wertströme analysieren" (Anhang 1)
--	Reflexionsbogen (Anhang 5)
--	Exkurs Betriebe (Anhang 6)
-
-**💬 Kommunikationsmittel:**
--	E-Mail der Geschäftsführung (Anhang 2)
--	E-Mail Steuerberater (Anhang 4)
-
-**📄 Belege & Dokumente:**
--	Lieferschein (Anhang 3)
--	(Ggf. weitere fiktive Belege, die im Storyboard detailliert werden)
-
-**🎬 Medien:**
--	Skript zum "Geheimvideo" (Anhang 7)
--	(Ggf. Links zu externen Tools/Simulationen, die verwendet werden könnten)
-
-**🗂️ Unterrichtsverlaufsplan:**
--	Tabelle 1: Unterrichtsverlaufsplan UE „Wertströme analysieren“ (Anhang 8)
-
 > ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs und OpenDocument)
 
 Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
