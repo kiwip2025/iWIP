@@ -53,7 +53,7 @@ Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermit
   - [Skript für Gerichtsverhandlung](../materialien/Skript_für_Gerichtsverhandlung.odt) 
   - Abschlussbericht-Vorlage mit Leitfragen 
   - Präsentationsauftrag (Gruppenarbeit)
-  - [Bewertungsraster für „Verhandlung“/Jury-Bewertung](../materialien/Bewertungsraster.odt)
+  - [Bewertungsraster für „Verhandlung“/Jury-Bewertung](../materialien/Bewertungsraster_BPK.odt)
   - [Reflexionsbogen: eigene Rolle und Lernentwicklung](../materialien/Reflexionsblatt_Gerichtsverhandlung.odt)  
   - Beispielhafte Abschlussunterlagen (EBK, SBK, Bilanz)
   - [Rollenkarten für Gerichtsverhandlung (Richter:in, Wirtschaftsprüfer:in, Vorstand, Steuerberater:in etc.)](../materialien/Rollenkarten_BPK.odt)
