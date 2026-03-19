@@ -70,14 +70,6 @@ Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermit
 
 ---
 
-> **🎯 Lernziele**
-> - Fähigkeit zur Darstellung komplexer buchhalterischer Sachverhalte
-> - Anwendung von Kennzahlen zur Erfolgsbeurteilung
-> - Entwicklung von Reflexions- und Präsentationskompetenz 🎤🧠
-> - Verknüpfung von Theorie, Praxis und Handlung sowie Sensibilisierung für GoB und interne Kontrollmaßnahmen 🔗⚠️
-
----
-
 # 🧾 Materialien für die Durchführung
 
 - Gerichtskulisse (optional: Tische, Namensschilder, „Richterhammer“)
@@ -90,18 +82,6 @@ Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermit
   - Fachliche Qualität
   - Darstellung
   - Argumentation
-
----
-
-# ✅ Bewertungsdimensionen (Beispiel)
-
-| Kriterium | Beschreibung |
-|------------|-------------|
-| Fachliche Richtigkeit | Korrekte Anwendung von EBK, SBK, Bilanz & Kennzahlen |
-| Analysefähigkeit | Identifikation und Begründung von Fehlern |
-| Argumentation | Logische, nachvollziehbare Darstellung |
-| Präsentation | Struktur, Sprache, Visualisierung |
-| Reflexion | Kritische Auseinandersetzung mit dem eigenen Vorgehen |
 
 ---
 
