@@ -61,10 +61,9 @@ Phase 5 wird die abschließende Reflexion, Präsentation und Bewertung der Ermit
 
 ---
 
- # 🛠️ Methoden
+#### Endergebnis des Unterrichtsprojekts:
 
-- 🎭 Rollenspiel: Gerichtsverhandlung oder Aufsichtsratssitzung
-- 📊 Präsentation & Feedback (analog oder digital)
-- 👥 Peer-Evaluation
-- 💬 Reflexionsgespräch (einzeln oder in Gruppen)
-
+> - Am Ende des Projekts verfügen die Auszubildenden über ein vernetztes Verständnis zentraler Inhalte des Rechnungswesens und sind in der Lage, betriebliche Problemstellungen eigenständig und systematisch zu analysieren.
+> - Sie können Buchführungsprozesse sicher anwenden, Belege und Geschäftsvorfälle fachgerecht auswerten sowie Unregelmäßigkeiten in Inventur, Buchungen und Steuerprozessen erkennen und begründet bewerten. Darüber hinaus sind sie befähigt, mögliche Ursachen für Abweichungen abzuleiten und geeignete Maßnahmen im Sinne ordnungsmäßiger Buchführung (GoB) und interner Kontrollsysteme zu entwickeln.
+> - Im Rahmen der abschließenden Präsentation haben die Auszubildenden ihre Ergebnisse adressatengerecht aufbereitet, argumentativ vertreten und reflektiert. Dabei konnten sie ihre fachlichen, methodischen und kommunikativen Kompetenzen miteinander verknüpfen und auf praxisnahe Handlungssituationen übertragen.
+> - Damit sind sie in der Lage, typische Aufgaben der Wirtschaftsprüfung und Buchführung im beruflichen Kontext fundiert und verantwortungsbewusst zu bewältigen.
