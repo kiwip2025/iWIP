@@ -183,22 +183,13 @@ Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
 <a id="Überarbeitung-des-Storyboards"></a>
 ## Überarbeitung des Storyboards
 
-Jede Phase wurde hinsichtlich ihrer **didaktischen Funktion**, der **Lernziele**, des jeweiligen **Story-Elements** sowie der **Aufträge an die Schülerinnen und Schüler (SuS)** präzisiert und systematisch ausgearbeitet. Um besser in die Rollen und Themen einzusteigen werden die Unternehmen und Personengruppen zu Beginn der Arbeitsphasen erklärt und veraunschaulicht. Dies ermöglicht den SuS eine realitätsnahe durchführung der Phasen.
-Die Lernziele wurden klarer und operationalisierbar formuliert.
-Die zugehörigen Materialien wurden strukturiert in den Anhang aufgenommen.
-Im Bereich Reflexion und Evaluation wurden ergänzend Möglichkeiten zur Selbst- und Fremdreflexion sowie ein Evaluationsbogen integriert.
-Zusätzlich wurde ein Comic´s für das Storyboard erstellt. 
-
-*Folgen der Überarbeitung:*
-
-- Der Kompetenzzuwachs der Lernenden wird transparenter und nachvollziehbarer.
-- Rollen und Aufgabenbereiche können tiefgründiger erfasst werden
-- Die einzelnen Phasen sind stärker miteinander verzahnt; Übergänge wurden gezielt didaktisch gestaltet.
-- Die Übersichtlichkeit der Unterrichtskonzeption wurde verbessert.
-- Der Lernprozess der Auszubildenden wird sichtbar und reflektierbar gemacht.
-- Das Storyboard wird durch die Bilder anschaulicher gestaltet.
-- Die Unternehmen werden am Anfang kurz vorgestellt, damit die einzunehmenden Rollen ersichtlich sind.
-
+- Jede Phase wurde hinsichtlich ihrer **didaktischen Funktion**, der **Lernziele**, des jeweiligen **Story-Elements** sowie der **Aufträge an die Schülerinnen und Schüler (SuS)** präzisiert und systematisch ausgearbeitet. Dadurch wird der Kompetenzzuwachs der Lernenden transparenter und nachvollziehbarer.
+- Um besser in die Rollen und Themen einzusteigen werden die Unternehmen und Personengruppen zu Beginn der Arbeitsphasen erklärt und veraunschaulicht. Dies ermöglicht den SuS eine realitätsnahe Durchführung der Phasen.
+- Die Lernziele wurden klarer und operationalisierbar formuliert.
+- Die zugehörigen Materialien wurden strukturiert in den Phasen integriert.
+- Ergänzend wurden Möglichkeiten zur Selbst- und Fremdreflexion sowie ein Evaluationsbogen entwickelt.
+- Zur besseren Veranschaulichung wurden zusätzlich ein Comic für das Storyboard erstellt.
+- Übergänge zwischen den Phasen wurden mit eingebaut, um die Story miteinander zu verzahnen und die Überleitung für die Lernenden zu erleichtern.
 ---
 
 <a id="Literaturverzeichnis"></a>
