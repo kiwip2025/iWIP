@@ -46,7 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
 - [Reflexion und Ausblick 🔎](#Reflexion-und-Ausblick)
 - [Überarbeitung des Storyboards](#Überarbeitung-des-Storyboards)
 - [Literaturverzeichnis](#Literaturverzeichnis)
-- [Kontakt](#Kontakt)
 
 ---
 
