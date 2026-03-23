@@ -142,6 +142,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 ```
 
 **🎯 Lernziel: Rechtliche Anforderungen & interne Kontrolle**
+
 Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - die rechtlichen Anforderungen gemäß §240 HGB zu erläutern und
 - Maßnahmen der internen Kontrolle im Inventurprozess zu benennen.
