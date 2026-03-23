@@ -47,7 +47,7 @@ _build:
 > - ihre Rolle als Wirtschaftsprüfer:innen begründet einzunehmen und
 > - grundlegende Wertströme des Unternehmens BPK zu erkennen und zu beschreiben.
    
-- **🧩 Aufträge an die Auszubildenden**
+- **🧩 Aufträge an die Auszubildenden:**
   - Vorstellung der beteiligten Unternehmen und der wirtschaftlichen Ausgangssituation (BPK schreibt rote Zahlen)
   - Klärung des Auftrags an die Wirtschaftsprüfung
   - Auseinandersetzung mit der Rolle des Wirtschaftsprüfers
