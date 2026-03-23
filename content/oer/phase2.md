@@ -68,3 +68,11 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
   - Erklärvideo: Buchung einfacher Geschäftsvorfälle 🎥 (Video selbst erstellen oder andere Plattformen nutzen -> Bsp. mit Creative Commons Attribution 3.0 Unported License [Video zum Belegablauf im Rechnungswesen ansehen](https://www.youtube.com/watch?v=DBuOeSSROW4)
   - SKR04-Kontenrahmen -> selbst eine Übersicht erstellen oder andere Quellen nutzen
   - theorethische Inhalte mit passender Fachliteratur vertiefen (Projekt verwendete Lehrbuch "Groß- und Außenhandelsmanagement" von Cornelsen 2021)
+ 
+---
+
+#### Übergang Phase 2 → Phase 3:
+
+> Nachdem die Auszubildenden in Phase 2 grundlegende buchhalterische Kompetenzen aufgebaut und erste Auffälligkeiten in den Belegen identifiziert sowie dokumentiert haben, verdichten sich die Hinweise auf Unregelmäßigkeiten innerhalb des Unternehmens.
+> Die bisherigen Analysen zeigen, dass einzelne Geschäftsvorfälle nicht plausibel erscheinen und weiterer Klärungsbedarf besteht. Um die Ursachen dieser Auffälligkeiten genauer zu untersuchen, wird der Fokus nun auf die Bestandsprüfung im Lager gerichtet.
+> In [Phase 3](/iWIP/oer/phase3/) rückt damit die Inventur als zentrales Instrument der Aufklärung in den Mittelpunkt. Durch den Soll-Ist-Vergleich werden Abweichungen sichtbar gemacht und erstmals konkret quantifiziert. Die Entdeckung fehlender Laptops sowie neue Hinweise aus dem Unternehmensumfeld verschärfen die Situation und leiten in eine vertiefte, problemorientierte Analyse über.
