@@ -67,7 +67,7 @@ _build:
 
 > Nachdem die Auszubildenden in Phase 1 einen Einblick in die wirtschaftliche Situation der BPK erhalten und ihre Rolle als Wirtschaftsprüfer:innen eingenommen haben, wird deutlich, dass erste Unstimmigkeiten vorliegen, deren Ursachen bislang ungeklärt sind.
 > Um diese Auffälligkeiten systematisch untersuchen zu können, benötigen die Auszubildenden nun ein fundiertes buchhalterisches Verständnis sowie die Fähigkeit, Geschäftsvorfälle anhand von Belegen korrekt zu analysieren und zu erfassen.
-> Daher beginnt in Phase 2 die konkrete Ermittlungsarbeit: Die vorliegenden Unterlagen werden gesichtet, strukturiert ausgewertet und erste Auffälligkeiten fachlich eingeordnet. Damit wechseln die Auszubildenden von der orientierenden Analyse in eine aktive, fachlich fundierte Prüfungsphase.
+> Daher beginnt in [Phase 2](/iWIP/oer/phase2/) die konkrete Ermittlungsarbeit: Die vorliegenden Unterlagen werden gesichtet, strukturiert ausgewertet und erste Auffälligkeiten fachlich eingeordnet. Damit wechseln die Auszubildenden von der orientierenden Analyse in eine aktive, fachlich fundierte Prüfungsphase.
 
 
 
