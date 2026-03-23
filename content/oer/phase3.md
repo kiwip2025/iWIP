@@ -153,7 +153,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Diskussion über mögliche Ursachen starten 
 
 **📚 Material:**
-[E-Mail](../materialien/Mail_Steuerberater_in.odt), Inventarbeispiele, Rollenkarten für Diskussionsrunde 
+[E-Mail](../materialien/Mail_Steuerberater_in.odt), [Inventarbeispiel](../materialien/Inventar_Fallbeispiel_BPK.odt), Rollenkarten für Diskussionsrunde 
 
 ---
 
