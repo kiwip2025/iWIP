@@ -197,7 +197,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Betriebliche Abläufe hinterfragen
 
 **📚 Material:**
-[Reflexionsbogen](../materialien/Reflexionsbogen.odt), Verdachtsnotiz eines Mitarbeiters 
+[Reflexionsbogen](../materialien/Reflexionsbogen.odt) 
 
 ---
 
