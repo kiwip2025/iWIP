@@ -147,7 +147,7 @@ Der folgende Comic visualisiert das didaktische Krimi-Szenario zur Vermittlung v
 <a id="Materialien-und-Ressourcen"></a>
 ## Materialien und Ressourcen 📦
 
-> ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als PDFs und OpenDocument)
+> ⬇️ Downloadbereich: Bietet alle Materialien zum Herunterladen an (als OpenDocument)
 
 Alle Materialien zum Projekt findest du gesammelt im Download-Bereich:
 
