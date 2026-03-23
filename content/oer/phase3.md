@@ -57,13 +57,6 @@ Zugleich wird durch den Praxisexkurs der Transfer in den Ausbildungsbetrieb ange
   - Analyse möglicher Ursachen für die Inventurdifferenzen
   - Auseinandersetzung mit den gesetzlichen Anforderungen gemäß HGB ⚖️
   - Auswertung des „Geheimvideos“ und Ableitung von Hypothesen für die weitere Ermittlung 🔍
- 
-    
-- **📚 Materialien:**  
-  - [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
-  - [📄 Lieferschein ansehen](../materialien/Anhang_3_Lieferschein.odt)
-  - [E-Mail des Steuerberaters 📧](../materialien/Mail_Steuerberater_in.odt) 
-  - [Reflexionsbogen](../materialien/Reflexionsbogen.odt)
 
 ---
 
