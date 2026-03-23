@@ -202,3 +202,11 @@ Nach Abschluss der Phase sind die Auszubildenden in der Lage,
 - Zusammenfassung der wichtigsten Erkenntnisse aus der Fallbearbeitung 
 - Präsentationsauftrag für die Gruppen: „Wie würden Sie dem Kunden den Fall 
 erklären?“ 🎤📊
+
+---
+
+#### Übergang Phase 4 → Phase 5:
+
+> - Nachdem die Auszubildenden in Phase 4 die vorliegenden Daten umfassend analysiert, Auffälligkeiten systematisch aufgedeckt und mögliche Ursachen sowie Verantwortlichkeiten herausgearbeitet haben, liegt nun ein differenziertes Gesamtbild der Situation im Unternehmen vor.
+> - Die gewonnenen Erkenntnisse müssen jedoch nicht nur dokumentiert, sondern auch fachlich fundiert bewertet und adressatengerecht aufbereitet werden.
+> - Daher mündet die Ermittlungsarbeit in Phase 5 in eine abschließende Präsentations- und Reflexionsphase: Die Auszubildenden treten in einer simulierten Verhandlung vor den „Aufsichtsrat“ und stellen ihre Ergebnisse dar, begründen ihre Schlussfolgerungen und entwickeln konkrete Handlungsempfehlungen. Damit wird der gesamte Analyseprozess abgeschlossen und in eine bewertende sowie reflektierende Perspektive überführt.
