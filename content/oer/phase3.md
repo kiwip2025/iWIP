@@ -301,6 +301,11 @@ Abblende auf Schwarz.
 
 – Fortsetzung folgt – 
 
+---
 
+#### Übergang Phase 3 → Phase 4:
 
+> Nachdem die Auszubildenden in Phase 3 im Rahmen der Inventur deutliche Soll-Ist-Abweichungen festgestellt und erste Hypothesen zu möglichen Ursachen entwickelt haben, verdichten sich die Hinweise auf tiefergehende Unregelmäßigkeiten im Unternehmen.
+> Die fehlenden Laptops sowie die Erkenntnisse aus dem „Geheimvideo“ legen nahe, dass es sich nicht nur um vereinzelte Fehler, sondern möglicherweise um systematische Manipulationen handelt.
+> Um diese Vermutung zu überprüfen, wird der Fokus nun auf eine umfassende Analyse aller relevanten Unterlagen ausgeweitet. In [Phase 4](/iWIP/oer/phase4/) führen die Auszubildenden ihre bisherigen Erkenntnisse aus Beleganalyse, Buchführung und Inventur zusammen und untersuchen gezielt komplexe Auffälligkeiten in Warengeschäften, Steuerbuchungen und privaten Entnahmen. Damit erreichen die Ermittlungen ihren inhaltlichen Höhepunkt und münden in eine fundierte Gesamtbewertung des Falls.
 
