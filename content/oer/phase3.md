@@ -178,7 +178,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 **📚 Material:**
 - [Lagerzugangsprotokoll](../materialien/Lagerzugangsprotokoll.odt),
-- Lagerbuchauszug,
+- [Lagerbuchauszug](../materialien/Lagerbuchauszug.odt),
 - Checkliste Buchführung
 
 ---
