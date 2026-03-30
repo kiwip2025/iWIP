@@ -150,7 +150,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 **📚 Material:**
 - [E-Mail](../materialien/Mail_Steuerberater_in.odt),
-- [Inventarbeispiel](../materialien/Inventar_Fallbeispiel_BPK.odt),
+- [Inventarbeispiel](../materialien/Inventar_Fallbeispiel.odt),
 - [Rollenkarten für Diskussionsrunde](../materialien/Rollenkarten_Diskussion.odt) 
 
 ---
