@@ -87,6 +87,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 
 **📚 Material:**
 [E-Mail der Geschäftsführung (Inventurauftrag) 📧](../materialien/Mail_Geschaeftsfuehrung.odt)
+[Arbeitsblatt Inventur & Inventar](../materialien/Arbeitsblatt_Inventur_Inventar.odt)
 
 ---
 
