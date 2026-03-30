@@ -116,9 +116,9 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
  - Abweichungen notieren
 
 **📚 Material:** 
-- [Inventurliste, Protokoll, Inventurergebnis](../materialien/Inventurliste_Protokoll_Inventurergebnis.odt) 
 - [*Lieferschein:*](../materialien/Lieferschein.odt) oder
 - alternativ als [Bild](../materialien/Lieferschein.png)
+- [Inventurliste, Protokoll, Inventurergebnis](../materialien/Inventurliste_Protokoll_Inventurergebnis.odt) 
 
 
 | Artikel-Nr.   | Produkt  | Bestand laut System   | Bestand laut Zählung  | Abweichung |
