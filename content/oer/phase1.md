@@ -54,7 +54,7 @@ _build:
   - Analyse der Wertströme des Unternehmens (erkennen und erläutern) 🔍
 
 - **📚 Materialien:**
-  - [Arbeitsblatt Wertströme analysieren](../materialien/arbeitsblatt_wertstroeme.odt)
+  - [Arbeitsblatt Wertströme analysieren](../materialien/Arbeitsblatt_Wertstroeme.odt)
   - [📄 Steckbriefe Unternehmen ansehen](../materialien/steckbrief_unternehmen.pdf) 🗂️
 
 - **Tipps:**
