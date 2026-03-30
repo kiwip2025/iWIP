@@ -60,7 +60,7 @@ Zugleich werden sie für mögliche Unregelmäßigkeiten sensibilisiert und an ei
 
 - **📚 Materialien:**  
   - Fiktives Belegset (realitätsnahe, fiktive Belege: Erstellung durch ChatGPT: [Eingangs-](../materialien/ER.png), [Ausgangsrechnungen](../materialien/AR.png), [Kassenbelege](../materialien/KB.png))
-  - [Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝](../materialien/arbeitsblatt_belegablauf_geschaeftsvorfaelle.odt)
+  - [Arbeitsblatt: Belegablauf + Zuordnung zu Geschäftsvorfällen 📝](../materialien/Arbeitsblatt_Belegablauf_Geschaeftsvorfaelle.odt)
   - [Ermittlungsprotokoll-Vorlage (für Gruppenarbeit) 📑](../materialien/Ermittlungsprotokoll_BPK.odt)
   - [T-Konten-Darstellungen zur Visualisierung](../materialien/T-Konten.odt)
  
