@@ -176,7 +176,9 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 - Checkliste zur Buchführung nutzen
 
 **📚 Material:**
-Lagerzugangsprotokoll, Lagerbuchauszug, Checkliste Buchführung
+- [Lagerzugangsprotokoll](../materialien/Lagerzugangsprotokoll.odt),
+- Lagerbuchauszug,
+- Checkliste Buchführung
 
 ---
 
