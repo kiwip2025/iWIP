@@ -118,7 +118,7 @@ Nach Abschluss des Teilschrittes sind die Auszubildenden in der Lage,
 **📚 Material:** 
 - [*Lieferschein:*](../materialien/Lieferschein.odt) oder
 - alternativ als [Bild](../materialien/Lieferschein.png)
-- [Inventurliste, Protokoll, Inventurergebnis](../materialien/Inventurliste_Protokoll_Inventurergebnis.odt) 
+- [Inventurliste, Protokoll, Inventurergebnis](../materialien/Inventurliste.odt)
 
 
 
